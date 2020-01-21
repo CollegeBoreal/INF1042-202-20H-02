@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 17 13:09:31 2020
+Created on Tue Jan 21 14:35:32 2020
 
 @author: User
 """
@@ -35,4 +35,3 @@ my_list = [ 5, 7, 11, 14, 19, 20, 25 ]
 print( binary_search ( my_list, 25))
         
 print( binary_search ( my_list, -1))
-        
