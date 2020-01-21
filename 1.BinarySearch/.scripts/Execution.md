@@ -1,4 +1,4 @@
-# Execution au 20-01-2020 16:43
+# Execution au 21-01-2020 15:35
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -11,10 +11,7 @@ None
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-  File "b300115065.py", line 1
-    Created on Wed Jan 15 15:28:59 2020
-             ^
-SyntaxError: invalid syntax
+2
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -64,17 +61,17 @@ python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-2
+Traceback (most recent call last):
+  File "b300117178.py", line 22, in <module>
+    print(binary_seach(my_list,11))
+NameError: name 'binary_seach' is not defined
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-  File "b300117314.py", line 25
-    pas fini !!!!!!!!!
-           ^
-SyntaxError: invalid syntax
+6
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -127,9 +124,7 @@ None
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-  File "b300118524.py", line 19
-    return item
-    ^
-IndentationError: expected an indented block
+6
+None
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 

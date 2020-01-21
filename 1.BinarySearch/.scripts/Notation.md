@@ -1,24 +1,18 @@
-# Correction au 20-01-2020 16:43
+# Correction au 21-01-2020 15:35
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
 6
 None
-Traceback (most recent call last):
-  File ".scripts/b300111441.spec.py", line 2, in <module>
-    from b300111441 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300111441' (./b300111441.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300111441 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Correction du script 300115065 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300115065.spec.py", line 2, in <module>
-    from b300115065 import binary_search
-  File "./b300115065.py", line 1
-    Created on Wed Jan 15 15:28:59 2020
-             ^
-SyntaxError: invalid syntax
+2
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300115065 =============== 
 
 ## Etudiant 300115140 
@@ -69,22 +63,19 @@ ModuleNotFoundError: No module named 'b300116685'
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Correction du script 300117178 =============== 
-2
 Traceback (most recent call last):
   File ".scripts/b300117178.spec.py", line 2, in <module>
     from b300117178 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300117178' (./b300117178.py)
+  File "./b300117178.py", line 22, in <module>
+    print(binary_seach(my_list,11))
+NameError: name 'binary_seach' is not defined
 ###  =[END]============== Correction du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Correction du script 300117314 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117314.spec.py", line 2, in <module>
-    from b300117314 import binary_search
-  File "./b300117314.py", line 25
-    pas fini !!!!!!!!!
-           ^
-SyntaxError: invalid syntax
+6
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117314 =============== 
 
 ## Etudiant 300117444 
@@ -107,30 +98,24 @@ None
 ###  =[BEGIN]============== Correction du script 300117782 =============== 
 6
 None
-Traceback (most recent call last):
-  File ".scripts/b300117782.spec.py", line 2, in <module>
-    from b300117782 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300117782' (./b300117782.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Correction du script 300117784 =============== 
 6
 None
-Traceback (most recent call last):
-  File ".scripts/b300117784.spec.py", line 2, in <module>
-    from b300117784 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300117784' (./b300117784.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Correction du script 300117806 =============== 
 5
 None
-Traceback (most recent call last):
-  File ".scripts/b300117806.spec.py", line 2, in <module>
-    from b300117806 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300117806' (./b300117806.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117806 =============== 
 
 ## Etudiant 300118196 
@@ -142,11 +127,8 @@ ImportError: cannot import name 'binary_search' from 'b300117806' (./b300117806.
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Correction du script 300118524 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300118524.spec.py", line 2, in <module>
-    from b300118524 import binary_search
-  File "./b300118524.py", line 19
-    return item
-    ^
-IndentationError: expected an indented block
+6
+None
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300118524 =============== 
