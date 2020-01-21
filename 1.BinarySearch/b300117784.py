@@ -8,7 +8,7 @@ Created on Wed Jan 15 14:53:18 2020
 # BinarySearch 
 
 
-def binary_seach(list, item):
+def binary_search(list, item):
     low = 0
     high = len(list)-1
     
