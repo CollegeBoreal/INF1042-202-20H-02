@@ -5,7 +5,7 @@ Created on Wed Jan 15 15:19:11 2020
 @author: User
 """
         
-def binary_seach(list, item):
+def binary_search(list, item):
     
     low =0
     high = len(list)-1
@@ -26,8 +26,8 @@ my_list = [5, 7, 11, 14, 19, 20, 25]
 
 
 
-print (binary_seach (my_list, 20 ))
-print (binary_seach (my_list, 2))
+print (binary_search (my_list, 20 ))
+print (binary_search (my_list, 2))
 
 
 
