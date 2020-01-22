@@ -1,6 +1,6 @@
 # Tri par sélection
 
-Algorithme de `Selection Sort`
+Algorithme de `Selection Sort` page 35
 
 :one: Créer un programme `Python` ayant comme nom de fichier, votre :id: Boréal précédé d'un `b`
 
