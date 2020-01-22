@@ -1,4 +1,4 @@
-# Correction au 21-01-2020 15:35
+# Correction au 22-01-2020 18:23
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -32,10 +32,10 @@ ModuleNotFoundError: No module named 'b300116370'
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Correction du script 300116593 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300116593.spec.py", line 2, in <module>
-    from b300116593 import binary_search
-ModuleNotFoundError: No module named 'b300116593'
+3
+6
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116593 =============== 
 
 ## Etudiant 300116670 
