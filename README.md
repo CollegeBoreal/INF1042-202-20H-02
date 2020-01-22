@@ -2,11 +2,6 @@
 Introduction à la programmation (Algorithmes)
 
 ## Devoirs
-
-| Date   |                     |     Commentaires                                                                         |
-|:------:|:--------------------|:-----------------------------------------------------------------------------------------|
-
-## :one: Devoirs
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
 |--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
 |01|20-01-20|[1.BinarySearch](1.BinarySearch#Participation)  | Recherche Dichotomique                  |                  |
