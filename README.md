@@ -4,6 +4,7 @@ Introduction à la programmation (Algorithmes)
 ## Devoirs
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
 |--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
+|02|27-01-20|[2.SelectionSort](2.SelectionSort#Participation)| Tri par sélection                       |                  |
 |01|20-01-20|[1.BinarySearch](1.BinarySearch#Participation)  | Recherche Dichotomique                  |                  |
 
 ## Déroulement de cours:
