@@ -21,7 +21,7 @@ def selectionSort(arr):
       smallest = findSmallest(arr)
       newArr.append(arr.pop(smallest))
   return newArr
-print (selectionSort([5, 3, 6, 2, 10]))
+print (selectionSort([523, 34, 62, 2567890, 14560]))
 
 
 
