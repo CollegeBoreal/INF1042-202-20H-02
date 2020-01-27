@@ -9,11 +9,11 @@
     That means that the set contains the doubles of all natural numbers that satisfy the predicate.
 
 | Math Feature      | Haskell <sup><img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img></sup> | Python <img src="images/python-logo.jpg" width=72px height=50px><img> |
-|-------------------|-----------------------------------------|--------------------------------------------------------|
-| Set Comprehension | List Comprehension                      | For Comprehension                                      |
-|                   | [x * 2 \| x <- [1..10]]                 | for (x <- 1 to 10 to(LazyList)) yield x * 2                |
-|                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | for (x <- 1 to 10 to(LazyList) if x * 2 >= 12) yield x * 2 |
-|                   | [x\|x<-[50..100],x\`mod\`7==3]          | for (x <- 1 to 10 to(LazyList) if x % 7 == 3) yield x      |
+|-------------------|-----------------------------------------|------------------------------------------------|
+| Set Comprehension | List Comprehension                      | List Comprehension                             |
+|                   | [x * 2 \| x <- [1..10]]                 | [x * 2 for x in range( 1, 10)]                 |
+|                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
+|                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
 
 References: 
