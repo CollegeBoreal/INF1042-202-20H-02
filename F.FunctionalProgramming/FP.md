@@ -41,7 +41,25 @@
 >>> lat, long = 43.653226, -79.3831843 # Toronto GPS Coordinates
 ```
 
+### :m: Anonymous functions
 
+```
+>>> f = lambda x: x + 3
+>>> [ f(x) for x in range(10) if x % 2 == 0]
+>>> g = lambda x: x % 2 == 0
+>>> [ f(x) for x in range(10) if g(x) ]
+```
+
+### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
+
+:pushpin: `map(function, iterables)`
+
+```
+>>> list(map(lambda x: x + 1, [ x for x in range(10) ]))
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> list(map(lambda x, y: x + y, [ x for x in range(10) ], [ y for y in range(10, 20) ]))
+[10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
+```
 
 https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences
 
