@@ -61,6 +61,21 @@
 [10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
 ```
 
+:pushpin: `filter(function, iterables)`
+
+```
+>>> list(filter(lambda x: x >= 5, [ x for x in range(10) ]))
+[5, 6, 7, 8, 9]
+```
+
+:pushpin: `reduce(function, iterables)`
+
+```
+>>> from functools import reduce
+>>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
+45
+```
+
 https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences
 
 
