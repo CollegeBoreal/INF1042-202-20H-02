@@ -8,14 +8,14 @@ def findsmallest(arr):
     petite_valeur = arr[0]
     petit_index = 0
 
-    for i in range(len(arr)):
+    for i in range(1, len(arr)):
         if arr[i] < petite_valeur:
             petite_valeur = arr[i]
             petit_index = i
 
     return (petit_index)
 
-def selectionsort(arr):
+def SelectionSort(arr):
     newarr = []
 
     for i in range(len(arr)):
@@ -24,4 +24,4 @@ def selectionsort(arr):
 
     return(newarr)
 
-print(selectionsort([2,45,0,5,4,87]))
+print(SelectionSort([2,45,0,5,4,87]))
