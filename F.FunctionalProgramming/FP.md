@@ -28,7 +28,7 @@
 
 ### :m: immutable Data Structure using Sequence Unpacking
 
-:bulb: Immutability
+:bulb: Immutability Tuple
 
 ```
 >>> t3 = (1, 'a', 4.5)
@@ -38,6 +38,7 @@
 
 ```
 >>> i, s, f = t3
+>>> lat, long = 43.653226, -79.3831843 # Toronto GPS Coordinates
 ```
 
 
