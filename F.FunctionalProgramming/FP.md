@@ -17,9 +17,11 @@
 
 
 
-| `[ n*n for n in range(5) ]`   | regular list comprehension |
-| `{ n*n for n in range(5) }`   | set comprehension          |
-| `{ n: n*n for n in range(5)}` | dict comprehension         |
+|  Source Code `Syntactic Sugar`| Type                           |
+|-------------------------------|--------------------------------|
+| `[ n*n for n in range(5) ]`   | `list()` comprehension         |
+| `{ n*n for n in range(5) }`   | `set()` comprehension          |
+| `{ n: n*n for n in range(5)}` | `dict()` comprehension         |
 
 
 
