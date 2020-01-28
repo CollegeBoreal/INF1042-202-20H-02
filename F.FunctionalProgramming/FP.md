@@ -1,7 +1,7 @@
 # FP
 
 
-### :p: Set Comprehensions
+### :m: Set Comprehensions
 
 :pushpin: Mathematical Notation
 
@@ -18,7 +18,7 @@
 |                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
-### :p: Control Structure using Comprehensions
+### :m: Control Structure using Comprehensions
 
 |  Source Code `Syntactic Sugar`| Type                           |
 |-------------------------------|--------------------------------|
