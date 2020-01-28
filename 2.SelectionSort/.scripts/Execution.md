@@ -1,4 +1,4 @@
-# Execution au 28-01-2020 13:30
+# Execution au 28-01-2020 14:38
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -10,7 +10,7 @@
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-python: can't open file 'b300115065.py': [Errno 2] No such file or directory
+[5, 10, 16, 45, 74]
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -24,7 +24,7 @@ python: can't open file 'b300115065.py': [Errno 2] No such file or directory
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-[40, 57, 21, 2222, 4444]
+[21, 40, 57, 2222, 4444]
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -59,7 +59,8 @@ python: can't open file 'b300117178.py': [Errno 2] No such file or directory
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-python: can't open file 'b300117314.py': [Errno 2] No such file or directory
+4
+7
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -73,7 +74,12 @@ python: can't open file 'b300117444.py': [Errno 2] No such file or directory
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-python: can't open file 'b300117705.py': [Errno 2] No such file or directory
+[2, 3, 8, 6, 7, 5]
+[2, 3, 8, 6, 7, 5]
+[2, 3, 5, 6, 7, 8]
+[2, 3, 5, 6, 7, 8]
+[2, 3, 5, 6, 7, 8]
+[2, 3, 5, 6, 7, 8]
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -94,7 +100,7 @@ python: can't open file 'b300117784.py': [Errno 2] No such file or directory
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-python: can't open file 'b300117806.py': [Errno 2] No such file or directory
+[45, 89, 648, 24780, 347989]
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
