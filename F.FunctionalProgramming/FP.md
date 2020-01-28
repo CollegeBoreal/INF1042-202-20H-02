@@ -41,6 +41,13 @@
 >>> lat, long = 43.653226, -79.3831843 # Toronto GPS Coordinates
 ```
 
+
+:bulb: Iterable Unpacking [PEP-3132](https://www.python.org/dev/peps/pep-3132/)
+
+```
+>>> head, *tail = [x for x in range(10)]
+```
+
 ### :m: Anonymous functions
 
 ```
