@@ -1,6 +1,6 @@
-# Tri par sélection
+# F Functional Programming 
 
-Algorithme de `Selection Sort` page 35
+### :m: Sneak Peak p.59
 
 :one: Créer un programme `Python` ayant comme nom de fichier, votre :id: Boréal précédé d'un `b`
 
@@ -9,19 +9,19 @@ Example de nom de fichier `b300098957.py`
 :two: Écrire le programme de tri par sélection dans une fonction ayant la signature suivante:
 
 ```python
-def selectionSort(arr):
+def quicksort(arr):
 ```
 
 Example: 
 
 ```
-print( selectionSort([5, 3, 6, 2, 10]) # Affiche le résultalt d'un Tri dans un ordre croissant
+print( quicksort([5, 3, 6, 2, 10]) # Affiche le résultalt d'un Tri dans un ordre croissant
 ```
 
 ## [Participation](.scripts/Participation.md)
 
 
-# :bookmark: Arrays vs List
+# References
 
-https://www.programiz.com/python-programming/array
+https://www.data-blogger.com/2017/11/16/python-list-comprehension/
 

@@ -3,37 +3,35 @@
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-6
-None
+[2, 4, 5, 7, 16, 33]
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-2
+python: can't open file 'b300115065.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-2
+[34, 62, 523, 14560, 2567890]
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-3
-6
+[40, 57, 21, 2222, 4444]
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-2
+[3, 5, 6, 25, 45]
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
@@ -47,25 +45,21 @@ python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-7
-4
+[1, 3, 5, 8, 10, 20]
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-Traceback (most recent call last):
-  File "b300117178.py", line 22, in <module>
-    print(binary_seach(my_list,11))
-NameError: name 'binary_seach' is not defined
+python: can't open file 'b300117178.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-6
+python: can't open file 'b300117314.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -79,46 +73,41 @@ python: can't open file 'b300117444.py': [Errno 2] No such file or directory
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-2
-None
+python: can't open file 'b300117705.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-6
-None
+python: can't open file 'b300117782.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-6
-None
+python: can't open file 'b300117784.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-5
-None
+python: can't open file 'b300117806.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-3
+[0, 2, 4, 5, 45, 87]
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-6
-None
+[2, 8, 12, 23, 33, 72]
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 

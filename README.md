@@ -4,6 +4,7 @@ Introduction à la programmation (Algorithmes)
 ## Devoirs
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
 |--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
+|02|27-01-20|[2.SelectionSort](2.SelectionSort#Participation)| Tri par sélection                       |                  |
 |01|20-01-20|[1.BinarySearch](1.BinarySearch#Participation)  | Recherche Dichotomique                  |                  |
 
 ## Déroulement de cours:
@@ -13,11 +14,12 @@ Introduction à la programmation (Algorithmes)
 |01|06-01-20|                                          | Rentrée des classes                                                |
 |02|13-01-20| Chapitre 1                               | [1.Introduction](1.Introduction) to algorithms                     |
 |03|20-01-20| Chapitre 2                               | [2.SelectionSort](2.SelectionSort), suivre les instructions        |
-|04|27-01-20| Chapitre 3                               | [3.Recursion](3.Recursion), suivre les instructions                |
-|05|03-02-20| Chapitre 4                               | [2.QuickSort](2.QuickSort), suivre les instructions                |
-|06|10-02-20| Chapitre 5                               | [3.HashTables](3.HashTables), suivre les instructions              |
-|07|17-02-20| Chapitre 6                               | [4.BFS](4.BFS), suivre les instructions                            |
+|04|27-01-20| Sneak peak at functional programming     | [F.FunctionalProgramming](F.FunctionalProgramming) suivre instructions|
+|05|03-02-20| Chapitre 3                               | [3.Recursion](3.Recursion), suivre les instructions                |
+|06|10-02-20| Chapitre 4                               | [2.QuickSort](2.QuickSort), suivre les instructions                |
+|07|17-02-20| Chapitre 5                               | [3.HashTables](3.HashTables), suivre les instructions              |
 |08|24-02-20| Semaine d'études                         | Pas de cours                                                       |
+|07|17-02-20| Chapitre 6                               | [4.BFS](4.BFS), suivre les instructions                            |
 |09|02-03-20| Chapitre 7                               | [5.Dijkstra](5.Dijkstra), suivre les instructions                  |
 |10|09-03-20| Chapitre 8                               | [6.Greedy](6.Greedy), suivre les instructions                      |
 |11|16-03-20| TBD                                      | TBD                                                                |
