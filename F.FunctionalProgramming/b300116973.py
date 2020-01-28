@@ -13,7 +13,7 @@ a = [ x for x in range (10)]
 
 print (a)
 
-#imprimer les nombres pair
+#imprimer les nombres pairs
 
 b = [x *2 for x in range (10)]
 
