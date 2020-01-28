@@ -6,17 +6,9 @@
 
 Example de nom de fichier `b300098957.py`
 
-:two: Écrire le programme de tri par sélection dans une fonction ayant la signature suivante:
+:two: Écrire le programme python sur la programmation fonctionelle
 
-```python
-def quicksort(arr):
-```
-
-Example: 
-
-```
-print( quicksort([5, 3, 6, 2, 10]) # Affiche le résultalt d'un Tri dans un ordre croissant
-```
+Suivre [FP](FP.md)
 
 ## [Participation](.scripts/Participation.md)
 
