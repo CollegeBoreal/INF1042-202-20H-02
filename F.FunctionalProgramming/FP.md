@@ -1,4 +1,7 @@
-# Set Comprehensions
+# FP
+
+
+### :p: Set Comprehensions
 
 :pushpin: Mathematical Notation
 
@@ -15,13 +18,14 @@
 |                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
-
+### :p: Control Structure using Comprehensions
 
 |  Source Code `Syntactic Sugar`| Type                           |
 |-------------------------------|--------------------------------|
-| `[ n*n for n in range(5) ]`   | `list()` comprehension `same as []` |
-| `{ n*n for n in range(5) }`   | `set()` comprehension `same as {}` |
-| `{ n: n*n for n in range(5)}` | `dict()` comprehension `same as {}` |
+| `[ n*n for n in range(5) ]`   | [List]() comprehension `list()` same as `[]` |
+| `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}` |
+| `{ n: n*n for n in range(5)}` | [Dict]() comprehension `dict()` same as `{}` |
+
 
 
 
