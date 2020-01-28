@@ -1,11 +1,10 @@
-# Correction au 27-01-2020 10:56
+# Correction au 28-01-2020 13:30
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300111441.spec.py", line 2, in <module>
-    from b300111441 import selectionSort
-ModuleNotFoundError: No module named 'b300111441'
+[2, 4, 5, 7, 16, 33]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300111441 =============== 
 
 ## Etudiant 300115065 
@@ -18,34 +17,23 @@ ModuleNotFoundError: No module named 'b300115065'
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Correction du script 300115140 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300115140.spec.py", line 2, in <module>
-    from b300115140 import selectionSort
-ModuleNotFoundError: No module named 'b300115140'
+[34, 62, 523, 14560, 2567890]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300115140 =============== 
-
-## Etudiant 300116370 
-###  =[BEGIN]============== Correction du script 300116370 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300116370.spec.py", line 2, in <module>
-    from b300116370 import selectionSort
-ModuleNotFoundError: No module named 'b300116370'
-###  =[END]============== Correction du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Correction du script 300116593 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300116593.spec.py", line 2, in <module>
-    from b300116593 import selectionSort
-ModuleNotFoundError: No module named 'b300116593'
+[40, 57, 21, 2222, 4444]
+--------------------
+:no_entry: :no_entry: :interrobang:
 ###  =[END]============== Correction du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Correction du script 300116670 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300116670.spec.py", line 2, in <module>
-    from b300116670 import selectionSort
-ModuleNotFoundError: No module named 'b300116670'
+[3, 5, 6, 25, 45]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116670 =============== 
 
 ## Etudiant 300116685 
@@ -130,8 +118,7 @@ ImportError: cannot import name 'selectionSort' from 'b300118196' (./b300118196.
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Correction du script 300118524 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300118524.spec.py", line 2, in <module>
-    from b300118524 import selectionSort
-ModuleNotFoundError: No module named 'b300118524'
+[2, 8, 12, 23, 33, 72]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300118524 =============== 

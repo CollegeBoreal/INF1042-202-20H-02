@@ -20,3 +20,8 @@ print( selectionSort([5, 3, 6, 2, 10]) # Affiche le résultalt d'un Tri dans un 
 
 ## [Participation](.scripts/Participation.md)
 
+
+# :bookmark: Arrays vs List
+
+https://www.programiz.com/python-programming/array
+
