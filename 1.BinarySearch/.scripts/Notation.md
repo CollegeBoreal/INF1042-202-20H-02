@@ -1,4 +1,4 @@
-# Correction au 27-01-2020 11:15
+# Correction au 28-01-2020 14:38
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -75,7 +75,10 @@ NameError: name 'binary_seach' is not defined
 Traceback (most recent call last):
   File ".scripts/b300117444.spec.py", line 2, in <module>
     from b300117444 import binary_search
-ModuleNotFoundError: No module named 'b300117444'
+  File "./b300117444.py", line 2
+    Created on Wed Jan 09 14:01:02 2020
+             ^
+SyntaxError: invalid syntax
 ###  =[END]============== Correction du script 300117444 =============== 
 
 ## Etudiant 300117705 

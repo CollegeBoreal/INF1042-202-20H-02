@@ -1,4 +1,9 @@
-#Algoritheme tri par selection
+"""
+Created on Tue Jan 28 14:08:09 2020
+
+@author: akram fadde
+"""
+
 
 def findSmallest(arr):
         smallest = arr[0]
@@ -7,12 +12,19 @@ def findSmallest(arr):
             if arr[i] < smallest:
                 smallest = arr[i]
                 smallest_index = i
+        
         return smallest_index
 
 def selectionSort(arr):
-  newArr = []
-  for i in range(len(arr)):
+ 
+    newArr = []
+ 
+    for i in range(len(arr)):
       smallest = findSmallest(arr)
       newArr.append(arr.pop(smallest))
-  return newArr
-print (selectionSort([57, 21, 40, 2222, 4444]))
+ 
+    return newArr
+print (selectionSort([5, 16, 10, 74, 45]))
+
+
+

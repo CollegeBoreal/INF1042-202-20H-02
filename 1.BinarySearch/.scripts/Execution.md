@@ -1,4 +1,4 @@
-# Execution au 27-01-2020 11:15
+# Execution au 28-01-2020 14:38
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -72,7 +72,10 @@ NameError: name 'binary_seach' is not defined
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+  File "b300117444.py", line 2
+    Created on Wed Jan 09 14:01:02 2020
+             ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
