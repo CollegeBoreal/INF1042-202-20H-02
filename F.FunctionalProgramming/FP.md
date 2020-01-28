@@ -16,6 +16,13 @@
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
 
+
+| `[ n*n for n in range(5) ]`   | regular list comprehension |
+| `{ n*n for n in range(5) }`   | set comprehension          |
+| `{ n: n*n for n in range(5)}` | dict comprehension         |
+
+
+
 References: 
 
 https://medium.com/@joshuapaulrobin/set-comprehension-in-python3-for-beginners-80561a9b4007
