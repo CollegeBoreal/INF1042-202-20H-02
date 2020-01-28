@@ -18,7 +18,7 @@
 |                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
-### :m: Control Structure using Comprehensions
+### :m: Data Structure using Comprehensions
 
 |  Source Code `Syntactic Sugar`| Type                           |
 |-------------------------------|--------------------------------|
@@ -26,7 +26,23 @@
 | `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}` |
 | `{ n: n*n for n in range(5)}` | [Dict]() comprehension `dict()` same as `{}` |
 
+### :m: immutable Data Structure using Sequence Unpacking
 
+:bulb: Immutability
+
+```
+>>> t3 = (1, 'a', 4.5)
+```
+
+:bulb: Sequence Unpacking
+
+```
+>>> i, s, f = t3
+```
+
+
+
+https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences
 
 
 # References: 
