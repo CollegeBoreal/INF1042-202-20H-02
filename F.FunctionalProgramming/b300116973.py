@@ -13,19 +13,19 @@ a = [ x for x in range (10)]
 
 print (a)
 
-#imprimer les nombres pair
+#imprimer les nombres pairs
 
 b = [x *2 for x in range (10)]
 
 print (b)
 
-# imprimer les nombre impair
+# imprimer les nombres impairs
 
 c = [x for x in range (10) if x % 2 != 0 ]
 
 print (c)
 
-# methode 2 pour imprimer les nombres pair
+# methode 2 pour imprimer les nombres pairs
 
 d = [x for x in range (10) if x % 2 == 0]
 
