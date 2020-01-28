@@ -2,6 +2,6 @@
 
 def année(n):
     for i in range(10):
-        print("bonne année")
-
+        b=("bonne année")
+        print(b, end=",")
 année(4)

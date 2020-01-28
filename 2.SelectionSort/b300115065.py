@@ -1,3 +1,5 @@
+"""
+Created on Tue Jan 28 14:08:09 2020
 
 @author: akram fadde
 """
@@ -23,3 +25,6 @@ def selectionSort(arr):
  
     return newArr
 print (selectionSort([5, 16, 10, 74, 45]))
+
+
+
