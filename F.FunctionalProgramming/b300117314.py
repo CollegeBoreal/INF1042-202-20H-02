@@ -1,17 +1,29 @@
 
+"""
+Created on Tue Jan 28 15:36:12 2020
+
+@author: 10
+"""
+
 a=range(10)
-print (a)
+
 range(0, 10)
 
-[x for x in range (10)]
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-[x*2 for x in range (10)]
-[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+b=[x for x in range (10)]
+
+c=[x*2 for x in range (10)]
 
 
-[x for x in range (10) if x % 2 ==0 ]
-[0, 2, 4, 6, 8]
+
+d=[x for x in range (10) if x % 2 ==0 ]
 
 
-[x for x in range (10) if x % 2 != 0 ]
-[1, 3, 5, 7, 9]
+
+e=[x for x in range (10) if x % 2 != 0 ]
+
+print (a)
+print (b)
+print (c)
+print (d)
+print (e)
+
