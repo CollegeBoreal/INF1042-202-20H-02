@@ -1,4 +1,4 @@
-# Execution au 28-01-2020 14:38
+# Corrections au 20-01-2020 16:18
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -11,7 +11,10 @@ None
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-2
+  File "b300115065.py", line 1
+    Created on Wed Jan 15 15:28:59 2020
+             ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -22,11 +25,17 @@ None
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
+## Etudiant 300116370 
+###  =[BEGIN]============== Exécution du script 300116370 =============== 
+```
+python: can't open file 'b300116370.py': [Errno 2] No such file or directory
+```
+###  =[END]============== Exécution du script 300116370 =============== 
+
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-3
-6
+python: can't open file 'b300116593.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -55,27 +64,24 @@ python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-Traceback (most recent call last):
-  File "b300117178.py", line 22, in <module>
-    print(binary_seach(my_list,11))
-NameError: name 'binary_seach' is not defined
+2
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-6
+  File "b300117314.py", line 25
+    pas fini !!!!!!!!!
+           ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-  File "b300117444.py", line 2
-    Created on Wed Jan 09 14:01:02 2020
-             ^
-SyntaxError: invalid syntax
+python: can't open file 'b300117444.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -121,7 +127,9 @@ None
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-6
-None
+  File "b300118524.py", line 19
+    return item
+    ^
+IndentationError: expected an indented block
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
