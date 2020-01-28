@@ -19,9 +19,9 @@
 
 |  Source Code `Syntactic Sugar`| Type                           |
 |-------------------------------|--------------------------------|
-| `[ n*n for n in range(5) ]`   | `list()` comprehension         |
-| `{ n*n for n in range(5) }`   | `set()` comprehension          |
-| `{ n: n*n for n in range(5)}` | `dict()` comprehension         |
+| `[ n*n for n in range(5) ]`   | `list()` comprehension `same as []` |
+| `{ n*n for n in range(5) }`   | `set()` comprehension `same as {}` |
+| `{ n: n*n for n in range(5)}` | `dict()` comprehension `same as {}` |
 
 
 
