@@ -1,4 +1,7 @@
-# Set Comprehensions
+# FP
+
+
+### :m: Set Comprehensions
 
 :pushpin: Mathematical Notation
 
@@ -15,8 +18,75 @@
 |                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
+### :m: Data Structure using Comprehensions
 
-References: 
+|  Source Code `Syntactic Sugar`| Type                           |
+|-------------------------------|--------------------------------|
+| `[ n*n for n in range(5) ]`   | [List]() comprehension `list()` same as `[]` |
+| `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}` |
+| `{ n: n*n for n in range(5)}` | [Dict]() comprehension `dict()` same as `{}` |
+
+### :m: immutable Data Structure using Sequence Unpacking
+
+:bulb: Immutability Tuple
+
+```
+>>> t3 = (1, 'a', 4.5)
+```
+
+:bulb: Sequence Unpacking
+
+```
+>>> i, s, f = t3
+>>> lat, long = 43.653226, -79.3831843 # Toronto GPS Coordinates
+```
+
+
+:bulb: Iterable Unpacking [PEP-3132](https://www.python.org/dev/peps/pep-3132/)
+
+```
+>>> head, *tail = [x for x in range(10)]
+```
+
+### :m: Anonymous functions
+
+```
+>>> f = lambda x: x + 3
+>>> [ f(x) for x in range(10) if x % 2 == 0]
+>>> g = lambda x: x % 2 == 0
+>>> [ f(x) for x in range(10) if g(x) ]
+```
+
+### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
+
+:pushpin: `map(function, iterables)`
+
+```
+>>> list(map(lambda x: x + 1, [ x for x in range(10) ]))
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> list(map(lambda x, y: x + y, [ x for x in range(10) ], [ y for y in range(10, 20) ]))
+[10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
+```
+
+:pushpin: `filter(function, iterables)`
+
+```
+>>> list(filter(lambda x: x >= 5, [ x for x in range(10) ]))
+[5, 6, 7, 8, 9]
+```
+
+:pushpin: `reduce(function, iterables)`
+
+```
+>>> from functools import reduce
+>>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
+45
+```
+
+https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences
+
+
+# References: 
 
 https://medium.com/@joshuapaulrobin/set-comprehension-in-python3-for-beginners-80561a9b4007
 
