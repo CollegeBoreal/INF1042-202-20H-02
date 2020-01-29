@@ -1,4 +1,4 @@
-# Execution au 28-01-2020 14:38
+# Execution au 29-01-2020 13:18
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -45,14 +45,15 @@ python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-[1, 3, 5, 8, 10, 20]
+[1, 3, 5, 8, 20]
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-python: can't open file 'b300117178.py': [Errno 2] No such file or directory
+[2, 3, 4, 6, 8, 9]
+[2, 2, 3, 4, 8, 9]
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
@@ -67,7 +68,7 @@ python: can't open file 'b300117178.py': [Errno 2] No such file or directory
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+[2, 7, 10, 12, 38, 45, 74, 99]
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -93,7 +94,7 @@ python: can't open file 'b300117782.py': [Errno 2] No such file or directory
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-python: can't open file 'b300117784.py': [Errno 2] No such file or directory
+[2, 3, 5, 6, 10]
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 

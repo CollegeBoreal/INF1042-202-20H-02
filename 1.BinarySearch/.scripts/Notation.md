@@ -1,4 +1,4 @@
-# Correction au 28-01-2020 14:38
+# Correction au 29-01-2020 13:17
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -39,10 +39,11 @@ None
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
+24
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import binary_search
-ModuleNotFoundError: No module named 'b300116685'
+ImportError: cannot import name 'binary_search' from 'b300116685' (./b300116685.py)
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
