@@ -17,11 +17,11 @@ def trouvepetit (arr):
             petit_index = i
     return petit_index
 
-def SelectionSort (arr):
+def selectionSort (arr):
     newArr = []
     for i in range (len(arr)):
         petit = trouvepetit (arr) 
         newArr.append(arr.pop(petit))
     return newArr
 
-print (SelectionSort([5, 1, 8, 20, 3]))
+print (selectionSort([5, 1, 8, 20, 3]))
