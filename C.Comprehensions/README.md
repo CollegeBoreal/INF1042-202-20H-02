@@ -1,6 +1,6 @@
-# F Functional Programming 
+# C. Comprehensions
 
-### :m: Sneak Peak p.59
+### :m: Tuples (a,b,c) et List Comprehensions
 
 :one: Créer un programme `Python` ayant comme nom de fichier, votre :id: Boréal précédé d'un `b`
 
@@ -14,6 +14,8 @@ Suivre [FP](FP.md)
 
 
 # References
+
+https://www.w3schools.com/python/python_tuples.asp
 
 https://www.data-blogger.com/2017/11/16/python-list-comprehension/
 
