@@ -6,7 +6,7 @@ a un périmètre de 24?
 
 A = 90° => Triangle rectangle
 ```
-<img src="images/rectangle.png" width="414" height="344"></img>
+<img src="images/rectangle.png" width="207" height="172"></img>
 
 ### :m: Tuples (a,b,c) et List Comprehensions
 
