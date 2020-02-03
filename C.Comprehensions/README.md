@@ -1,5 +1,10 @@
 # C. Comprehensions
 
+    Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés inférieurs ou égal à 10, a un périmètre de 24?
+
+    A = 90° => Triangle rectangle
+
+
 ### :m: Tuples (a,b,c) et List Comprehensions
 
 :one: Créer un programme `Python` ayant comme nom de fichier, votre :id: Boréal précédé d'un `b`
