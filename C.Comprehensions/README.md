@@ -5,6 +5,8 @@ Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés infér
 a un périmètre de 24?
 
 A^B = 90° => Triangle rectangle
+
+Dans notre graphique, on considèrera que le coté adjacent `A` et plus grand que le coté opposé  `B`
 ```
 <img src="images/rectangle.png" width="207" height="172"></img>
 
@@ -35,10 +37,6 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 ### :bangbang: :one::one: pas :one::zero:
 
 :warning: Attention pour obtenir un `range` de 0 à 10 (max) il faut écrire `[c for c in range(11)]` en python 
-
-### :bulb: Considération
-
-Dans notre graphique, on considère que le coté adjacent `A` et plus grand que le coté opposé  `B`
 
 ## [Participation](.scripts/Participation.md)
 
