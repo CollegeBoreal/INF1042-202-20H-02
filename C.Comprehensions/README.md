@@ -20,7 +20,7 @@ Suivre [FP](../F.FunctionalProgramming/FP.md)
 
 ### :bangbang: :one::one: pas :one::zero:
 
-    Attention pour obtenir un `range` de 0 à 10 il faut écrire `[x for x in range(11)]` en python 
+:warning: Attention pour obtenir un `range` de 0 à 10 il faut écrire `[x for x in range(11)]` en python 
 
 ## [Participation](.scripts/Participation.md)
 
