@@ -27,7 +27,9 @@ def rightTriangle(max):
 Example: 
 
 ```
-print( rightTriangle(max) ) # Affiche le résultalt les valuers du triangle en tuples dans une liste [(a, b, c)]
+print( rightTriangle(max) ) # Affiche le résultalt de la taille du triangle 
+# Affichage en tuples dans une liste par example 
+print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 ```
 
 ### :bangbang: :one::one: pas :one::zero:
