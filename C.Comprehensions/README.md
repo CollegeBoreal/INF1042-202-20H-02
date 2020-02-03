@@ -1,7 +1,7 @@
 # C. Comprehensions
 
+<img src="images/rectangle.png" width="414" height="344"> </img>
 
-<img src="images/rectangle.png" width="414" height="344"></img>
 
 ```
 Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés inférieurs ou égal à 10,
