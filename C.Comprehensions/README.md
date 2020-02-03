@@ -14,9 +14,9 @@ A = 90° => Triangle rectangle
 
 Example de nom de fichier `b300098957.py`
 
-:two: Écrire le programme python sur la programmation fonctionelle
+:two: Écrire le programme python en fonction de votre connaissance sur les `List Comprehensions` et les `tuples`
 
-Suivre [FP](FP.md)
+Suivre [FP](../F.FunctionnalProgramming/FP.md)
 
 ## [Participation](.scripts/Participation.md)
 
