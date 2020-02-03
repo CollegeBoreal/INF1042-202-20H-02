@@ -1,5 +1,8 @@
 # C. Comprehensions
 
+
+![image](images/rectangle.png)
+
 ```
 Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés inférieurs ou égal à 10,
 a un périmètre de 24?
