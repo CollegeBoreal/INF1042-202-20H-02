@@ -1,7 +1,7 @@
 # C. Comprehensions
 
 ```
-Quel Triangle Rectangle (composé de nombres naturels et ayant des cotés inférieurs ou égal à 10)
+Quel Triangle Rectangle, (composé de nombres naturels et ayant des cotés inférieurs ou égal à 10),
 a un périmètre de 24?
 
 A = 90° => Triangle rectangle
