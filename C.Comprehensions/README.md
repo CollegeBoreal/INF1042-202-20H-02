@@ -16,7 +16,7 @@ Example de nom de fichier `b300098957.py`
 
 :two: Écrire le programme python en fonction de votre connaissance sur les `List Comprehensions` et les `tuples`
 
-Suivre [FP](../F.FunctionnalProgramming/FP.md)
+Suivre [FP](../F.FunctionalProgramming/FP.md)
 
 ## [Participation](.scripts/Participation.md)
 
