@@ -1,16 +1,12 @@
 # C. Comprehensions
 
-<img src="images/rectangle.png" width="414" height="344"></img>
-
 ```
 Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés inférieurs ou égal à 10,
 a un périmètre de 24?
 
 A = 90° => Triangle rectangle
 ```
-
-
-<img src="images/rectangle.png" width="240" height="320"></img>
+<img src="images/rectangle.png" width="414" height="344"></img>
 
 ### :m: Tuples (a,b,c) et List Comprehensions
 
