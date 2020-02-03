@@ -4,7 +4,7 @@
 Quel Triangle Rectangle, composé de nombres naturels et ayant des cotés inférieurs ou égal à 10,
 a un périmètre de 24?
 
-A = 90° => Triangle rectangle
+A^B = 90° => Triangle rectangle
 ```
 <img src="images/rectangle.png" width="207" height="172"></img>
 
