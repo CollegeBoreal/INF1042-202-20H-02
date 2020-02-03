@@ -36,11 +36,12 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 
 :warning: Attention pour obtenir un `range` de 0 à 10 il faut écrire `[x for x in range(11)]` en python 
 
-## [Participation](.scripts/Participation.md)
-
 ### :bulb: Considération
 
 Dans notre graphique, on considère que le coté adjacent `A` et plus grand que le coté opposé  `B`
+
+## [Participation](.scripts/Participation.md)
+
 
 # References
 
