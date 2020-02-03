@@ -34,7 +34,7 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 
 ### :bangbang: :one::one: pas :one::zero:
 
-:warning: Attention pour obtenir un `range` de 0 à 10 il faut écrire `[x for x in range(11)]` en python 
+:warning: Attention pour obtenir un `range` de 0 à 10 (max) il faut écrire `[c for c in range(11)]` en python 
 
 ### :bulb: Considération
 
