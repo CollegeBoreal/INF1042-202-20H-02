@@ -1,5 +1,5 @@
-def rectangle(hypo):
-	return [(8, 6, 10)]
+def rightTriangle(max):
+	return [(3, 4, 5)]
 
-print(rectangle(11))
+print(rightTriangle(11))
 
