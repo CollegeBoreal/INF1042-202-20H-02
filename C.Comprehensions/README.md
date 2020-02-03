@@ -38,6 +38,9 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 
 ## [Participation](.scripts/Participation.md)
 
+### :bulb: Considération
+
+Dans notre graphique, on considère que le coté adjacent `A` et plus grand que le coté opposé  `B`
 
 # References
 
