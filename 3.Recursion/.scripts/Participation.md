@@ -1,10 +1,10 @@
 # Participation au 04-02-2020 15:20
-\n## Légende\n
+## Légende
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
-\n## Résultat\n
+## Résultat
 |:hash:| Boréal :id:                | Execution          | Notation         |
 |------|----------------------------|--------------------|------------------|
 | 1 | [300111441](../b300111441.py) | [:x:](Execution.md#etudiant-300111441) | [:x:](Notation.md#etudiant-300111441) |
