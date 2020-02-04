@@ -15,7 +15,7 @@ def findsmallest(arr):
 
     return (petit_index)
 
-def SelectionSort(arr):
+def selectionSort(arr):
     newarr = []
 
     for i in range(len(arr)):
@@ -24,4 +24,4 @@ def SelectionSort(arr):
 
     return(newarr)
 
-print(SelectionSort([2,45,0,5,4,87]))
+print(selectionSort([2,45,0,5,4,87]))
