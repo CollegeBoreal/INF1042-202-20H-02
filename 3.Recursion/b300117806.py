@@ -11,4 +11,4 @@ def fact(x):
     else:
         return x*fact(x-1)
 
-print(fact(8))
+print(fact(2))
