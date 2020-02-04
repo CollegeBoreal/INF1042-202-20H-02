@@ -1,5 +1,6 @@
 def rightTriangle(max):
-	return [(3, 4, 5)]
+	## Mon petit code
+	return [(8, 6, 10)]
 
 print(rightTriangle(11))
 
