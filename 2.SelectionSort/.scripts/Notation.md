@@ -1,4 +1,4 @@
-# Correction au 29-01-2020 13:18
+# Correction au 04-02-2020 13:26
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -37,19 +37,25 @@
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
+a
+i
+l
+o,
+r
+t
+t
+u
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import selectionSort
-ModuleNotFoundError: No module named 'b300116685'
+ImportError: cannot import name 'selectionSort' from 'b300116685' (./b300116685.py)
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Correction du script 300116973 =============== 
 [1, 3, 5, 8, 20]
-Traceback (most recent call last):
-  File ".scripts/b300116973.spec.py", line 2, in <module>
-    from b300116973 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300116973' (./b300116973.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116973 =============== 
 
 ## Etudiant 300117178 
@@ -79,16 +85,9 @@ ImportError: cannot import name 'selectionSort' from 'b300117314' (./b300117314.
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Correction du script 300117705 =============== 
-[2, 3, 8, 6, 7, 5]
-[2, 3, 8, 6, 7, 5]
-[2, 3, 5, 6, 7, 8]
-[2, 3, 5, 6, 7, 8]
-[2, 3, 5, 6, 7, 8]
-[2, 3, 5, 6, 7, 8]
-Traceback (most recent call last):
-  File ".scripts/b300117705.spec.py", line 2, in <module>
-    from b300117705 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300117705' (./b300117705.py)
+[3, 5, 6, 22, 55]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117705 =============== 
 
 ## Etudiant 300117782 
