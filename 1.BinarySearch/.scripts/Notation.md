@@ -1,4 +1,4 @@
-# Correction au 28-01-2020 14:38
+# Correction au 04-02-2020 13:19
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -39,10 +39,11 @@ None
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
+24
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import binary_search
-ModuleNotFoundError: No module named 'b300116685'
+ImportError: cannot import name 'binary_search' from 'b300116685' (./b300116685.py)
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
@@ -55,12 +56,9 @@ ModuleNotFoundError: No module named 'b300116685'
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Correction du script 300117178 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117178.spec.py", line 2, in <module>
-    from b300117178 import binary_search
-  File "./b300117178.py", line 22, in <module>
-    print(binary_seach(my_list,11))
-NameError: name 'binary_seach' is not defined
+2
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117178 =============== 
 
 ## Etudiant 300117314 

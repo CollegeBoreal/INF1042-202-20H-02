@@ -1,14 +1,14 @@
-""
+"""
 Created on Wed Jan 09 14:01:02 2020
 
 @author: idir
-
+:smile:
 LayLayLay
 
 """
 
 
-def recherche_binaire(list,article):
+def binary_search(list,article):
     ValeurMini = 0
     ValeurMaxi = len(ma_liste)-1
     
@@ -29,6 +29,6 @@ def recherche_binaire(list,article):
 ma_liste = [1,7,11,14,19,20,25]
 
 
-print (recherche_binaire(ma_liste, 7))
-print (recherche_binaire(ma_liste, 20))
-print (recherche_binaire(ma_liste, 21))
+print (binary_search(ma_liste, 7))
+print (binary_search(ma_liste, 20))
+print (binary_search(ma_liste, 21))

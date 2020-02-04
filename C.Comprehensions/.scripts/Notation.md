@@ -1,129 +1,129 @@
-# Correction au 04-02-2020 13:26
+# Correction au 03-02-2020 17:18
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
-[2, 4, 5, 7, 16, 33]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300111441.spec.py", line 2, in <module>
+    from b300111441 import rightTriangle
+ModuleNotFoundError: No module named 'b300111441'
 ###  =[END]============== Correction du script 300111441 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Correction du script 300115065 =============== 
-[5, 10, 16, 45, 74]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300115065.spec.py", line 2, in <module>
+    from b300115065 import rightTriangle
+ModuleNotFoundError: No module named 'b300115065'
 ###  =[END]============== Correction du script 300115065 =============== 
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Correction du script 300115140 =============== 
-[34, 62, 523, 14560, 2567890]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300115140.spec.py", line 2, in <module>
+    from b300115140 import rightTriangle
+ModuleNotFoundError: No module named 'b300115140'
 ###  =[END]============== Correction du script 300115140 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Correction du script 300116593 =============== 
-[21, 40, 57, 2222, 4444]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300116593.spec.py", line 2, in <module>
+    from b300116593 import rightTriangle
+ModuleNotFoundError: No module named 'b300116593'
 ###  =[END]============== Correction du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Correction du script 300116670 =============== 
-[3, 5, 6, 25, 45]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300116670.spec.py", line 2, in <module>
+    from b300116670 import rightTriangle
+ModuleNotFoundError: No module named 'b300116670'
 ###  =[END]============== Correction du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
-a
-i
-l
-o,
-r
-t
-t
-u
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
-    from b300116685 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300116685' (./b300116685.py)
+    from b300116685 import rightTriangle
+ModuleNotFoundError: No module named 'b300116685'
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Correction du script 300116973 =============== 
-[1, 3, 5, 8, 20]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300116973.spec.py", line 2, in <module>
+    from b300116973 import rightTriangle
+ModuleNotFoundError: No module named 'b300116973'
 ###  =[END]============== Correction du script 300116973 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Correction du script 300117178 =============== 
-[2, 3, 4, 6, 8, 9]
-[2, 2, 3, 4, 8, 9]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300117178.spec.py", line 2, in <module>
+    from b300117178 import rightTriangle
+ModuleNotFoundError: No module named 'b300117178'
 ###  =[END]============== Correction du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Correction du script 300117314 =============== 
-4
-7
 Traceback (most recent call last):
   File ".scripts/b300117314.spec.py", line 2, in <module>
-    from b300117314 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300117314' (./b300117314.py)
+    from b300117314 import rightTriangle
+ModuleNotFoundError: No module named 'b300117314'
 ###  =[END]============== Correction du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Correction du script 300117444 =============== 
-[2, 7, 10, 12, 38, 45, 74, 99]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300117444.spec.py", line 2, in <module>
+    from b300117444 import rightTriangle
+ModuleNotFoundError: No module named 'b300117444'
 ###  =[END]============== Correction du script 300117444 =============== 
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Correction du script 300117705 =============== 
-[3, 5, 6, 22, 55]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300117705.spec.py", line 2, in <module>
+    from b300117705 import rightTriangle
+ModuleNotFoundError: No module named 'b300117705'
 ###  =[END]============== Correction du script 300117705 =============== 
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Correction du script 300117782 =============== 
 Traceback (most recent call last):
   File ".scripts/b300117782.spec.py", line 2, in <module>
-    from b300117782 import selectionSort
+    from b300117782 import rightTriangle
 ModuleNotFoundError: No module named 'b300117782'
 ###  =[END]============== Correction du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Correction du script 300117784 =============== 
-[2, 3, 5, 6, 10]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300117784.spec.py", line 2, in <module>
+    from b300117784 import rightTriangle
+ModuleNotFoundError: No module named 'b300117784'
 ###  =[END]============== Correction du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Correction du script 300117806 =============== 
-[45, 89, 648, 24780, 347989]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300117806.spec.py", line 2, in <module>
+    from b300117806 import rightTriangle
+ModuleNotFoundError: No module named 'b300117806'
 ###  =[END]============== Correction du script 300117806 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Correction du script 300118196 =============== 
-[0, 2, 4, 5, 45, 87]
 Traceback (most recent call last):
   File ".scripts/b300118196.spec.py", line 2, in <module>
-    from b300118196 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300118196' (./b300118196.py)
+    from b300118196 import rightTriangle
+ModuleNotFoundError: No module named 'b300118196'
 ###  =[END]============== Correction du script 300118196 =============== 
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Correction du script 300118524 =============== 
-[2, 8, 12, 23, 33, 72]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300118524.spec.py", line 2, in <module>
+    from b300118524 import rightTriangle
+ModuleNotFoundError: No module named 'b300118524'
 ###  =[END]============== Correction du script 300118524 =============== 

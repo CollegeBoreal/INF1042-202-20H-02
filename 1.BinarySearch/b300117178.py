@@ -19,4 +19,4 @@ def binary_search(list,item):
             low=mid+1
     return None
 my_list=[5,7,11,14,19,20,25]
-print(binary_seach(my_list,11))
+print(binary_search(my_list,11))
