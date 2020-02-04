@@ -20,6 +20,6 @@ def selectionSort(arr):
       smallest = findSmallest(arr)
       newArr.append(arr.pop(smallest))
   return newArr
-print (selectionSort([5, 3,6, 25, 45]))
+print (selections([5, 3,6, 25, 45]))
 
 
