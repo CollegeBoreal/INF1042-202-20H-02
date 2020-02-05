@@ -71,7 +71,7 @@
 :pushpin: `filter(function, iterables)`
 
 ```
->>> list(filter(lambda x: x >= 5, [ x for x in range(10) ]))
+>>> filter(lambda x: x >= 5, [ x for x in range(10) ])
 [5, 6, 7, 8, 9]
 ```
 
