@@ -62,9 +62,9 @@
 :pushpin: `map(function, iterables)`
 
 ```
->>> list(map(lambda x: x + 1, [ x for x in range(10) ]))
+>>> map(lambda x: x + 1, [ x for x in range(10) ])
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
->>> list(map(lambda x, y: x + y, [ x for x in range(10) ], [ y for y in range(10, 20) ]))
+>>> map(lambda x, y: x + y, [ x for x in range(10) ], [ y for y in range(10, 20) ])
 [10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
 ```
 
