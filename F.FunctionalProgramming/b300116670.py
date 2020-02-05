@@ -1,14 +1,22 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 28 15:22:09 2020
+Created on Tue Feb  4 15:33:03 2020
 
 @author: kdmar
 """
 
-def fact(x)
-   if x == 1:
-       return 1
-   else:
-       return x * fact(x-1)
 
 
+a = [x for x in range (10)]
+print(a)
+
+
+s = [2*x for x in range(10)]
+print(s)
+
+
+j = [x for x in range(10) if x % 2 == 0]
+print(j)
+
+
+g =  [x for x in range(10) if x % 2 != 0 ]
