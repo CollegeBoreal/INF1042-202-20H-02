@@ -1,22 +1,50 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb  4 15:33:03 2020
+Created on Mon Feb 10 18:10:12 2020
 
 @author: kdmar
 """
 
+#imprimer de 0 a 9
 
+range (10)
+a = [ x for x in range (10)]
 
-a = [x for x in range (10)]
-print(a)
+print (a)
 
+#imprimer les nombres pairs
 
-s = [2*x for x in range(10)]
-print(s)
+b = [x *2 for x in range (10)]
 
+print (b)
 
-j = [x for x in range(10) if x % 2 == 0]
-print(j)
+# imprimer les nombres impairs
 
+c = [x for x in range (10) if x % 2 != 0 ]
 
-g =  [x for x in range(10) if x % 2 != 0 ]
+print (c)
+
+# methode 2 pour imprimer les nombres pairs
+
+d = [x for x in range (10) if x % 2 == 0]
+
+print (d)
+
+# set
+a = {2,2,2,2,}
+
+print (a)
+
+a = {3, 3,  2, 2, 2}
+print (a)
+
+b = {'a' : 3, 'b': 4, 'c': 5}
+print (b)
+
+a, b, c = (8, 6, 10)
+print (a,b,c)
+
+x, y, z = (1, 1/2, 0.2)
+print (x, y, z)
+
+a, b, c = (8, 6, 10)
