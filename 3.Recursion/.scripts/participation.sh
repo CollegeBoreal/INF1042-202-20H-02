@@ -10,7 +10,9 @@ source ../.scripts/students.sh --source-only
 
    
 echo "# Participation au `date +"%d-%m-%Y %H:%M"`"
-echo "\n## Légende\n"
+echo " "
+echo "## Légende"
+echo ""
 
 echo "| Signe              | Signification                 |"
 echo "|--------------------|-------------------------------|"
@@ -18,7 +20,9 @@ echo "| :heavy_check_mark: | Prêt à être corrigé           |"
 echo "| :x:                | Projet inexistant             |"
 
 
-echo "\n## Résultat\n"
+echo " "
+echo "## Résultat"
+echo " "
 echo "|:hash:| Boréal :id:                | Execution          | Notation         |"
 echo "|------|----------------------------|--------------------|------------------|"
 
