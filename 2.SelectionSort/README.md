@@ -26,8 +26,6 @@ print( selectionSort([5, 3, 6, 2, 10]) # Affiche le résultalt d'un Tri dans un 
 |------|----------------------------|--------------------|------------------|
 | 6 | [300116685](b300116685.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300116685) | [:x:](.scripts/Notation.md#etudiant-300116685) |
 | 9 | [300117314](b300117314.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117314) | [:x:](.scripts/Notation.md#etudiant-300117314) |
-| 15 | [300118196](b300118196.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300118196) | [:bar_chart:](.scripts/Notation.md#etudiant-300118196) |
-
 
 
 # :bookmark: Arrays vs List
