@@ -1,4 +1,4 @@
-# Execution au 05-02-2020 18:45
+# Execution au 11-02-2020 09:09
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -24,21 +24,22 @@
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116593.py': [Errno 2] No such file or directory
+  File "b300116593.py", line 18
+SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 18, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116670.py': [Errno 2] No such file or directory
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116685.py': [Errno 2] No such file or directory
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 

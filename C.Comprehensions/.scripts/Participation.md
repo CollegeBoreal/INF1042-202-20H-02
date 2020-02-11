@@ -1,4 +1,4 @@
-# Participation au 05-02-2020 18:45
+# Participation au 11-02-2020 09:09
 
 ## Légende
 
@@ -14,9 +14,9 @@
 | 1 | [300111441](../b300111441.py) | [:x:](Execution.md#etudiant-300111441) | [:x:](Notation.md#etudiant-300111441) |
 | 2 | [300115065](../b300115065.py) | [:x:](Execution.md#etudiant-300115065) | [:x:](Notation.md#etudiant-300115065) |
 | 3 | [300115140](../b300115140.py) | [:heavy_check_mark:](Execution.md#etudiant-300115140) | [:bar_chart:](Notation.md#etudiant-300115140) |
-| 4 | [300116593](../b300116593.py) | [:x:](Execution.md#etudiant-300116593) | [:x:](Notation.md#etudiant-300116593) |
-| 5 | [300116670](../b300116670.py) | [:x:](Execution.md#etudiant-300116670) | [:x:](Notation.md#etudiant-300116670) |
-| 6 | [300116685](../b300116685.py) | [:x:](Execution.md#etudiant-300116685) | [:x:](Notation.md#etudiant-300116685) |
+| 4 | [300116593](../b300116593.py) | [:heavy_check_mark:](Execution.md#etudiant-300116593) | [:bar_chart:](Notation.md#etudiant-300116593) |
+| 5 | [300116670](../b300116670.py) | [:heavy_check_mark:](Execution.md#etudiant-300116670) | [:bar_chart:](Notation.md#etudiant-300116670) |
+| 6 | [300116685](../b300116685.py) | [:heavy_check_mark:](Execution.md#etudiant-300116685) | [:bar_chart:](Notation.md#etudiant-300116685) |
 | 7 | [300116973](../b300116973.py) | [:heavy_check_mark:](Execution.md#etudiant-300116973) | [:bar_chart:](Notation.md#etudiant-300116973) |
 | 8 | [300117178](../b300117178.py) | [:x:](Execution.md#etudiant-300117178) | [:x:](Notation.md#etudiant-300117178) |
 | 9 | [300117314](../b300117314.py) | [:x:](Execution.md#etudiant-300117314) | [:x:](Notation.md#etudiant-300117314) |
