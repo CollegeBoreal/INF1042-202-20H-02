@@ -1,4 +1,4 @@
-# Execution au 04-02-2020 13:26
+# Execution au 11-02-2020 09:00
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -31,7 +31,10 @@
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-[3, 5, 6, 25, 45]
+Traceback (most recent call last):
+  File "b300116670.py", line 23, in <module>
+    print (selections([5, 3,6, 25, 45]))
+NameError: name 'selections' is not defined
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
@@ -89,7 +92,7 @@ u
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-python: can't open file 'b300117782.py': [Errno 2] No such file or directory
+[2, 4, 5, 7, 16, 33]
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 

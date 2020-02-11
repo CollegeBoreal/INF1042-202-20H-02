@@ -1,4 +1,4 @@
-# Correction au 04-02-2020 13:26
+# Correction au 11-02-2020 09:00
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -30,9 +30,12 @@
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Correction du script 300116670 =============== 
-[3, 5, 6, 25, 45]
---------------------
-:tada: :tada: :tada:
+Traceback (most recent call last):
+  File ".scripts/b300116670.spec.py", line 2, in <module>
+    from b300116670 import selectionSort
+  File "./b300116670.py", line 23, in <module>
+    print (selections([5, 3,6, 25, 45]))
+NameError: name 'selections' is not defined
 ###  =[END]============== Correction du script 300116670 =============== 
 
 ## Etudiant 300116685 
@@ -48,7 +51,7 @@ u
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300116685' (./b300116685.py)
+ImportError: cannot import name selectionSort
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
@@ -73,7 +76,7 @@ ImportError: cannot import name 'selectionSort' from 'b300116685' (./b300116685.
 Traceback (most recent call last):
   File ".scripts/b300117314.spec.py", line 2, in <module>
     from b300117314 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300117314' (./b300117314.py)
+ImportError: cannot import name selectionSort
 ###  =[END]============== Correction du script 300117314 =============== 
 
 ## Etudiant 300117444 
@@ -92,10 +95,9 @@ ImportError: cannot import name 'selectionSort' from 'b300117314' (./b300117314.
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Correction du script 300117782 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117782.spec.py", line 2, in <module>
-    from b300117782 import selectionSort
-ModuleNotFoundError: No module named 'b300117782'
+[2, 4, 5, 7, 16, 33]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117782 =============== 
 
 ## Etudiant 300117784 
@@ -115,10 +117,8 @@ ModuleNotFoundError: No module named 'b300117782'
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Correction du script 300118196 =============== 
 [0, 2, 4, 5, 45, 87]
-Traceback (most recent call last):
-  File ".scripts/b300118196.spec.py", line 2, in <module>
-    from b300118196 import selectionSort
-ImportError: cannot import name 'selectionSort' from 'b300118196' (./b300118196.py)
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300118196 =============== 
 
 ## Etudiant 300118524 

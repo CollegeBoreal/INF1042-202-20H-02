@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan 28 13:57:47 2020
+Created on Mon Feb 10 18:10:12 2020
 
-@author: dell
+@author: kdmar
 """
-
 
 #imprimer de 0 a 9
 
@@ -49,4 +48,3 @@ x, y, z = (1, 1/2, 0.2)
 print (x, y, z)
 
 a, b, c = (8, 6, 10)
-

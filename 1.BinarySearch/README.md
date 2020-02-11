@@ -28,8 +28,6 @@ print( binary_search(my_list, -1)) # affiche None car ne trouve aucun indice
 
 |:hash:| Boréal :id:                | Execution          | Notation         |
 |------|----------------------------|--------------------|------------------|
-| 6 | [300116685](b300116685.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300116685) | [:bar_chart:](.scripts/Notation.md#etudiant-300116685) |
-| 10 | [300117444](b300117444.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117444) | [:bar_chart:](.scripts/Notation.md#etudiant-300117444) |
-| 15 | [300118196](b300118196.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300118196) | [:bar_chart:](.scripts/Notation.md#etudiant-300118196) |
+| 6 | [300116685](b300116685.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300116685) | [:x:](.scripts/Notation.md#etudiant-300116685) |
 
 
