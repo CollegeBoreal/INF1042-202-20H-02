@@ -1,5 +1,5 @@
 
-"" Morti"
+"" Morti""
 
 a=int(input("entrer un chiffre\n") )
 x =a

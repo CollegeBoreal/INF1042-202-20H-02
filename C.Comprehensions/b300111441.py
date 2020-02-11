@@ -1,16 +1,15 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 10 19:32:36 2020
+Created on Tue Feb 11 13:21:17 2020
 
-@author: zoureni
+@author: skofo
 """
 
 def rightTriangle(max):
     
     max =[ (a,b,c)
     
-    for c in range(1 , 11) 
+    for c in range(1 , 15)
     for a in range(1,c - 1) 
     for b in range(1, a - 1)  
 
@@ -20,5 +19,4 @@ def rightTriangle(max):
     return max
     
 print( rightTriangle(max) )
-    
     
