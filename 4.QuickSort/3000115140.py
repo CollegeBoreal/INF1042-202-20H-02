@@ -11,9 +11,6 @@ def quicksort(array):
         less = [i for i in array[1:] if i <= pivot]   
         greater = [i for i in array[1:] if i > pivot]             
         return quicksort(less) + [pivot] + quicksort(greater)
-print (quicksort([2,3,6,9]))
-
-
-
+print(quicksort ([2,3,9,40,4]))
 
 
