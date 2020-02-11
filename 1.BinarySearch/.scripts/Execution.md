@@ -1,4 +1,4 @@
-# Execution au 04-02-2020 13:19
+# Execution au 11-02-2020 08:56
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -69,10 +69,9 @@ None
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-  File "b300117444.py", line 2
-    Created on Wed Jan 09 14:01:02 2020
-             ^
-SyntaxError: invalid syntax
+1
+5
+None
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -112,6 +111,7 @@ None
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
 3
+4
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 

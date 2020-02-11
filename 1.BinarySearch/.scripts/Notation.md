@@ -1,4 +1,4 @@
-# Correction au 04-02-2020 13:19
+# Correction au 11-02-2020 08:56
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -43,7 +43,7 @@ None
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import binary_search
-ImportError: cannot import name 'binary_search' from 'b300116685' (./b300116685.py)
+ImportError: cannot import name binary_search
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
@@ -70,13 +70,11 @@ ImportError: cannot import name 'binary_search' from 'b300116685' (./b300116685.
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Correction du script 300117444 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117444.spec.py", line 2, in <module>
-    from b300117444 import binary_search
-  File "./b300117444.py", line 2
-    Created on Wed Jan 09 14:01:02 2020
-             ^
-SyntaxError: invalid syntax
+1
+5
+None
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117444 =============== 
 
 ## Etudiant 300117705 
@@ -114,8 +112,9 @@ None
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Correction du script 300118196 =============== 
 3
+4
 --------------------
-:no_entry: :no_entry: :interrobang:
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300118196 =============== 
 
 ## Etudiant 300118524 
