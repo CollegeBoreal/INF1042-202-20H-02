@@ -5,33 +5,26 @@ Created on Tue Jan 21 13:32:22 2020
 @author: 10
 """
 
-def binary_search (list, item) :
-    low = 0
-    high = len (list) -1
-   
-    while low <= high :
+def TrouvPlusPetit(arr):
+    
+        LaPlusPetite = arr[0]
+        LaPlusPetite_index = 0
         
-        mid = (low + high)//2
-        guess = list[mid]
+        for i in range(1, len(arr)):
+            if arr[i] < LaPlusPetite:
+                LaPlusPetite = arr[i]
+                LaPlusPetite_index = i
         
-        if guess == item :
-            return mid
-        
-        if guess > item :
-            high = mid -1
-        
-        else :
-            low = mid + 1
-            
-
-    return None
-
-my_list = [5, 7, 7, 11, 14, 19, 20, 25]
+        return LaPlusPetite_index
 
 
-
-print (binary_search (my_list, 14))
-print (binary_search (my_list, 25))
-
-
-
+def selectionSort(arr):
+ 
+    newArr = []
+ 
+    for i in range(len(arr)):
+      smallest = TrouvPlusPetit(arr)
+      newArr.append(arr.pop(smallest ))
+ 
+    return newArr
+print (selectionSort([24, 21, 11, 74, 45, 12, 19, 17]))
