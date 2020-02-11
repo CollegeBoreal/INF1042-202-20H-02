@@ -1,10 +1,26 @@
-"""cher amis ce programmer consiste a calculer
-le somme d'un liste des numero"""
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb 11 13:53:26 2020
 
-def list_sum(num_list) :
-    if len (num_list) ==1 :
-        return num_list [0]
-    else:
-        return  num_list [0]+ list_sum(num_list[1:])
+@author: Amir
+"""
 
-print(list_sum([2,4,5,6,7]))
+def binary_search( list, item):
+    low = 0
+    high = len (list)-1 
+   
+    while low <= high:
+        mid = (low + high) //2
+        guess = list [mid] 
+        if guess == item:
+            return mid
+        if guess > item:
+            high = mid - 1
+        else:
+            low = mid + 1
+    return None
+
+my_list = [5,7,11,14,19,20,25]
+trouve = 11
+
+print( binary_search( my_list, trouve))
