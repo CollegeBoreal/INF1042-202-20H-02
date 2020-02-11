@@ -10,7 +10,7 @@ def rightTriangle(max):
     
     max =[ (a,b,c)
     
-    for c in range(1 , 11)
+    for c in range(1 , 11) 
     for a in range(1,c - 1) 
     for b in range(1, a - 1)  
 
