@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-def rightangle(max):
+def rightTriangle(max):
 
     l = [(a, b, c)
 
@@ -21,5 +21,5 @@ def rightangle(max):
 
     return l
 
-print (rightangle(24))
+print (rightTriangle(24))
 
