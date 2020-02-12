@@ -1,4 +1,4 @@
-# Correction au 11-02-2020 08:56
+# Correction au 12-02-2020 13:17
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -41,9 +41,9 @@ None
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
 24
 Traceback (most recent call last):
-  File ".scripts/b300116685.spec.py", line 2, in <module>
-    from b300116685 import binary_search
-ImportError: cannot import name binary_search
+  File ".scripts/b300116685.spec.py", line 3, in <module>
+    test = binary_search( [5,7,11,14,19,20,25], 11) == 2 
+TypeError: binary_search() takes exactly 1 argument (2 given)
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
