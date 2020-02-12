@@ -1,4 +1,4 @@
-# Correction au 11-02-2020 09:00
+# Correction au 12-02-2020 13:20
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -40,18 +40,2006 @@ NameError: name 'selections' is not defined
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
-a
-i
-l
-o,
-r
-t
-t
-u
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import selectionSort
-ImportError: cannot import name selectionSort
+  File "./b300116685.py", line 24, in <module>
+    print(selectionSort([16, 2, 7, 4, 5, 33]))
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+  File "./b300116685.py", line 18, in selectionSort
+    smallest = selectionSort(arr)
+RuntimeError: maximum recursion depth exceeded
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
@@ -71,12 +2059,9 @@ ImportError: cannot import name selectionSort
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Correction du script 300117314 =============== 
-4
-7
-Traceback (most recent call last):
-  File ".scripts/b300117314.spec.py", line 2, in <module>
-    from b300117314 import selectionSort
-ImportError: cannot import name selectionSort
+[11, 12, 17, 19, 21, 24, 45, 74]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117314 =============== 
 
 ## Etudiant 300117444 
