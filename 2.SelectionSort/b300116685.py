@@ -1,19 +1,24 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 11 14:50:22 2020
+def selectionSort(arr):
+    smallest = arr[0]
+    smallest_index = 0
 
-@author: Amir
-"""
-def quicksort(array):
-    A = ['t','u','t','o,','r','i','a','l']
-    for i in range (len (A)):
-        min_= i
-    for j in range (i+1, len(A)):
-        if A [min_] > A[j]:
-            min_ = j
-    #swap
-    A [i], A[min_] = A [min_] , A[i]
-#main
-    for i in range (len (A)):
-        
-print(quicksort(A[i]))   
+    for i in range(1, len(arr)):
+
+        if arr[i] < smallest:
+            smallest = arr[i]
+            smallest_index = i
+
+    return smallest_index
+
+
+def selectionSort(arr):
+    nouveau_arr = []
+
+    for i in range(len(arr)):
+        smallest = selectionSort(arr)
+        nouveau_arr.append(arr.pop(smallest))
+
+    return nouveau_arr
+
+
+print(selectionSort([16, 2, 7, 4, 5, 33]))
