@@ -11,9 +11,9 @@ def rightTriangle (max):
     if a**2 + b**2 == c**2 and  a + b + c == 24]
          
     return rightTriangle
-print (rightTriangle(24))
+#print (rightTriangle(24))
     
 
 
-print( rightTriangle(max) ) # Affiche le résultalt de la taille du triangle 
-# Affichage en tuples dans une liste 
+print(rightTriangle(max) ) # Affiche le résultalt de la taille du triangle 
+# Affichage en tuples dans une liste
