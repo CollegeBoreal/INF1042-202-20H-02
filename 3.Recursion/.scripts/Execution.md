@@ -1,4 +1,4 @@
-# Execution au 11-02-2020 09:03
+# Execution au 12-02-2020 13:21
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
@@ -51,7 +51,7 @@
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
   File "b300117314.py", line 2
-    "" Morti"
+    "" Morti""
            ^
 SyntaxError: invalid syntax
 ```
@@ -81,7 +81,7 @@ Le resultat est :
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117784.py': [Errno 2] No such file or directory
+720
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 ## Etudiant 300117806 

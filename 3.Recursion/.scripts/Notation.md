@@ -1,4 +1,4 @@
-# Correction au 11-02-2020 09:04
+# Correction au 12-02-2020 13:21
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
 2432902008176640000
@@ -55,7 +55,7 @@ Traceback (most recent call last):
   File ".scripts/b300117314.spec.py", line 2, in <module>
     from b300117314 import fact
   File "./b300117314.py", line 2
-    "" Morti"
+    "" Morti""
            ^
 SyntaxError: invalid syntax
 ###  =[END]============== Correction du script 300117314 =============== 
@@ -83,10 +83,9 @@ Le resultat est :
 ###  =[END]============== Correction du script 300117782 =============== 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Correction du script 300117784 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117784.spec.py", line 2, in <module>
-    from b300117784 import fact
-ImportError: No module named b300117784
+720
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117784 =============== 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Correction du script 300117806 =============== 
