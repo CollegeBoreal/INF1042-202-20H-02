@@ -1,12 +1,24 @@
-A = ['t','u','t','o,','r','i','a','l']
-for i in range (len (A)):
-    min_= i
-    for j in range (i+1, len(A)):
-        if A [min_] > A[j]:
-            min_ = j
-    #swap
-    A [i], A[min_] = A [min_] , A[i]
-#main
-for i in range (len (A)):
-    print(A[i])
+def selectionSort(arr):
+    smallest = arr[0]
+    smallest_index = 0
 
+    for i in range(1, len(arr)):
+
+        if arr[i] < smallest:
+            smallest = arr[i]
+            smallest_index = i
+
+    return smallest_index
+
+
+def selectionSort(arr):
+    nouveau_arr = []
+
+    for i in range(len(arr)):
+        smallest = selectionSort(arr)
+        nouveau_arr.append(arr.pop(smallest))
+
+    return nouveau_arr
+
+
+print(selectionSort([16, 2, 7, 4, 5, 33]))

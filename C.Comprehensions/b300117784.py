@@ -1,4 +1,15 @@
-def rightTriangle (max):
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb 12 13:47:53 2020
+
+@author: Bertrand
+"""
+
+# Devoir Triangle 
+
+
+
+def rightTriangle(max):
 
     rightTriangle = [(a, b, c) 
     
@@ -11,9 +22,5 @@ def rightTriangle (max):
     if a**2 + b**2 == c**2 and  a + b + c == 24]
          
     return rightTriangle
-#print (rightTriangle(24))
+print (rightTriangle(24))
     
-
-
-print(rightTriangle(max) ) # Affiche le résultalt de la taille du triangle 
-# Affichage en tuples dans une liste
