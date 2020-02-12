@@ -78,7 +78,8 @@
 :pushpin: `reduce(function, iterables)`
 
 ```
->>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
+>>> import functools
+>>> functools.reduce(lambda x, y: x + y, [ x for x in range(10) ])
 45
 ```
 
