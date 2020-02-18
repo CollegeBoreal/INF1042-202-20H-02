@@ -45,6 +45,9 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 |:hash:| Boréal :id:                | Execution          | Notation         |
 |------|----------------------------|--------------------|------------------|
 | 3 | [300115140](b300115140.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300115140) | [:x:](.scripts/Notation.md#etudiant-300115140) |
+| 3 | [300117178](b300117178.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117178) | [:x:](.scripts/Notation.md#etudiant-300117178) |
+
+
 
 # References
 
