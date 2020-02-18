@@ -31,4 +31,9 @@
 >>>  age, prenom = x
 ```
 
+```
+>>> l = [ x for x in range(10)]
+>>> h, *t = l
+```
+
 
