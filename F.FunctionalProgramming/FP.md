@@ -57,6 +57,22 @@
 >>> [ f(x) for x in range(10) if g(x) ]
 ```
 
+### :m: HoF (Higher Order Function)
+
+
+```
+def twice(function): 
+   return lambda x: function(function(x))  
+
+def f(x): 
+   return x + 3 
+
+g = twice(f)
+
+print g(7)  
+```
+
+
 ### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
 
 :pushpin: `map(function, iterables)`
