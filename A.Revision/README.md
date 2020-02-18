@@ -48,6 +48,8 @@ $ python monprogramme.py
 
 :two: Structure de controle
 
+* Recursive Case
+
 ```python
 >>> def loop(x):
 ...    loop(x)
@@ -60,4 +62,10 @@ Traceback (most recent call last):
   File "<stdin>", line 2, in loop
   [Previous line repeated 996 more times]
 RecursionError: maximum recursion depth exceeded
+```
+
+* Base Case
+
+```
+Condition qui arrete la recursion
 ```
