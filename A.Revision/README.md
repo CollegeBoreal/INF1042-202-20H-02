@@ -13,5 +13,22 @@
 
 :one: Structure de donnees
 
+* Variable
+
+```
+>>> x = 5
+```
+
+* Tuple
+
+```
+>>> x = ( 5, 'Oriane')
+```
+
+* Unpacking (Affectation multiple)
+
+```
+>>>  age, prenom = x
+```
 
 
