@@ -69,3 +69,12 @@ RecursionError: maximum recursion depth exceeded
 ```
 Condition qui arrete la recursion
 ```
+
+* Anonymous function
+
+```
+>>> list(map(lambda x: x * 2, [x for x in range(10)]))
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+>>> set(map(lambda x: x * 2, [x for x in range(10)]))
+{0, 2, 4, 6, 8, 10, 12, 14, 16, 18}
+```
