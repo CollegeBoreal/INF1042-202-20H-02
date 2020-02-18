@@ -1,4 +1,4 @@
-# Correction au 12-02-2020 13:17
+# Correction au 18-02-2020 12:34
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -43,7 +43,7 @@ None
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 3, in <module>
     test = binary_search( [5,7,11,14,19,20,25], 11) == 2 
-TypeError: binary_search() takes exactly 1 argument (2 given)
+TypeError: binary_search() takes 1 positional argument but 2 were given
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
