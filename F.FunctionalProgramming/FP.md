@@ -99,3 +99,7 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehe
 ```
 >>> from functools import reduce
 ```
+
+### Unpacking
+
+https://stackoverflow.com/questions/6967632/unpacking-extended-unpacking-and-nested-extended-unpacking/6968451#6968451
