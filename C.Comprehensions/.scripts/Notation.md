@@ -1,4 +1,4 @@
-# Correction au 12-02-2020 13:21
+# Correction au 18-02-2020 12:40
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -16,18 +16,16 @@
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Correction du script 300115140 =============== 
-[(8, 6, 10)]
+[(6, 8, 10), (8, 6, 10)]
 --------------------
-:tada: :tada: :tada:
+:no_entry: :no_entry: :interrobang:
 ###  =[END]============== Correction du script 300115140 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Correction du script 300116593 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300116593.spec.py", line 2, in <module>
-    from b300116593 import rightTriangle
-  File "./b300116593.py", line 18
-SyntaxError: Non-ASCII character '\xc3' in file ./b300116593.py on line 18, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+[(8, 6, 10)]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116593 =============== 
 
 ## Etudiant 300116670 
@@ -70,7 +68,7 @@ SyntaxError: Non-ASCII character '\xc3' in file ./b300116593.py on line 18, but 
 Traceback (most recent call last):
   File ".scripts/b300117444.spec.py", line 2, in <module>
     from b300117444 import rightTriangle
-ImportError: No module named b300117444
+ModuleNotFoundError: No module named 'b300117444'
 ###  =[END]============== Correction du script 300117444 =============== 
 
 ## Etudiant 300117705 
@@ -82,27 +80,23 @@ ImportError: No module named b300117444
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Correction du script 300117782 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117782.spec.py", line 2, in <module>
-    from b300117782 import rightTriangle
-ImportError: No module named b300117782
+[(6, 8, 10), (8, 6, 10)]
+--------------------
+:no_entry: :no_entry: :interrobang:
 ###  =[END]============== Correction du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Correction du script 300117784 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117784.spec.py", line 2, in <module>
-    from b300117784 import rightTriangle
-ImportError: No module named b300117784
+[(8, 6, 10)]
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Correction du script 300117806 =============== 
-[(1, 2, 3)]
-Traceback (most recent call last):
-  File ".scripts/b300117806.spec.py", line 2, in <module>
-    from b300117806 import rightTriangle
-ImportError: cannot import name rightTriangle
+[(6, 8, 10), (8, 6, 10)]
+--------------------
+:no_entry: :no_entry: :interrobang:
 ###  =[END]============== Correction du script 300117806 =============== 
 
 ## Etudiant 300118196 

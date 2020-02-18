@@ -1,4 +1,4 @@
-# Execution au 12-02-2020 13:21
+# Execution au 18-02-2020 12:40
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -17,15 +17,14 @@
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-[(8, 6, 10)]
+[(6, 8, 10), (8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-  File "b300116593.py", line 18
-SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 18, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -67,7 +66,7 @@ SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 18, but no
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117444.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -81,21 +80,21 @@ SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 18, but no
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117782.py': [Errno 2] No such file or directory
+[(6, 8, 10), (8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117784.py': [Errno 2] No such file or directory
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-[(1, 2, 3)]
+[(6, 8, 10), (8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
