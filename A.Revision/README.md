@@ -1,5 +1,10 @@
 # Revision
 
+:x: Éxécuter Python
+
+```
+$ python monprogramme.py
+```
 
 :o: Big O Notation
 
