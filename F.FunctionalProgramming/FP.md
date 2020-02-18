@@ -57,6 +57,22 @@
 >>> [ f(x) for x in range(10) if g(x) ]
 ```
 
+### :m: HoF (Higher Order Function)
+
+
+```
+def twice(function): 
+   return lambda x: function(function(x))  
+
+def f(x): 
+   return x + 3 
+
+g = twice(f)
+
+print g(7)  
+```
+
+
 ### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
 
 :pushpin: `map(function, iterables)`
@@ -78,8 +94,8 @@
 :pushpin: `reduce(function, iterables)`
 
 ```
->>> import functools
->>> functools.reduce(lambda x, y: x + y, [ x for x in range(10) ])
+>>> from functools import reduce
+>>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
 45
 ```
 
@@ -96,6 +112,6 @@ https://brilliant.org/wiki/list-comprehension/#set-builders
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehension)
 
-```
->>> from functools import reduce
-```
+### Unpacking
+
+https://stackoverflow.com/questions/6967632/unpacking-extended-unpacking-and-nested-extended-unpacking/6968451#6968451

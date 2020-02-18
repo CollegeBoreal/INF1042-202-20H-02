@@ -1,4 +1,4 @@
-# Execution au 12-02-2020 13:21
+# Execution au 18-02-2020 12:39
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
@@ -32,7 +32,7 @@
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-('The factorial of', 5, 'is', 120)
+The factorial of 5 is 120
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 ## Etudiant 300116973 

@@ -3,16 +3,14 @@
 #une recursion
 
 
-def factorial(x):
+import math
 
+def fact(x):                        
+        if x == 1:
+            return 1
+        else :
+            return x*fact(x-1)
 
-    if x == 1:
-        return 1
-    else:
-        return (x * factorial(x-1))
-
-num = 5
-print("The factorial of", num, "is", factorial(num))
-
+print(fact(5))              
 
 

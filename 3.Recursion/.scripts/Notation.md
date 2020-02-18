@@ -1,4 +1,4 @@
-# Correction au 12-02-2020 13:21
+# Correction au 18-02-2020 12:39
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
 2432902008176640000
@@ -31,11 +31,11 @@
 ###  =[END]============== Correction du script 300116670 =============== 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Correction du script 300116685 =============== 
-('The factorial of', 5, 'is', 120)
+The factorial of 5 is 120
 Traceback (most recent call last):
   File ".scripts/b300116685.spec.py", line 2, in <module>
     from b300116685 import fact
-ImportError: cannot import name fact
+ImportError: cannot import name 'fact' from 'b300116685' (./b300116685.py)
 ###  =[END]============== Correction du script 300116685 =============== 
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Correction du script 300116973 =============== 

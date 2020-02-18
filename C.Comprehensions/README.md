@@ -40,6 +40,22 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 
 ## [Participation](.scripts/Participation.md)
 
+# :warning: Issue
+
+|:hash:| Boréal :id:                | Execution          | Notation         |
+|------|----------------------------|--------------------|------------------|
+| 3 | [300115140](b300115140.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300115140) | [:x:](.scripts/Notation.md#etudiant-300115140) |
+| 8 | [300117178](b300117178.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117178) | [:x:](.scripts/Notation.md#etudiant-300117178) |
+| 10 | [300117444](b300117444.py) | [:x:](.scripts/Execution.md#etudiant-300117444) | [:x:](.scripts/Notation.md#etudiant-300117444) |
+| 12 | [300117782](b300117782.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117782) | [:x:](.scripts/Notation.md#etudiant-300117782) |
+| 14 | [300117806](b300117806.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117806) | [:x:](.scripts/Notation.md#etudiant-300117806) |
+| 15 | [300118196](b300118196.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300118196) | [:x:](.scripts/Notation.md#etudiant-300118196) |
+
+
+
+
+
+
 
 # References
 
