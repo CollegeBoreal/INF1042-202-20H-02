@@ -48,6 +48,8 @@ print( rightTriangle(max) ) affiche => [(3, 4, 5)]
 | 3 | [300117178](b300117178.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117178) | [:x:](.scripts/Notation.md#etudiant-300117178) |
 | 3 | [300117444](b300117444.py) | [:x:](.scripts/Execution.md#etudiant-300117444) | [:x:](.scripts/Notation.md#etudiant-300117444) |
 | 3 | [300117782](b300117782.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117782) | [:x:](.scripts/Notation.md#etudiant-300117782) |
+| 3 | [300117806](b300117806.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117806) | [:x:](.scripts/Notation.md#etudiant-300117806) |
+
 
 
 
