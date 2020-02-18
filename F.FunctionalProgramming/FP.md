@@ -78,8 +78,8 @@
 :pushpin: `reduce(function, iterables)`
 
 ```
->>> import functools
->>> functools.reduce(lambda x, y: x + y, [ x for x in range(10) ])
+>>> from functools import reduce
+>>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
 45
 ```
 
@@ -95,10 +95,6 @@ https://medium.com/@joshuapaulrobin/set-comprehension-in-python3-for-beginners-8
 https://brilliant.org/wiki/list-comprehension/#set-builders
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehension)
-
-```
->>> from functools import reduce
-```
 
 ### Unpacking
 
