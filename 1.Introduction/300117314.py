@@ -2,12 +2,14 @@
 """
 Created on Tue Jan 14 15:16:49 2020
 
-@author: 10
+@author: Morti
 """
 
-print ( 10 * "bonne annee \n ")
 
 
-my_list=[5, 7, 11,14,19,20,25]
+print ( 10 * "Bonne annee\n")
 
-trouve = 11
+
+#O(logN)
+for i in range(0,10): 
+    print('Bonne annee')
