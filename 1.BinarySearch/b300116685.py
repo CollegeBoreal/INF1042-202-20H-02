@@ -6,7 +6,7 @@ Created on Tue Feb 11 14:26:59 2020
 """
 
 
-def binary_search(list,items):
+def binary_search(list,item):
     ValeurMini = 0
     ValeurMaxi = len(ma_liste)-1
     
