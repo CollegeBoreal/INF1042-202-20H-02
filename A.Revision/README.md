@@ -1,5 +1,10 @@
 # Revision
 
+:x: Éxécuter Python
+
+```
+$ python monprogramme.py
+```
 
 :o: Big O Notation
 
@@ -39,4 +44,43 @@
 ```
 >>> { 4, 3, 8, 4, 9, 4, 5, 1}
 {1, 3, 4, 5, 8, 9}
+```
+
+:two: Structure de controle
+
+* Recursive Case
+
+```python
+>>> def loop(x):
+...    loop(x)
+...
+>>> loop(10)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 2, in loop
+  File "<stdin>", line 2, in loop
+  File "<stdin>", line 2, in loop
+  [Previous line repeated 996 more times]
+RecursionError: maximum recursion depth exceeded
+```
+
+* Base Case
+
+```
+Condition qui arrete la recursion
+```
+
+* Anonymous function
+
+```
+>>> list(map(lambda x: x * 2, [x for x in range(10)]))
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+>>> set(map(lambda x: x * 2, [x for x in range(10)]))
+{0, 2, 4, 6, 8, 10, 12, 14, 16, 18}
+```
+
+```
+>>> from functools import reduce
+>>> reduce(lambda x, y: x + y, [x for x in range(10)])
+45
 ```

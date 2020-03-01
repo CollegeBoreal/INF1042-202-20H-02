@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar  1 18:03:52 2020
 
 @author: Amir
 """
+=======
+>>>>>>> e1c2bbe03e8b7a3161aecaf721eb449ac36411fc
 def trouvepetit (arr):
     petit = arr [0]
     petit_index = 0

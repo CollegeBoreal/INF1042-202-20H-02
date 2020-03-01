@@ -56,6 +56,7 @@ Introduction à la programmation (Algorithmes)
 | Site                            | Lien                                                                             |
 |:--------------------------------|:---------------------------------------------------------------------------------|
 | Python Water Pouring            | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
+| sorting                         | https://github.com/lucs123/sorting-visualizer-matplotlib |
 
 
 ## Coding Paradigm
