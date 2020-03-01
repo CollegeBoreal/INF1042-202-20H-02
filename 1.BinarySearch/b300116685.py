@@ -1,32 +1,34 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 11 14:26:59 2020
+Created on Sun Mar  1 18:13:34 2020
 
 @author: Amir
 """
 
-
-def binary_search(list,article):
-    ValeurMini = 0
-    ValeurMaxi = len(ma_liste)-1
-    
-    
-    while ValeurMini <= ValeurMaxi:
-        mid= (ValeurMini + ValeurMaxi)//2
+def binary_search (list, item) :
+    low = 0
+    high = len (list) -1
+   
+    while low <= high :
+        
+        mid = (low + high)//2
         guess = list[mid]
-        if guess == article :
-           return mid
-        if guess > article:
-           ValeurMaxi = mid - 1
-        else:
-            ValeurMini = mid + 1
-    return None 
+        
+        if guess == item :
+            return mid
+        
+        if guess > item :
+            high = mid -1
+        
+        else :
+            low = mid + 1
+            
+
+    return None
+
+my_list = [5, 7, 7, 11, 14, 19, 20, 25]
 
 
 
-ma_liste = [1,7,11,14,19,20,25]
-
-
-print (binary_search(ma_liste, 7))
-print (binary_search(ma_liste, 20))
-print (binary_search(ma_liste, 21))
+print (binary_search (my_list, 25))
+print (binary_search (my_list, 14))

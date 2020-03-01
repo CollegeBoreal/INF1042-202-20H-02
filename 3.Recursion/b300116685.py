@@ -1,16 +1,14 @@
-"""une programe recursion """
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar  1 18:15:58 2020
 
-#une recursion
+@author: Amir
+"""
 
-
-import math
-
-def fact(x):                        
-        if x == 1:
-            return 1
-        else :
-            return x*fact(x-1)
-
-print(fact(5))              
-
-
+def fact(x) :
+    if x== 1:
+        return 1
+    else:
+        return x * fact (x-1)
+    
+print (fact(5))
