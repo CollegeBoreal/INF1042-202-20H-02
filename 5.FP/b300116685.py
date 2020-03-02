@@ -1,18 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 13 15:58:43 2020
+Created on Sun Mar  1 19:14:29 2020
 
 @author: Amir
 """
 
-list(map( lambda x: x * 2, range(10)))
+t=map (lambda x:x*x, range (10))
+print (list(t))
 
 
-#  Filter
-list(filter( lambda x: x >= 5 , range(20)))
 
+import functools 
 
-# Reduce
-
-import functools
-functools.reduce( lambda x, y: x + y, range(10))
+print (functools.reduce (lambda x, y: x + y, range (10)))
