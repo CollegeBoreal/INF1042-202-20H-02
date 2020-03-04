@@ -13,7 +13,8 @@ def ajout(tuple):
 Example: 
 
 ```
-print( ajout(('ma_cle', [0,1,2,3,4])) # Retourne un dictionnaire comprenant la cle et la valeur frounit par le tuple
+# Retourne un dictionnaire comprenant la cle et la valeur frounit par le tuple
+print( ajout(('ma_cle', [0,1,2,3,4])) 
 ```
 
 ## [Participation](.scripts/Participation.md)
