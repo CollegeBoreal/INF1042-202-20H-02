@@ -17,3 +17,30 @@ etudiants [300116673] = "nathalie"
 etudiants [300116670] = "auriane"
 etudiants [300117782] = "erna"
 print (etudiants)
+t = ('a', 5.0)
+a, b = t
+print (t)
+
+
+#book = dick ()
+
+
+
+
+#def ajout (tuple) :
+ #   return book
+#recettes = {}
+recette = {}
+recette ["mafe"] = ['huile', 'eau', 'poisson', 'epices', 'tomates']
+recette ['amfe_le_prix']=50
+
+print(recette)
+recettes.values()
+dict_values (['huile', 'eau', 'viande'])
+[x for x in recettes.values()]
+
+print (recettes.values)
+
+
+
+

@@ -12,3 +12,19 @@ book = dict()
 book['pomme'] = .99
 book['avocat'] = 2.5
 book['atieke'] = 5.0
+<<<<<<< HEAD
+=======
+
+recettes = {}
+recettes['mafe'] = ['huile', 'eau', 'maggi', 'poisson', 'epices', 'tomates']
+recettes['coucous'] = ['semoule', 'tomates', 'poivrons', 'boeuf', 'pois-chiches']
+
+def ajout(tuple):
+   # rajouter le tuple 
+   return recettes
+
+[ x for x in recettes.keys() ]
+[ x for x in recettes.values() ]
+  
+
+>>>>>>> ab1f746905bee590966a94bbcdc4a633bacee289
