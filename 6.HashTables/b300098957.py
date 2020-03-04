@@ -12,8 +12,6 @@ book = dict()
 book['pomme'] = .99
 book['avocat'] = 2.5
 book['atieke'] = 5.0
-<<<<<<< HEAD
-=======
 
 recettes = {}
 recettes['mafe'] = ['huile', 'eau', 'maggi', 'poisson', 'epices', 'tomates']
@@ -23,8 +21,12 @@ def ajout(tuple):
    # rajouter le tuple 
    return recettes
 
+# keys and values List Comprehensions
+
 [ x for x in recettes.keys() ]
 [ x for x in recettes.values() ]
-  
 
->>>>>>> ab1f746905bee590966a94bbcdc4a633bacee289
+# Hascoding
+
+from hashlib import sha256
+sha256(r'Corlings'.encode('utf-8')).hexdigest()
