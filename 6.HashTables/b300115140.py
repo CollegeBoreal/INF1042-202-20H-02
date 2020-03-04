@@ -24,3 +24,8 @@ recettes['coucous'] = ['semoule', 'tomates', 'poivrons', 'boeuf', 'pois-chiches'
 def ajout(tuple):
    # rajouter le tuple 
    return recettes
+
+[ x for x in recettes.keys() ]
+[ x for x in recettes.values() ]
+
+
