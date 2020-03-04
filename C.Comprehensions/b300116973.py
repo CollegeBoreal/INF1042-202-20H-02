@@ -18,6 +18,7 @@ def rightTriangle(max):
     if a**2 + b**2 == c**2 and  a + b + c == 24]
          
     return rightTriangle
+
 print (rightTriangle(24))
     
 
