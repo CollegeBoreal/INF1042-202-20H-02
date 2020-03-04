@@ -17,3 +17,10 @@ book ['atieke'] = 5.0
 
 print (book)
 
+recettes = {}
+recettes['mafe'] = ['huile', 'eau', 'maggi', 'poisson', 'epices', 'tomates']
+recettes['coucous'] = ['semoule', 'tomates', 'poivrons', 'boeuf', 'pois-chiches']
+
+def ajout(tuple):
+   # rajouter le tuple 
+   return recettes
