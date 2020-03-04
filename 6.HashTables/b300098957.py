@@ -13,7 +13,12 @@ book['pomme'] = .99
 book['avocat'] = 2.5
 book['atieke'] = 5.0
 
+recettes = {}
+recettes['mafe'] = ['huile', 'eau', 'maggi', 'poisson', 'epices', 'tomates']
+recettes['coucous'] = ['semoule', 'tomates', 'poivrons', 'boeuf', 'pois-chiches']
+
 def ajout(tuple):
-   return book
+   # rajouter le tuple 
+   return recettes
   
 
