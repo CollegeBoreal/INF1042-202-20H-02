@@ -13,12 +13,9 @@ book['pomme'] = .99
 book['avocat'] = 2.5
 book['atieke'] = 5.0
 
-recettes = {}
-recettes['mafe'] = ['huile', 'eau', 'maggi', 'poisson', 'epices', 'tomates']
-recettes['coucous'] = ['semoule', 'tomates', 'poivrons', 'boeuf', 'pois-chiches']
-
 def ajout(tuple):
-   # rajouter le tuple 
-   return recettes
-  
+   k, v = tuple
+   book[k] = v
+   return book
 
+print(ajout(('ma_cle', [0,1,2,3,4])))
