@@ -17,5 +17,9 @@ print (robert)
 étudiants[300117444]= 'Idir'
 print(étudiants)
 
+print (étudiants[300117444])
+
+
+
 
 
