@@ -22,24 +22,25 @@ a, b = t
 print (t)
 
 
-#book = dick ()
-
-
-
-
-#def ajout (tuple) :
- #   return book
-#recettes = {}
 recette = {}
 recette ["mafe"] = ['huile', 'eau', 'poisson', 'epices', 'tomates']
-recette ['amfe_le_prix']=50
+recette ['canadienne']=['maple', 'spaguetti', 'champignons', 'pizza']
 
 print(recette)
-recettes.values()
-dict_values (['huile', 'eau', 'viande'])
-[x for x in recettes.values()]
 
-print (recettes.values)
+def ajout (tuple):
+    x,y =tuple
+    
+    recette [x] = y
+    
+    return recette
+
+print (ajout(('ma_cle', [0,1,2,3,4])))
+
+
+
+
+
 
 
 
