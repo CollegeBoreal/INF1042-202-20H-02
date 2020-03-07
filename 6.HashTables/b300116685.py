@@ -12,15 +12,15 @@ print (dictionnaire)
 #injecter une element 
 dictionnaire ["a"]= 1
 print (dictionnaire)
-# creons un dictionnaire avec les pays africains
-Pays_Africain = {}
+# creons un dictionnaire avec les pays_touche_coronavirus
+Pays_touche_coronavirus = {}
 
-Pays_Africain [1] = 'Djibouti'
-Pays_Africain [2] = 'Somalie'
-Pays_Africain [3] =  'Cameroun'
-Pays_Africain [4] =  ' Kenya '
+Pays_touche_coronavirus [1] = 'China'
+Pays_touche_coronavirus [2] = 'Japan'
+Pays_touche_coronavirus [3] =  'Etats-Uns'
+Pays_touche_coronavirus [4] =  ' Royaume-Unis '
 
-print (Pays_Africain)
+print (Pays_touche_coronavirus)
 
 Temp = ('minute',60)
 
@@ -30,7 +30,7 @@ print (Temp)
 # creons une fonction 
 def ajout (tuple) :
      a,b = tuple
-     Pays_Africain [a] = b
-     return Pays_Africain
+     Pays_touche_coronavirus [a] = b
+     return Pays_touche_coronavirus
  
 print (ajout(('ma_cle', [0,1,2,3,4])))
