@@ -6,7 +6,9 @@ recetteskabyles ['hasbana'] = ['huile', 'tomtes', 'semoule', 'boeuf', 'razelhano
 recetteskabyles ['brickaloeuf'] = ['feuilledebrick', 'oeufs', 'fromage', 'epices', 'huile']
 
 def ajout(tuple):
-   return recetteskabyles
+    mousaoui, aitzetoun = tuple
+    recetteskabyles [mousaoui] = aitzetoun
+    return recetteskabyles
 
 [ x for x in recetteskabyles.keys() ]
 [ x for x in recetteskabyles.values() ]
