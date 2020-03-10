@@ -13,7 +13,7 @@ Series['Fictions'] = ['ARROW','Flash','Super Girl','Black Mirror']
 
 print(Series)
 
-def add(tuple):
+def ajout(tuple):
     k,v = tuple
        
     Series [k] = v
@@ -21,4 +21,4 @@ def add(tuple):
        
     return Series
 
-print (add(('key',[0,1,2,3,4])))
+print (ajout(('ma_cle',[0,1,2,3,4])))
