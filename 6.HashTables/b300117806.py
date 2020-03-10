@@ -1,15 +1,33 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar  4 14:08:16 2020
+Created on Tue Mar 10 12:35:28 2020
 
-@author: User
+@author: Lenovo G20
 """
 
-hassana = {}
+Hassana = {}
+Hassana['a'] = 1 
+Hassana['b'] = 2
+print(Hassana['a'])
+print(Hassana['b'])
 
-hassana[ 'a'] = 1
 
-print(hassana)
+etudiants = {}
+etudiants[300117806] = 'Hassana'
+etudiants[300117890]= 'lambda'
+print(etudiants)
 
-hassana['h'] = 2
-print(hassana)
+
+book = dict()
+book['salade'] = 2.95
+book['concombre'] = 1.75
+book['mayonnaise']=1.05
+print(book)
+
+
+def ajout(tuple):
+    k,v = tuple
+    book[k] = v
+    return book
+
+print(ajout(('ma_cle', [0,1,2,3,4])))
