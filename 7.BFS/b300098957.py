@@ -24,13 +24,16 @@ from collections import deque
 def search(name):
    search_queue = deque()
    search_queue += eleves[name]
+   visitee = []
    while search_queue:
       personne = search_queue.popleft()
-      if personne_elue(personne):
-         print(personne + " a le fameux Mac")
-         return True
-      else:
-         search_queue += eleves[personne]
+      if not personne in visitee:
+         if personne_elue(personne):
+            print(personne + " a le fameux Mac")
+            return True
+         else:
+            search_queue += eleves[personne]
+            visitee.append(personne)
    return False
 
 search("Boris")
