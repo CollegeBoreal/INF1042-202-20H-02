@@ -21,3 +21,5 @@ eleves["Corlings"] = []
 eleves["Aldelkrim"] = ["Souleymane", "Zack"]
 eleves["Souleymane"] = []
 eleves["Zack"] = []
+from collections import deque
+search_queue=

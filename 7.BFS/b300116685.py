@@ -1,4 +1,9 @@
-# BFS
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar 11 14:17:14 2020
+
+@author: Amir
+"""
 
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie","Bertrand"]
@@ -37,5 +42,3 @@ def search(name):
    return False
 
 search("Boris")
-
-
