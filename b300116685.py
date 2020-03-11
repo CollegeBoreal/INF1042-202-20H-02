@@ -1,36 +1,28 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar  6 14:50:27 2020
+Created on Tue Mar 10 15:10:11 2020
 
 @author: Amir
 """
-#creer un dictionnaire vide 
-dictionnaire = {}
-print (dictionnaire)
 
+#creer un programme Breadth First Search 
 
-#injecter une element 
-dictionnaire ["a"]= 1
-print (dictionnaire)
-# creons un dictionnaire avec les pays africains
-Pays_Africain = {}
+etudiants = {}
+# BFS
 
-Pays_Africain [1] = 'Djibouti'
-Pays_Africain [2] = 'Somalie'
-Pays_Africain [3] =  'Cameroun'
-Pays_Africain [4] =  ' Kenya '
-
-print (Pays_Africain)
-
-Temp = ('minute',60)
-
-c,d = Temp
-print (Temp)
-
-# creons une fonction 
-def ajout (tuple) :
-     a,b = tuple
-     Pays_Africain [a] = b
-     return Pays_Africain
- 
-print (ajout(('ma_cle', [0,1,2,3,4])))
+eleves = {}
+eleves["Boris"]=["Amir","Franck","Nathalie"]
+eleves["Amir"]=[]
+eleves["Franck"]=[]
+eleves["Nathalie"]=[]
+eleves["Bertrand"]=["Erna","Hassana"]
+eleves["Erna"]=[]
+eleves["Hassana"]=[]
+eleves["Zoureni"]=["Sekou","Auriane","Corlings"]
+eleves["Sekou"]=[]
+eleves["Auriane"]=[]
+eleves["Corlings"]=[]
+eleves["Abdelkrim"]=["Souleyman","Zack"]
+eleves["Souleyman"]=[]
+eleves["Zack"]=[]
+print (eleves)
