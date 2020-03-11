@@ -1,4 +1,6 @@
-# BFS
+#-*- coding: utf-8 -*-
+
+# breadth first search
 
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie"]
