@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 10 18:10:12 2020
+Created on Wed Mar  4 14:35:10 2020
 
 @author: kdmar
 """
-
-#imprimer de 0 a 9
 
 range (10)
 a = [ x for x in range (10)]
