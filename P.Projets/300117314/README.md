@@ -5,10 +5,13 @@ j’ai Python3 sur mon ordinateur et je sais que PIP, Netmiko, Paramiko sont dé
 
 ```
 PS > pip --version
-PS > python -m pip install -u pip
 ```
 
 <img src="images/Picture1.png" width="974" heigth="193"></img>
+
+```
+PS > pip --version
+```
 
 <img src="images/Picture2.png" width="974" heigth="193"></img>
 
