@@ -9,3 +9,6 @@ j’ai Python3 sur mon ordinateur et je sais que PIP, Netmiko, Paramiko sont dé
 <img src="images/Picture2.png" width="974" heigth="193"></img>
 
 <img src="images/Picture3.png" width="918" heigth="664"></img>
+
+<img src="images/Picture4.png" width="974" heigth="564"></img>
+
