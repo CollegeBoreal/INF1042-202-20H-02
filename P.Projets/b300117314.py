@@ -3,11 +3,8 @@ Created on Mon Mar 16 13:09:48 2020
 
 @author: Morti
 """
-"""
-Created on Mon Mar 16 13:09:48 2020
 
-@author: Morti
-"""
+
 
 import getpass
 import sys
