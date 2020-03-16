@@ -10,10 +10,14 @@ PS > pip --version
 <img src="images/Picture1.png" width="974" heigth="193"></img>
 
 ```
-PS > pip --version
+PS > python -m pip install -u pip
 ```
-
 <img src="images/Picture2.png" width="974" heigth="193"></img>
+
+```
+PS > pip install netmiko
+PS > pip install paramiko
+```
 
 <img src="images/Picture3.png" width="918" heigth="664"></img>
 
