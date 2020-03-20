@@ -72,4 +72,13 @@ Introduction à la programmation (Algorithmes)
 |:--------------------------------|:---------------------------------------------------------------------------------|
 | Muhammad al-Khwarizmi           | https://www.youtube.com/watch?v=oRkNaF0QvnI                                      |
 
+### GitHub Lab
+
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Introduction to Python          | https://lab.github.com/everydeveloper/introduction-to-python                     |
+| Intermediate Python             | https://lab.github.com/everydeveloper/intermediate-python                     |
+
+
+
 
