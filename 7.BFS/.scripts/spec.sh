@@ -9,8 +9,8 @@
 generate_spec () {
    echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" > .scripts/b${id}.spec.py
   
-   echo "from b${id} import ajout" >> .scripts/b${id}.spec.py
-   echo "test = ajout(('ma_cle', [0,1,2,3,4]))['ma_cle'] == [0,1,2,3,4]  " >> .scripts/b${id}.spec.py
+   echo "from b${id} import search" >> .scripts/b${id}.spec.py
+   echo "test = search('Boris') == 'Zoureni'  " >> .scripts/b${id}.spec.py
    echo "if  test:" >> .scripts/b${id}.spec.py
    echo "     print('--------------------')" >> .scripts/b${id}.spec.py
    echo "     print(':tada: :tada: :tada:')" >> .scripts/b${id}.spec.py

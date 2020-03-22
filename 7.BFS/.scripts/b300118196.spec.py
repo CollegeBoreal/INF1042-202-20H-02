@@ -1,6 +1,6 @@
 import sys; sys.path.append('.') # Rajouter le repertoire courant
-from b300118196 import ajout
-test = ajout(('ma_cle', [0,1,2,3,4]))['ma_cle'] == [0,1,2,3,4]  
+from b300118196 import search
+test = search('Boris') == 'Zoureni'  
 if  test:
      print('--------------------')
      print(':tada: :tada: :tada:')
