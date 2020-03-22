@@ -10,7 +10,7 @@ generate_spec () {
    echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" > .scripts/b${id}.spec.py
   
    echo "from b${id} import search" >> .scripts/b${id}.spec.py
-   echo "test = search('Boris') == 'Zoureni'  " >> .scripts/b${id}.spec.py
+   echo "test = search('Boris') == True  " >> .scripts/b${id}.spec.py
    echo "if  test:" >> .scripts/b${id}.spec.py
    echo "     print('--------------------')" >> .scripts/b${id}.spec.py
    echo "     print(':tada: :tada: :tada:')" >> .scripts/b${id}.spec.py

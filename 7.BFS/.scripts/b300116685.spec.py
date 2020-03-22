@@ -1,6 +1,6 @@
 import sys; sys.path.append('.') # Rajouter le repertoire courant
 from b300116685 import search
-test = search('Boris') == 'Zoureni'  
+test = search('Boris') == True  
 if  test:
      print('--------------------')
      print(':tada: :tada: :tada:')

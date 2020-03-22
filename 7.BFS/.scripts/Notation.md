@@ -1,4 +1,4 @@
-# Correction au 22-03-2020 17:45
+# Correction au 22-03-2020 17:53
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -37,7 +37,7 @@ SyntaxError: Non-ASCII character '\xc3' in file ./b300116593.py on line 1, but n
 Auriane a le fameux Mac
 Auriane a le fameux Mac
 --------------------
-:no_entry: :no_entry: :interrobang:
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116670 =============== 
 
 ## Etudiant 300116685 
@@ -45,7 +45,7 @@ Auriane a le fameux Mac
 Zoureni a le fameux Mac
 Zoureni a le fameux Mac
 --------------------
-:no_entry: :no_entry: :interrobang:
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116685 =============== 
 
 ## Etudiant 300116973 
@@ -53,7 +53,7 @@ Zoureni a le fameux Mac
 zourenie a le fameux mac
 Traceback (most recent call last):
   File ".scripts/b300116973.spec.py", line 3, in <module>
-    test = search('Boris') == 'Zoureni'  
+    test = search('Boris') == True  
   File "./b300116973.py", line 35, in search
     search_queue +=eleves [name]
 KeyError: 'Boris'
@@ -64,7 +64,7 @@ KeyError: 'Boris'
 Zoureni a le fameux Mac
 Zoureni a le fameux Mac
 --------------------
-:no_entry: :no_entry: :interrobang:
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117178 =============== 
 
 ## Etudiant 300117314 
