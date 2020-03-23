@@ -25,7 +25,7 @@ eleves['idir']=[]
 eleves["yassine"]=[]
 eleves["zoureni"]=['nathalie','fofana']
 
-def personne_speciale(name):
+def personne_elue(name):
     return name == 'zoureni'
 
 from collections import deque
@@ -40,10 +40,11 @@ def search(name) :
     while search_queue:
        personne=search_queue.popleft()
        if not personne in visitee:
-          if personne_speciale:
+          if personne_elue:
              print(personne + " a le fameux mac")
              return True
           else:
              search_queue += eleves [personne]
+             visitee.append(personne)
     return False
 search("boris")
