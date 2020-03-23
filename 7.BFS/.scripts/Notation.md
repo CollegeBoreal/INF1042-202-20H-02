@@ -1,4 +1,4 @@
-# Correction au 22-03-2020 17:53
+# Correction au 22-03-2020 22:17
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -69,10 +69,10 @@ Zoureni a le fameux Mac
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Correction du script 300117314 =============== 
-Traceback (most recent call last):
-  File ".scripts/b300117314.spec.py", line 2, in <module>
-    from b300117314 import search
-ImportError: No module named b300117314
+Zoureni a le fameux Mac
+Zoureni a le fameux Mac
+--------------------
+:tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117314 =============== 
 
 ## Etudiant 300117444 
