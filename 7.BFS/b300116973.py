@@ -8,7 +8,7 @@ Created on Tue Mar 10 15:07:14 2020
 #bfs
 
 eleves ={}
-eleves['boris'] = ['nathalie', 'franck','franck', 'amir']
+eleves['boris'] = ['zourenie', 'franck','franck', 'amir']
 eleves['amir']=[]
 eleves["franck"]= []
 eleves["nathalie"]=[]
@@ -32,7 +32,8 @@ from collections import deque
 
 def search(name) :
     search_queue = deque ()
-    search_queue +=eleves [name]
+    
+    search_queue += eleves[name]
     
     visitee = []
 
@@ -45,4 +46,4 @@ def search(name) :
           else:
              search_queue += eleves [personne]
     return False
-search("abdelkrim")
+search("boris")
