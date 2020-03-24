@@ -99,7 +99,6 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 | Site                            | Lien                                                                             |
 |:--------------------------------|:---------------------------------------------------------------------------------|
 | Introduction to Python          | https://lab.github.com/everydeveloper/introduction-to-python                     |
-| Intermediate Python             | https://lab.github.com/everydeveloper/intermediate-python                     |
 
 :round_pushpin: Github Learning Lab
 
