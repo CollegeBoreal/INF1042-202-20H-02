@@ -24,6 +24,15 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 ```
 
 ## Devoirs
+
+:o: Pendat travail à la maison
+
+|No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
+|--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
+|03|31-03-20|[7.BFS](7.BFS#Participation)                      | Breadth First Search                    |                  |
+
+:x: Avant travail à la maison
+
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
 |03|10-02-20|[C.Comprehensions](C.Comprehensions#Participation)| Triangle Rectangle                      |                  |
