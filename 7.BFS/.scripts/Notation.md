@@ -1,4 +1,4 @@
-# Correction au 22-03-2020 22:17
+# Correction au 30-03-2020 09:47
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -54,8 +54,8 @@ zourenie a le fameux mac
 Traceback (most recent call last):
   File ".scripts/b300116973.spec.py", line 3, in <module>
     test = search('Boris') == True  
-  File "./b300116973.py", line 35, in search
-    search_queue +=eleves [name]
+  File "./b300116973.py", line 36, in search
+    search_queue += eleves[name]
 KeyError: 'Boris'
 ###  =[END]============== Correction du script 300116973 =============== 
 
