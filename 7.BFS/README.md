@@ -9,7 +9,7 @@ Example de nom de fichier `b300098957.py`
 https://lab.github.com/CollegeBoreal/lab-algorithme-du-bfs-en-python
 
 
-:three: Copier votre programme dans le cours:
+:three: Copier votre programme dans le cours en remplaçant :id: par votre :id: github :octocat: :
 
 
 https://github.com/:id:/lab-algorithme-du-bfs-en-python
