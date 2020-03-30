@@ -9,6 +9,11 @@ Example de nom de fichier `b300098957.py`
 https://lab.github.com/CollegeBoreal/lab-algorithme-du-bfs-en-python
 
 
+:three: Copier votre programme dans le cours:
+
+
+https://github.com/:id:/lab-algorithme-du-bfs-en-python
+
 Dans le programme:
 
 - [ ] Créer un dictionnaire d`etudiants
