@@ -4,11 +4,10 @@
 
 Example de nom de fichier `b300098957.py`
 
-:two: Écrire le programme dans une fonction ayant la signature suivante:
+:two: Écrire le programme en suivant le cours ci-dessous dans [Github Leaning Lab](https://lab.github.com/CollegeBoreal):
 
-```python
-def search(name):
-```
+https://lab.github.com/CollegeBoreal/lab-algorithme-du-bfs-en-python
+
 
 Dans le programme:
 
