@@ -1,6 +1,6 @@
 # 7.BFS
 
-:one: Créer un programme `Python` ayant comme nom de fichier, votre :id: Boréal précédé d'un `b`
+:one: Créer un programme `Python` ayant comme nom de fichier, votre :id: `Boréal` précédé d'un `b`
 
 Example de nom de fichier `b300098957.py`
 
