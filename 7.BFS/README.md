@@ -14,21 +14,15 @@ https://lab.github.com/CollegeBoreal/lab-algorithme-du-bfs-en-python
 
 https://github.com/:id:/lab-algorithme-du-bfs-en-python
 
-Dans le programme:
+Copier le programme:
 
-- [ ] Créer un dictionnaire d`etudiants
+- [ ] Copier le contenu du fichier `b000000000.py`
 
-- [ ] Créer un graphe qui commence par le nom `Brice`
+- [ ] Aller dans le répertoire de votre :id: `Boréal`
 
-- [ ] Chercher la personne qui possède un mac (retourne `True`)
+- [ ] Ramplacer le contenu de votre fichier b:id:.py avec celui de `b000000000.py`
 
-
-Example: 
-
-```
-# Retourne un dictionnaire comprenant la cle et la valeur fournit par le tuple
-search('Brice') == True
-```
+En un mot, récupérer le travail que vous avez fait à travers [Github Leaning Lab](https://lab.github.com/CollegeBoreal) et le mettre dans celui du cours 7.BFS
 
 ## [Participation](.scripts/Participation.md)
 
