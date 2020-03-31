@@ -25,7 +25,7 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 ## Devoirs
 
-:o: Pendat travail à la maison
+:o: Pendant travail à la maison
 
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
