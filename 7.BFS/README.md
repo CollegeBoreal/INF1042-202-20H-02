@@ -29,3 +29,5 @@ En un mot, récupérer le travail que vous avez fait à travers [Github Leaning 
 ## [Participation](.scripts/Participation.md)
 
 # Reference
+
+![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif)
