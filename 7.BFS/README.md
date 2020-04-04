@@ -20,9 +20,9 @@ Copier le programme:
 
 - [ ] Aller dans le répertoire de votre :id: `Boréal`
 
-- [ ] Ramplacer le contenu de votre fichier `b`:id:`.py` avec celui de `b000000000.py`
+- [ ] Remplacer le contenu de votre fichier `b`:id:`.py` avec celui de `b000000000.py`
 
-Example: copier le contenu du fichier `b000000000.py` dans le fichier `b300098957.py`
+Exemple: copier le contenu du fichier `b000000000.py` dans le fichier `b300098957.py`
 
 En un mot, récupérer le travail que vous avez fait à travers [Github Leaning Lab](https://lab.github.com/CollegeBoreal) et le mettre dans celui du cours 7.BFS
 
