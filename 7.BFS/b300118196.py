@@ -1,9 +1,10 @@
-#-*- coding: utf-8 -*-
-#winpty python 'nom du fichier python' notepzd readme.md
-# breadth first search
+# -*- coding: utf-8 -*-
 
 from collections import deque
+"""
 
+@author: ndjemou99
+"""
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie","Bertrand"]
 eleves["Amir"]=[]
@@ -20,19 +21,22 @@ eleves["Abdelkrim"]=["Souleyman","Zack","Zoureni"]
 eleves["Souleyman"]=[]
 eleves["Zack"]=[]
 
-def person_is_seller(name):
-    return name == 'Zoureni'
+def personne_elue(name):
+   return name == 'Zoureni'
 
-    def search (name):
-    search_queue = deque()
-    search_queue +=eleves[name]
-    while search_queue:
-        person =search_queue.popleft()
-        if person_is_seller(person):
-            print (person + "", "have a mac")
+
+def search(name):
+   visitees = []
+   search_queue = deque()
+   search_queue += eleves[name]
+   while search_queue:
+      personne = search_queue.popleft()
+      if not personne in visitees:
+         if personne_elue(personne):
+            print(personne + " a le fameux Mac")
             return True
-        else:
-            search_queue +=eleves[person]
-    return False
-
-search('Boris')
+         search_queue += eleves[personne]
+         visitees.append(personne)
+   return False
+if __name__== "__main__":
+  search("Boris")
