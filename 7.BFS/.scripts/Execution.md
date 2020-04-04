@@ -1,4 +1,4 @@
-# Execution au 31-03-2020 15:03
+# Execution au 03-04-2020 22:03
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -17,6 +17,8 @@ SyntaxError: Non-ASCII character '\xc3' in file b300115065.py on line 15, but no
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
+14
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
@@ -45,7 +47,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-zourenie a le fameux mac
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
@@ -85,7 +87,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117784.py': [Errno 2] No such file or directory
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
@@ -108,9 +110,6 @@ IndentationError: expected an indented block
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-  File "b300118524.py", line 25
-    search_queue=
-                ^
-SyntaxError: invalid syntax
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
