@@ -1,7 +1,38 @@
 # INF1042-202-20H-02
 Introduction à la programmation (Algorithmes)
 
+```
+Topic: CBCV-218160  INF1042/2/Face à face  Introduction à la programmation
+Time: This is a recurring meeting Meet anytime
+ 
+Join Zoom Meeting
+https://collegeboreal.zoom.us/j/163707564
+ 
+One tap mobile
++15873281099,,163707564# Canada
++16473744685,,163707564# Canada
+ 
+Dial by your location
+        +1 587 328 1099 Canada
+        +1 647 374 4685 Canada
+        +1 647 558 0588 Canada
+        +1 778 907 2071 Canada
+        +1 438 809 7799 Canada
+        855 703 8985 Canada Toll-free
+Meeting ID: 163 707 564
+Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
+```
+
 ## Devoirs
+
+:o: Pendant travail à la maison
+
+|No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
+|--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
+|03|31-03-20|[7.BFS](7.BFS#Participation)                      | Breadth First Search                    |                  |
+
+:x: Avant travail à la maison
+
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
 |03|10-02-20|[C.Comprehensions](C.Comprehensions#Participation)| Triangle Rectangle                      |                  |
@@ -71,5 +102,17 @@ Introduction à la programmation (Algorithmes)
 | Site                            | Lien                                                                             |
 |:--------------------------------|:---------------------------------------------------------------------------------|
 | Muhammad al-Khwarizmi           | https://www.youtube.com/watch?v=oRkNaF0QvnI                                      |
+
+### GitHub Lab
+
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Introduction to Python          | https://lab.github.com/everydeveloper/introduction-to-python                     |
+
+:round_pushpin: Github Learning Lab
+
+https://github.com/CollegeBoreal/Tutoriels/tree/master/E.Education/M.Microsoft/0.Github-Learning
+
+
 
 

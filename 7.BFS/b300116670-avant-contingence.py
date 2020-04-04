@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+Created on Tue Mar 10 15:14:29 2020
 
-@author: setrar
+@author: kdmar
 """
 
 eleves = {}
@@ -21,23 +22,23 @@ eleves["Souleyman"]=[]
 eleves["Zack"]=[]
 
 def personne_elue(name):
-    return name == 'Zoureni'
+    return name == 'Auriane'
 
 from collections import deque
 
 def search(name):
-   visitees = []
    search_queue = deque()
    search_queue += eleves[name]
+   visitee = []
    while search_queue:
       personne = search_queue.popleft()
-      if not personne in visitees:
+      if not personne in visitee:
          if personne_elue(personne):
             print(personne + " a le fameux Mac")
             return True
-         search_queue += eleves[personne]
-         visitees.append(personne)
+         else:
+            search_queue += eleves[personne]
+            visitee.append(personne)
    return False
 
-if __name__== "__main__":
-   search("Boris")
+search("Boris")
