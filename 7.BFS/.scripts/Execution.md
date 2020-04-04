@@ -1,16 +1,16 @@
-# Execution au 03-04-2020 22:16
+# Execution au 03-04-2020 22:24
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300111441.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-  File "b300115065.py", line 15
-SyntaxError: Non-ASCII character '\xc3' in file b300115065.py on line 15, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300115065.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -25,22 +25,21 @@ Zoureni a le fameux Mac
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-  File "b300116593.py", line 1
-SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116593.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-Auriane a le fameux Mac
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116670.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-Zoureni a le fameux Mac
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -61,7 +60,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-Zoureni a le fameux Mac
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117314.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -81,6 +80,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117782.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -94,16 +94,14 @@ Zoureni a le fameux Mac
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117806.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-  File "b300118196.py", line 27
-    search_queue = deque()
-               ^
-IndentationError: expected an indented block
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300118196.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 
