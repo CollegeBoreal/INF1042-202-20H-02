@@ -22,8 +22,9 @@ print( quicksort([10, 5, 2, 3]) # Affiche le résultalt d'un Tri dans un ordre c
 
 # :warning: Issue
 
-|:hash:| Boréal :id:                | Execution          | Notation         |
-|------|----------------------------|--------------------|------------------|
+|:hash:| Boréal :id:                | Execution          | Notation         | Commentaires |
+|------|----------------------------|--------------------|------------------|--------------|
+|  2   | [300115065](../b300115065.py) | [:x:](Execution.md#etudiant-300115065) | [:x:](Execution.md#etudiant-300115065) | Inexistant |
 
 
 
