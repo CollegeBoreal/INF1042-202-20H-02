@@ -1,4 +1,4 @@
-# Execution au 06-04-2020 14:01
+# Execution au 18-02-2020 12:34
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -40,8 +40,7 @@ None
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-7
-4
+24
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
