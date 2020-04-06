@@ -18,7 +18,7 @@ echo "| :heavy_check_mark: | Prêt à être corrigé           |"
 echo "| :x:                | Projet inexistant             |"
 
 
-echo "\n## Résultat\n"
+echo "\n## Présence\n"
 echo "|:hash:| Boréal :id:                | Fait               |"
 echo "|------|----------------------------|--------------------|"
 

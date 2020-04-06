@@ -1,4 +1,4 @@
-# Participation au 06-04-2020 11:30
+# Participation au 06-04-2020 12:21
 
 ## Légende
 
@@ -7,7 +7,7 @@
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
 
-## Résultat
+## Présence
 
 |:hash:| Boréal :id:                | Fait               |
 |------|----------------------------|--------------------|
@@ -35,7 +35,7 @@
 | :tada:             | S'est bien éxécuté            |
 | :x:                | A un problème dans le code    |
 
-## Résultat
+## Précision
 
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
