@@ -1,4 +1,4 @@
-# Participation au 18-02-2020 12:34
+# Participation au 18-02-2020 12:51
 
 ## Légende
 
@@ -11,7 +11,7 @@
 
 |:hash:| Boréal :id:                | Execution          | Notation         |
 |------|----------------------------|--------------------|------------------|
-| 1 | [300111441](../b300111441.py) | [:heavy_check_mark:](Execution.md#etudiant-300111441) | [:bar_chart:](Notation.md#etudiant-300111441) |
+| 1 | [300111441](../b300111441.py) | [:x:](Execution.md#etudiant-300111441) | [:x:](Notation.md#etudiant-300111441) |
 | 2 | [300115065](../b300115065.py) | [:heavy_check_mark:](Execution.md#etudiant-300115065) | [:bar_chart:](Notation.md#etudiant-300115065) |
 | 3 | [300115140](../b300115140.py) | [:heavy_check_mark:](Execution.md#etudiant-300115140) | [:bar_chart:](Notation.md#etudiant-300115140) |
 | 4 | [300116593](../b300116593.py) | [:heavy_check_mark:](Execution.md#etudiant-300116593) | [:bar_chart:](Notation.md#etudiant-300116593) |

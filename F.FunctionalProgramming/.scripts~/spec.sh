@@ -9,8 +9,8 @@
 generate_spec () {
    echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" > .scripts/b${id}.spec.py
   
-   echo "from b${id} import binary_search" >> .scripts/b${id}.spec.py
-   echo "test = binary_search( [5,7,11,14,19,20,25], 11) == 2 " >> .scripts/b${id}.spec.py
+   echo "from b${id} import selectionSort" >> .scripts/b${id}.spec.py
+   echo "test = selectionSort( [5, 3, 6, 2, 10]) == [2, 3, 5, 6, 10] " >> .scripts/b${id}.spec.py
    echo "if  test:" >> .scripts/b${id}.spec.py
    echo "     print('--------------------')" >> .scripts/b${id}.spec.py
    echo "     print(':tada: :tada: :tada:')" >> .scripts/b${id}.spec.py

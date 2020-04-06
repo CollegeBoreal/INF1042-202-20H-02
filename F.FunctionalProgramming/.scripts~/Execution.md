@@ -1,10 +1,9 @@
-# Corrections au 20-01-2020 16:18
+# Execution au 18-02-2020 12:51
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-6
-None
+/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300111441.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -12,124 +11,156 @@ None
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
   File "b300115065.py", line 1
-    Created on Wed Jan 15 15:28:59 2020
-             ^
-SyntaxError: invalid syntax
+    a= range(10)
+    ^
+IndentationError: unexpected indent
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-2
+a
+range(0, 10)
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
-
-## Etudiant 300116370 
-###  =[BEGIN]============== Exécution du script 300116370 =============== 
-```
-python: can't open file 'b300116370.py': [Errno 2] No such file or directory
-```
-###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-python: can't open file 'b300116593.py': [Errno 2] No such file or directory
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[1, 3, 5, 7, 9]
+[0, 2, 4, 6, 8]
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-2
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[1, 3, 5, 7, 9]
+[0, 2, 4, 6, 8]
+{2}
+{2, 3}
+{'a': 3, 'b': 4, 'c': 5}
+8 6 10
+1 0.5 0.2
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-python: can't open file 'b300116685.py': [Errno 2] No such file or directory
+Bonjour tout le monde
+range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8]
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-7
-4
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[1, 3, 5, 7, 9]
+[0, 2, 4, 6, 8]
+{2}
+{2, 3}
+{'a': 3, 'b': 4, 'c': 5}
+8 6 10
+1 0.5 0.2
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-2
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[1, 3, 5, 7, 9]
+8
+5
+1
+1
+[2, 3, 45, 6]
+0
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+6
+3
+4
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-  File "b300117314.py", line 25
-    pas fini !!!!!!!!!
-           ^
-SyntaxError: invalid syntax
+range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8]
+[1, 3, 5, 7, 9]
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8]
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-2
-None
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8]
+{2}
+{2, 3}
+{'a': 3, 'b': 4, 'c': 5}
+8 6 10
+1 0.5 0.2
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-6
-None
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-6
-None
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[1, 3, 5, 7, 9]
+[0, 2, 4, 6, 8]
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-5
-None
+a
+range(0, 10)
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-3
+[0, 2, 4, 6, 8, 10, 12, 14]
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-  File "b300118524.py", line 19
-    return item
-    ^
-IndentationError: expected an indented block
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
