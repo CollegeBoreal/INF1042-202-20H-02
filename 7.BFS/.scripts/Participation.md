@@ -1,9 +1,9 @@
 # Participation au 06-04-2020 12:21
 
-| Table des matières          |
-|-----------------------------|
-| :a: [Présence](#Présence)   |
-| :b: [Précision](#Précision) |
+| Table des matières          | Description                         |
+|-----------------------------|-------------------------------------|
+| :a: [Présence](#Présence)   | L'étudiant.e a fait son travail     |
+| :b: [Précision](#Précision) | L'étudiant.e a réussi son travail   |
 
 ## Légende
 
