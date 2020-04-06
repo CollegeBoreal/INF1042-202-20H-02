@@ -35,7 +35,7 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
-|06|11-03-20|[6.HashTables](6.HashTales#Participation)         | HashTables ou Dictionnaire              |                  |
+|06|11-03-20|[6.HashTables](6.HashTables#Participation)        | HashTables ou Dictionnaire              |                  |
 |05|10-02-20|[C.Comprehensions](C.Comprehensions#Participation)| Triangle Rectangle                      |                  |
 |04|10-02-20|[4.QuickSort](4.QuickSort#Participation)          | Tri Rapide                              |                  |
 |03|04-02-20|[3.Recursion](3.Recursion#Participation)          | Recursion                               |                  |
