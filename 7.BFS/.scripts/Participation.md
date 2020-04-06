@@ -2,8 +2,8 @@
 
 | Table des matières          | Description                         |
 |-----------------------------|-------------------------------------|
-| :a: [Présence](#Présence)   | L'étudiant.e a fait son travail     |
-| :b: [Précision](#Précision) | L'étudiant.e a réussi son travail   |
+| :a: [Présence](#a-présence)   | L'étudiant.e a fait son travail     |
+| :b: [Précision](#b-précision) | L'étudiant.e a réussi son travail   |
 
 ## Légende
 
