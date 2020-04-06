@@ -22,6 +22,6 @@ print( fact(5) # Affiche le résultalt d'unm nombre factoriel ex: 120
 
 # :warning: Issue
 
-|:hash:| Boréal :id:                | Execution          | Notation         |   Commentaires |
+|:hash:| Boréal :id:                | Fait          | Notation         |   Commentaires |
 |------|----------------------------|--------------------|------------------|----------------|
 | 10 | [300117444](b300117444.py) | [:heavy_check_mark:](.scripts/Execution.md#etudiant-300117444) | [:x:](.scripts/Notation.md#etudiant-300117444) | Ne pas mettre de `read` dans le code |
