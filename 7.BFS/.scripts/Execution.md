@@ -1,4 +1,4 @@
-# Execution au 03-04-2020 22:46
+# Execution au 06-04-2020 11:30
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -10,7 +10,8 @@
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300115065.py': [Errno 2] No such file or directory
+  File "b300115065.py", line 15
+SyntaxError: Non-ASCII character '\xc3' in file b300115065.py on line 15, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -67,7 +68,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
