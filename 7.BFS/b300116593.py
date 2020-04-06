@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+
+@author: hamidmallim
+"""
+
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie","Bertrand"]
 eleves["Amir"]=[]
