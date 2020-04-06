@@ -1,4 +1,4 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
 def rightTriangle (max):
 
     rightTriangle = [(a, b, c) 
