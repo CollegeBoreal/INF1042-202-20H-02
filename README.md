@@ -35,6 +35,7 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
+|05|12-02-20|[4.QuickSort](4.QuickSort#Participation)          | Tri Rapide                              |                  |
 |04|12-02-20|[4.QuickSort](4.QuickSort#Participation)          | Tri Rapide                              |                  |
 |04|10-02-20|[C.Comprehensions](C.Comprehensions#Participation)| Triangle Rectangle                      |                  |
 |03|04-02-20|[3.Recursion](3.Recursion#Participation)          | Recursion                               |                  |
