@@ -1,4 +1,4 @@
-# Execution au 06-04-2020 14:33
+# Execution au 06-04-2020 14:43
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -24,8 +24,7 @@
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-  File "b300116593.py", line 18
-SyntaxError: Non-ASCII character '\xc3' in file b300116593.py on line 18, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 

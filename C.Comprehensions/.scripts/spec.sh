@@ -7,7 +7,8 @@
 # --------------------------------------
 
 generate_spec () {
-   echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" > .scripts/b${id}0000.py
+   echo "# coding=utf-8"  > .scripts/b${id}0000.py
+   echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" >> .scripts/b${id}0000.py
    echo "import pytest" >> .scripts/b${id}0000.py
    echo " " >> .scripts/b${id}0000.py
    echo "@pytest.fixture" >> .scripts/b${id}0000.py

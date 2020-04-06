@@ -1,3 +1,4 @@
+# coding=utf-8
 import sys; sys.path.append('.') # Rajouter le repertoire courant
 import pytest
  
