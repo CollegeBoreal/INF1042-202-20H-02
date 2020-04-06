@@ -23,8 +23,8 @@ print( ajout(('ma_cle', [0,1,2,3,4]))
 
 |:hash:| Boréal :id:                | Execution          | Notation         | Commentaires |
 |------|----------------------------|--------------------|------------------|--------------|
-|  2   | [300115065](../b300115065.py) | [:x:](Execution.md#etudiant-300115065) | [:x:](Execution.md#etudiant-300115065) | Inexistant |
-| 14   | [300117806](../b300117806.py) | [:heavy_check_mark:](Execution.md#etudiant-300117806) | [:x:](Execution.md#etudiant-300117806) | Algo pas bon manque le cote droit du split |
+| 3 | [300115140](../b300115140.py) | [:heavy_check_mark:](Execution.md#etudiant-300115140) |[:x:](Execution.md#etudiant-300115140) | Algo pas bon manque le cote droit du split |
+| 4 | [300116593](../b300116593.py) | [:heavy_check_mark:](Execution.md#etudiant-300115140) |[:x:](Execution.md#etudiant-300115140) | Algo pas bon manque le cote droit du split |
 
 # Reference
 
