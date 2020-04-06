@@ -12,7 +12,7 @@
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
 
-## Présence
+## :a: Présence
 
 |:hash:| Boréal :id:                | Fait               |
 |------|----------------------------|--------------------|
@@ -40,7 +40,7 @@
 | :tada:             | S'est bien éxécuté            |
 | :x:                | A un problème dans le code    |
 
-## Précision
+## :b: Précision
 
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
