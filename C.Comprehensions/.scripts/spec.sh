@@ -7,15 +7,16 @@
 # --------------------------------------
 
 generate_spec () {
-   echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" > .scripts/b${id}.spec.py
-  
-   echo "from b${id} import rightTriangle" >> .scripts/b${id}.spec.py
-   echo "test = rightTriangle(11) == [(8, 6, 10)] " >> .scripts/b${id}.spec.py
-   echo "if  test:" >> .scripts/b${id}.spec.py
-   echo "     print('--------------------')" >> .scripts/b${id}.spec.py
-   echo "     print(':tada: :tada: :tada:')" >> .scripts/b${id}.spec.py
-   echo "else:" >> .scripts/b${id}.spec.py
-   echo "     print('--------------------')" >> .scripts/b${id}.spec.py
-   echo "     print(':no_entry: :no_entry: :interrobang:')" >> .scripts/b${id}.spec.py
+   echo "# coding=utf-8"  > .scripts/b${id}0000.py
+   echo "import sys; sys.path.append('.') # Rajouter le repertoire courant" >> .scripts/b${id}0000.py
+   echo "import pytest" >> .scripts/b${id}0000.py
+   echo " " >> .scripts/b${id}0000.py
+   echo "@pytest.fixture" >> .scripts/b${id}0000.py
+   echo "def bypass():" >> .scripts/b${id}0000.py
+   echo "   from b${id} import rightTriangle" >> .scripts/b${id}0000.py
+   echo "   return rightTriangle(11) " >> .scripts/b${id}0000.py
+   echo " " >> .scripts/b${id}0000.py
+   echo "def test_answer(bypass):" >> .scripts/b${id}0000.py
+   echo "   assert bypass  == [(8, 6, 10)] " >> .scripts/b${id}0000.py
 }
 

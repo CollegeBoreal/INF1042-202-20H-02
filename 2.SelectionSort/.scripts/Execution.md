@@ -1,4 +1,4 @@
-# Execution au 18-02-2020 12:35
+# Execution au 06-04-2020 14:13
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -41,19 +41,7 @@ NameError: name 'selections' is not defined
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-Traceback (most recent call last):
-  File "b300116685.py", line 24, in <module>
-    print(selectionSort([16, 2, 7, 4, 5, 33]))
-  File "b300116685.py", line 18, in selectionSort
-    smallest = selectionSort(arr)
-  File "b300116685.py", line 18, in selectionSort
-    smallest = selectionSort(arr)
-  File "b300116685.py", line 18, in selectionSort
-    smallest = selectionSort(arr)
-  [Previous line repeated 994 more times]
-  File "b300116685.py", line 17, in selectionSort
-    for i in range(len(arr)):
-RecursionError: maximum recursion depth exceeded in comparison
+[1, 3, 5, 8, 20]
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
