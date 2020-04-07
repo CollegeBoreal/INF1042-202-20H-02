@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Apr  1 13:55:45 2020
+
+@author: akram fadde
+"""
+
 # Code Morse
 
 from time import sleep
