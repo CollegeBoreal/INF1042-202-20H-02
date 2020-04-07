@@ -1,9 +1,9 @@
-# Execution au 18-02-2020 12:51
+# Execution au 06-04-2020 13:44
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300111441.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300111441.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -21,7 +21,7 @@ IndentationError: unexpected indent
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
 a
-range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
@@ -41,11 +41,11 @@ range(0, 10)
 [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
 [1, 3, 5, 7, 9]
 [0, 2, 4, 6, 8]
-{2}
-{2, 3}
-{'a': 3, 'b': 4, 'c': 5}
-8 6 10
-1 0.5 0.2
+set([2])
+set([2, 3])
+{'a': 3, 'c': 5, 'b': 4}
+(8, 6, 10)
+(1, 0, 0.2)
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
@@ -53,7 +53,7 @@ range(0, 10)
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
 Bonjour tout le monde
-range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 [0, 2, 4, 6, 8]
 ```
@@ -66,36 +66,28 @@ range(0, 10)
 [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
 [1, 3, 5, 7, 9]
 [0, 2, 4, 6, 8]
-{2}
-{2, 3}
-{'a': 3, 'b': 4, 'c': 5}
-8 6 10
-1 0.5 0.2
+set([2])
+set([2, 3])
+{'a': 3, 'c': 5, 'b': 4}
+(8, 6, 10)
+(1, 0, 0.2)
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-[1, 3, 5, 7, 9]
-8
-5
-1
-1
-[2, 3, 45, 6]
-0
-[1, 2, 3, 4, 5, 6, 7, 8, 9]
-6
-3
-4
+  File "b300117178.py", line 14
+    h,*t=l
+      ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
 [0, 2, 4, 6, 8]
@@ -117,11 +109,11 @@ range(0, 10)
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
 [0, 2, 4, 6, 8]
-{2}
-{2, 3}
-{'a': 3, 'b': 4, 'c': 5}
-8 6 10
-1 0.5 0.2
+set([2])
+set([2, 3])
+{'a': 3, 'c': 5, 'b': 4}
+(8, 6, 10)
+(1, 0, 0.2)
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -145,7 +137,7 @@ range(0, 10)
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
 a
-range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 

@@ -1,4 +1,4 @@
-# Execution au 18-02-2020 12:40
+# Execution au 06-04-2020 15:31
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -17,7 +17,7 @@
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-[(6, 8, 10), (8, 6, 10)]
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
@@ -52,7 +52,7 @@
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-[(6, 8, 10), (8, 6, 10)]
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
@@ -66,7 +66,7 @@
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117444.py': [Errno 2] No such file or directory
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -80,7 +80,7 @@
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-[(6, 8, 10), (8, 6, 10)]
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -94,14 +94,15 @@
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-[(6, 8, 10), (8, 6, 10)]
+[(8, 6, 10)]
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-[(8, 6, 10)]
+  File "b300118196.py", line 3
+SyntaxError: Non-ASCII character '\xc3' in file b300118196.py on line 3, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 

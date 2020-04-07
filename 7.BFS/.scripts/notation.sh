@@ -16,7 +16,7 @@ echo "| :tada:             | S'est bien éxécuté            |"
 echo "| :x:                | A un problème dans le code    |"
 
 
-echo "\n## Résultat\n"
+echo "\n## :b: Précision\n"
 echo "|:hash:| Boréal :id:                |  Notation         |"
 echo "|------|----------------------------|-------------------|"
 
