@@ -17,6 +17,8 @@ $ touch README.md
 ```
 
 ## :three: Mettre tous les fichier Python :snake: dans votre répertoire :id:
+
+[Participation](.scripts/Participation.md)
  
 
 
