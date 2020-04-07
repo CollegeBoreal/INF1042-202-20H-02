@@ -1,6 +1,8 @@
 # Python Automation MORTEZA
 
 
+<img src="images/Screen Shot 2020-04-07 at 3.10.07 PM.png" width="" heigth=""></img>
+
 1- INSTALLATION DE LA MACHINE VIRTUELLE
 Pour créer votre lab afin d'automatisation il faut installer VMware Workstation Pro dans le Windows et Vmware Fusion dans le Mac.​
 
