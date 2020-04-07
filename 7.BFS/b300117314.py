@@ -6,7 +6,7 @@
 
 eleves = {}
 def personne_elue(name):
-     return name == "Zureni"
+     return name == "Zoureni"
 
 from collections import deque
 
