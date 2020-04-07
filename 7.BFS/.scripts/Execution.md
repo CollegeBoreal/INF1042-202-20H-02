@@ -1,4 +1,4 @@
-# Execution au 07-04-2020 13:42
+# Execution au 07-04-2020 14:04
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -31,7 +31,7 @@ Corlings est personne elue
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300116670.py': [Errno 2] No such file or directory
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
@@ -60,6 +60,7 @@ Zoureni a le fameux Mac
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
 14
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -93,7 +94,8 @@ Zoureni a le fameux Mac
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117806.py': [Errno 2] No such file or directory
+14
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
