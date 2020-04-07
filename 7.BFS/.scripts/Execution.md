@@ -1,4 +1,4 @@
-# Execution au 07-04-2020 13:01
+# Execution au 07-04-2020 13:42
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -10,8 +10,6 @@
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-  File "b300115065.py", line 15
-SyntaxError: Non-ASCII character '\xc3' in file b300115065.py on line 15, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -61,7 +59,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300117314.py': [Errno 2] No such file or directory
+14
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
