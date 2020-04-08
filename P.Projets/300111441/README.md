@@ -2,6 +2,13 @@
 
 ## :two: un autre titre
 
+
+
+```python
+def calcul(chiffre):
+   return False
+```
+
 #########C'est un programme qui permet de calculer la moyenne du temps d'attente lorsque deux personnes se donnent rendez-vous#######
 
 
