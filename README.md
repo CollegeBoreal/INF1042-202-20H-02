@@ -29,7 +29,7 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
-|02|17-04-20|[P.Projets](P.Projets#Participation)              | Projet Personnel en Python              |                  |
+|02|17-04-20|[P.Projets](P.Projets#Participation.md)              | Projet Personnel en Python              |                  |
 |01|31-03-20|[7.BFS](7.BFS#Participation)                      | Breadth First Search                    |                  |
 
 :x: Avant travail à la maison
