@@ -29,17 +29,17 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 |No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
 |--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
-|02|17-04-20|[P.Projets](P.Projets#Participation.md)              | Projet Personnel en Python              |                  |
-|01|31-03-20|[7.BFS](7.BFS#Participation)                      | Breadth First Search                    |                  |
+|02|17-04-20|[P.Projets](P.Projets/.scripts/Participation.md)  | Projet Personnel en Python              |                  |
+|01|31-03-20|[7.BFS](7.BFS/.scripts/Participation.md)          | Breadth First Search                    |                  |
 
 :x: Avant travail à la maison
 
 |No| Date   | Cours                                              | Intitulé                                |  Commentaires   |
 |--|--------|:---------------------------------------------------|:----------------------------------------|:----------------|
-|06|11-03-20|[6.HashTables](6.HashTables#.scripts/Participation) | HashTables ou Dictionnaire              |                 |
-|05|10-02-20|[C.Comprehensions](C.Comprehensions#.scripts/Participation)| Triangle Rectangle                      |                  |
-|04|10-02-20|[4.QuickSort](4.QuickSort#.scripts/.scripts/Participation)          | Tri Rapide                              |                  |
-|03|04-02-20|[3.Recursion](3.Recursion#.scripts/Participation)          | Recursion                               |                  |
+|06|11-03-20|[6.HashTables](6.HashTables/.scripts/Participation.md) | HashTables ou Dictionnaire           |                 |
+|05|10-02-20|[C.Comprehensions](C.Comprehensions/.scripts/Participation.md)| Triangle Rectangle                      |                  |
+|04|10-02-20|[4.QuickSort](4.QuickSort/.scripts/.scripts/Participation.md)          | Tri Rapide                              |                  |
+|03|04-02-20|[3.Recursion](3.Recursion/.scripts/Participation.md)          | Recursion                               |                  |
 |02|27-01-20|[2.SelectionSort](2.SelectionSort#.scripts/Participation)  | Tri par sélection                       |                  |
 |01|20-01-20|[1.BinarySearch](1.BinarySearch#.scripts/Participation)    | Recherche Dichotomique                  |                  |
 
