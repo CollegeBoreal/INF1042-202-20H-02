@@ -1,4 +1,4 @@
-# Execution au 08-04-2020 13:12
+# Execution au 08-04-2020 13:30
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -10,7 +10,7 @@ Zoureni a le fameux Mac
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'b300115065.py': [Errno 2] No such file or directory
+Zoureni a le fameux Mac
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
