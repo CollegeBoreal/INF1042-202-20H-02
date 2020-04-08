@@ -1,4 +1,6 @@
-# Calcul de la moyenne d'attente du premier arrivé
+# :one: Calcul de la moyenne d'attente du premier arrivé
+
+## :two: un autre titre
 
 #########C'est un programme qui permet de calculer la moyenne du temps d'attente lorsque deux personnes se donnent rendez-vous#######
 
