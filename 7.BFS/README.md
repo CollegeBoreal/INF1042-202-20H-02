@@ -18,8 +18,6 @@ Copier le programme:
 
 - [ ] Copier le contenu du fichier `b000000000.py`
 
-- [ ] Aller dans le répertoire de votre :id: `Boréal`
-
 - [ ] Remplacer le contenu de votre fichier `b`:id:`.py` avec celui de `b000000000.py`
 
 Exemple: copier le contenu du fichier `b000000000.py` dans le fichier `b300098957.py`
