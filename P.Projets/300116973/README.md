@@ -1,8 +1,8 @@
-#Explication Jeu tic ta toe# :smile:
+# Explication Jeu tic ta toe# :smile:
 
 :one: :pushpin: Ce programme contient une notion importante de la programmation qui est l'imbrication. le tableau de jeu est une liste des listes. Ici on utilise les boucles qui contiennent des boucles.
 
-:Two: :pushpin: Remarque :le choix de l'identifiant ici sont des commentaire que nous avont mis avant chaque fonction utilisee.
+:Two:, :pushpin: Remarque :le choix de l'identifiant ici sont des commentaire que nous avont mis avant chaque fonction utilisee.
 
 # le tableu de jeu est une grille 3x3 a deux dimension. nous avons representer la grille a l'aide d'une liste de 3 lignes contenant 3 chaines de caracteres. un joueur sera identifier par le "X" et un autre par "0" pour le cercle. au debut du jeu toutes les cases sont vides.
 game_board = [ ["", "", "",],
@@ -35,7 +35,7 @@ def win(current_game):
             print (f"Player {row[0]} is the winner horizontally!")
             return True
 	    
- # :pushpin: on determine aussi les couleurs
+ # :pushpin: on determine aussi les couleurs par rang et par colonne
  
     #diagonal
     diags =[]
