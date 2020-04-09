@@ -1,17 +1,17 @@
 #Explication Jeu tic ta toe# :smile:
 
-:one: Ce programme contient une notion importante de la programmation qui est l'imbrication. le tableau de jeu est une liste des listes. Ici on utilise les boucles qui contiennent des boucles.
+:one: :pushpin: Ce programme contient une notion importante de la programmation qui est l'imbrication. le tableau de jeu est une liste des listes. Ici on utilise les boucles qui contiennent des boucles.
 
-:Two: Remarque :le choix de l'identifiant ici sont des commentaire que nous avont mis avant chaque fonction utilisee.
+:Two: :pushpin: Remarque :le choix de l'identifiant ici sont des commentaire que nous avont mis avant chaque fonction utilisee.
 
 # le tableu de jeu est une grille 3x3 a deux dimension. nous avons representer la grille a l'aide d'une liste de 3 lignes contenant 3 chaines de caracteres. un joueur sera identifier par le "X" et un autre par "0" pour le cercle. au debut du jeu toutes les cases sont vides.
 game_board = [ ["", "", "",],
 	       ["", "", "",],
 	       ["", "", "",]]
 
-#on ferra le tour du jeu qui consiste a faire un cercle faire jouer le joueur des croix, puis faire jouer le joueuer du rond
+# on ferra le tour du jeu qui consiste a faire un cercle faire jouer le joueur des croix, puis faire jouer le joueuer du rond
 
-:three: les tours de jeu son pareils pour les deux joueurs:
+:three: :pushpin: les tours de jeu son pareils pour les deux joueurs:
  - premierement on affiche le tableau
 - apres on regarde si la partir n'est pas terminer s'il nya plus de coup possible
 - si la partir n'est pas terminer, demander au joueur courant de faire son choix en lui demandant de choisir une ligne, puis une colonne dans la grille. alors on imprimera jouer courant 1 ou 2
@@ -34,7 +34,9 @@ def win(current_game):
         if all_same(row):
             print (f"Player {row[0]} is the winner horizontally!")
             return True
-            
+	    
+ # :pushpin: on determine aussi les couleurs
+ 
     #diagonal
     diags =[]
     for col, row in enumerate(reversed(range(len(game)))):
@@ -62,7 +64,8 @@ def win(current_game):
         return True
     
     return False
-:four: la fonction suivante determine les joueurs 
+    
+:four: :pushpin: la fonction suivante determine les joueurs 
 
 play = True
 players = [1, 2]
@@ -84,9 +87,9 @@ while play:
             row_choice = int(input ("what row do you want to play? (0, 1, 2): "))
             game, played = game_board (game, current_player, row_choice, column_choice)
 
-:five: Pour savoir si un joueu est gagnant on teste les lignes et les colonnes et les diagonales du tableau.
+:five: :pushpin: Pour savoir si un joueu est gagnant on teste les lignes et les colonnes et les diagonales du tableau.
 
-la fonction suivante determine le gagnant et la fin du jeu:
+# la fonction suivante determine le gagnant et la fin du jeu:
 
  if win(game):
             game_won = True
