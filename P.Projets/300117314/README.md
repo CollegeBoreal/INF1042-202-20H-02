@@ -33,11 +33,9 @@ Et ici dans R1, EIGRP100, et NAT sont configurés avec nos python scripts.
 
 <img src="images/11.PNG" width="974" heigth="564"></img>
 
------------------------
-<img src="images/12.PNG" width="974" heigth="564"></img>
-
 Maintenant on démarre notre Python Docker3, connecté au routeur R2 et il reçoit adresse IP de POOl que vient de créer dans R1, on vérifie nos scripts dedans avec la commande ls. Pour configurer R2, on l’allume, on donne une adresse IP a l’intrerface f0/0 pour y arriver avec Telnet, on écrit IP ROUTE statique pour avoir connexion entre notre Docker de network 192.168.2.0 et ce routeur. Et on configure Telnet dans ce R2.
 
+<img src="images/12.PNG" width="974" heigth="564"></img>
 Avec ce script on configure notre routing protocole(EIGRP).
 <img src="images/13.PNG" width="974" heigth="564"></img>
 Et avec ce script on va configurer DHCP dans ce routeur pour notre utilisateur qui sont connectés à l’interface f1/0 qui reçoit son adresse IP de ce script(192.168.4.1).
