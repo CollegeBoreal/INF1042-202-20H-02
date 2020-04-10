@@ -21,8 +21,8 @@ Avec ce script on va créer une piscine pour notre Docker connecté à l’inter
 Ici on va configurer notre EIGRP pour lier ce routeur avec les autre éléments de notre réseau.
 <img src="images/8.PNG" width="974" heigth="564"></img>
 NAT protocole pour qu’on puisse sortir de notre réseau local.
-
-Exécuter nos scripts : 
+# Exécuter nos scripts
+ 
 <img src="images/9.PNG" width="974" heigth="564"></img>
 
 
