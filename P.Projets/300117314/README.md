@@ -8,8 +8,22 @@ Dans ce scénario on va configurer tous nos éléments de réseaux avec nos pyth
 R1 est notre routeur de pont entre Internet ou notre réseau local, pour cette raison on doit configurer NAT protocole. Sans NAT nos instruments locaux ne seront pas capables de sortir de notre réseau local. 
 Pour vérifier si on est bien connecté à notre serveur virtuel pour sortir de ce réseau, on utilise la commande ip address dhcp dans l’interface f0/0. Si on obtient notre adresse IP ça veut dire que l’infrastructure est prête.
 
+<img src="images/4.PNG" width="974" heigth="564"></img>
+Ici vous pouvez vérifier qu’on a reçu notre adresse IP. 192.168.122.27. Nos python scripts configurent automatiquement ce routeur en utilisant cette adresse IP. 
+Maintenant on va vérifier est-ce que notre Python Docker est connecté à notre serveur ou non.
+Dans la photo suivante : 
+Si notre Docker reçoit son adresse IP automatiquement par protocole de DHCP, ça nous assure qu’il est bien connecté. On peut aussi vérifier la version de notre python. En exécutant le commande ls vous pouvez voir les dossiers on a créés pour sauvegarder nos scripts dans ce Docker, et avec la commande de nano (nom de ce dossier) on peut voir son contenu.
+Ici on va configurer DHCP,EIGRP et NAT aves ces scripts.
+<img src="images/5.PNG" width="974" heigth="564"></img>
+<img src="images/6.PNG" width="974" heigth="564"></img>
+Avec ce script on va créer une piscine pour notre Docker connecté à l’interface f2/0 de R1.
+<img src="images/7.PNG" width="974" heigth="564"></img>
+Ici on va configurer notre EIGRP pour lier ce routeur avec les autre éléments de notre réseau.
+<img src="images/8.PNG" width="974" heigth="564"></img>
+NAT protocole pour qu’on puisse sortir de notre réseau local.
 
-
+Exécuter nos scripts : 
+<img src="images/9.PNG" width="974" heigth="564"></img>
 
 
 
