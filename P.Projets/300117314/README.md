@@ -79,3 +79,5 @@ C’est mon Ubunto Docker Container qui a reçu son adresse IP de DHCP :
 
 <img src="images/Picture4.png" width="974" heigth="564"></img>
 
+<img src="images/4.png" width="974" heigth="564"></img>
+
