@@ -37,9 +37,9 @@ Maintenant on démarre notre Python Docker3, connecté au routeur R2 et il reço
 Avec ce script on configure notre routing protocole(EIGRP).
 <img src="images/13.PNG" width="974" heigth="564"></img>
 Et avec ce script on va configurer DHCP dans ce routeur pour notre utilisateur qui sont connectés à l’interface f1/0 qui reçoit son adresse IP de ce script(192.168.4.1).
-
+<img src="images/13.PNG" width="974" heigth="564"></img>
 # Exécuter nos scripts
-<img src="images/14.PNG" width="974" heigth="564"></img>
+<img src="images/15.PNG" width="974" heigth="564"></img>
 
 
 
