@@ -39,14 +39,24 @@ Maintenant on démarre notre Python Docker3, connecté au routeur R2 et il reço
 Avec ce script on configure notre routing protocole(EIGRP).
 <img src="images/14.PNG" width="974" heigth="564"></img>
 Et avec ce script on va configurer DHCP dans ce routeur pour notre utilisateur qui sont connectés à l’interface f1/0 qui reçoit son adresse IP de ce script(192.168.4.1).
-<img src="images/14.PNG" width="974" heigth="564"></img>
+
+
+
 # Exécuter nos scripts
 <img src="images/15.PNG" width="974" heigth="564"></img>
+<img src="images/16.PNG" width="974" heigth="564"></img>
+<img src="images/17.PNG" width="974" heigth="564"></img>
+Dans ces photos vous pouvez vérifier vos configurations. Votre DHCP pool, EIGRP et vos interfaces.
 
+Maintenant c’est le moment re démarrer votre Firefox. 
+On l’allume, on fait commande Ifconfig pour vérifier notre adresse IP.(192.168.4.2)
+On pingue WWW.CISCO.COM pour vérifier notre connexion avec Internet.
+<img src="images/18.PNG" width="974" heigth="564"></img>
+<img src="images/19.PNG" width="974" heigth="564"></img>
 
-
-
-
+Et à la fin, WWW.COLLEGEBOREAL.CA 
+<img src="images/20.PNG" width="974" heigth="564"></img>
+Merci de votre attention.
 
 
 
