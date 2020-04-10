@@ -1,5 +1,23 @@
 # Python Automation MORTEZA
 
+<img src="images/2.PNG" width="974" heigth="564"></img>
+Dans ce scénario on va configurer tous nos éléments de réseaux avec nos python scripts en utilisant python3 installé dans nos Docker Containers afin d’ouvrir le site de collège Boréal avec notre docker de Firefox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="images/Screen Shot 2020-04-07 at 3.10.07 PM.png" width="" heigth=""></img>
 
@@ -78,8 +96,3 @@ PS > pip install paramiko
 C’est mon Ubunto Docker Container qui a reçu son adresse IP de DHCP :
 
 <img src="images/Picture4.png" width="974" heigth="564"></img>
-
-Python Automatisation :
-<img src="images/2.PNG" width="974" heigth="564"></img>
-Dans ce scénario on va configurer tous nos éléments de réseaux avec nos python scripts en utilisant python3 installé dans nos Docker Containers afin d’ouvrir le site de collège Boréal avec notre docker de Firefox.
-
