@@ -50,14 +50,12 @@ Dans ces photos vous pouvez vérifier vos configurations. Votre DHCP pool, EIGRP
 
 Maintenant c’est le moment re démarrer votre Firefox. 
 On l’allume, on fait commande Ifconfig pour vérifier notre adresse IP.(192.168.4.2)
-Et à la fin, WWW.COLLEGEBOREAL.CA 
+
 <img src="images/18.PNG" width="974" heigth="564"></img>
+
+Et à la fin, WWW.COLLEGEBOREAL.CA 
 <img src="images/19.PNG" width="974" heigth="564"></img>
 
-
-
-On pingue WWW.CISCO.COM pour vérifier notre connexion avec Internet.
-<img src="images/20.PNG" width="974" heigth="564"></img>
 Merci de votre attention.
 
 
