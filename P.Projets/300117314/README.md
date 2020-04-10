@@ -4,7 +4,9 @@
 Dans ce scénario on va configurer tous nos éléments de réseaux avec nos python scripts en utilisant python3 installé dans nos Docker Containers afin d’ouvrir le site de collège Boréal avec notre docker de Firefox.
 
 
-
+<img src="images/3.PNG" width="974" heigth="564"></img>
+R1 est notre routeur de pont entre Internet ou notre réseau local, pour cette raison on doit configurer NAT protocole. Sans NAT nos instruments locaux ne seront pas capables de sortir de notre réseau local. 
+Pour vérifier si on est bien connecté à notre serveur virtuel pour sortir de ce réseau, on utilise la commande ip address dhcp dans l’interface f0/0. Si on obtient notre adresse IP ça veut dire que l’infrastructure est prête.
 
 
 
