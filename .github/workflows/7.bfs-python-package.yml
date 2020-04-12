@@ -33,8 +33,7 @@ jobs:
       - shell: bash
         run: |
           cd 7.BFS
-          chmod +x .scripts/run.sh
-          .scripts/run.sh
+          bash .scripts/run.sh
           cat .scripts/Participation.md
 #          cd 7.BFS
 #          ls -l .scripts/participation.sh
