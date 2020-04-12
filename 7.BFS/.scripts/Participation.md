@@ -1,15 +1,20 @@
-# Participation au 12-04-2020 17:20
-\n
+# Participation au [12-04-2020 17:25] UTC
+ 
+ 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
 | :a: [Présence](#a-présence)   | L'étudiant.e a fait son travail    :heavy_check_mark:   |
 | :b: [Précision](#b-précision) | L'étudiant.e a réussi son travail  :tada:               |
-\n## Légende\n
+ 
+## Légende
+ 
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
-\n## :a: Présence\n
+ 
+## :a: Présence
+ 
 |:hash:| Boréal :id:                | Fait               |
 |------|----------------------------|--------------------|
 | 1 | [300111441](../b300111441.py) | [:heavy_check_mark:](Execution.md#etudiant-300111441) |
