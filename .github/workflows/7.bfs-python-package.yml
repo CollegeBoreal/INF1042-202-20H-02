@@ -10,4 +10,4 @@ jobs:
       - uses: actions/checkout@v1
       - shell: bash
         run: |
-            DIR=`ls .` && echo $DIR
+            cd 7.BFS && sh .scripts/run.sh
