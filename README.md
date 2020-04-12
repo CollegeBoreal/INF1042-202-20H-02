@@ -27,11 +27,11 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 
 :o: Pendant travail à la maison
 
-|No| Date   | Cours                                            | Intitulé                                |  Commentaires    |
-|--|--------|:-------------------------------------------------|:----------------------------------------|:-----------------|
-|03|17-04-20|[S.PowerShell](S.PowerShell)  | Projet PowerShell remplace Projet Personnel |                  |
-|02|17-04-20|[P.Projets](P.Projets/.scripts/Participation.md)  | Projet Personnel en Python              |                  |
-|01|31-03-20|[7.BFS](7.BFS/.scripts/Participation.md)          | Breadth First Search                    |                  |
+|No| Date   | Cours                                            | Intitulé                              |  Commentaires    |
+|--|--------|:-------------------------------------------------|:--------------------------------------|:-----------------|
+|03|17-04-20|[S.PowerShell](S.PowerShell)                      | Projet PowerShell => Projet Personnel |                  |
+|02|17-04-20|[P.Projets](P.Projets/.scripts/Participation.md)  | Projet Personnel en Python            |                  |
+|01|31-03-20|[7.BFS](7.BFS/.scripts/Participation.md)          | Breadth First Search                  | :octocat: Actions|
 
 :x: Avant travail à la maison
 
