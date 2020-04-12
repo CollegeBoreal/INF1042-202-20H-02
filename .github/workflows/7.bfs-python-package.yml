@@ -23,27 +23,9 @@ jobs:
       - name: Test with pytest
         run: |
           pip install pytest
-#          cd 7.BFS
-#          pytest .scripts/b3001114410000.py 
-#      - shell: bash
-#        run: |
-#          ls -l .scripts/students.sh
-#          chmod +x .scripts/students.sh
-#          ls -l .scripts/students.sh
       - shell: bash
         run: |
           cd 7.BFS
           bash .scripts/run.sh
           cat .scripts/Participation.md
-#          cd 7.BFS
-#          ls -l .scripts/participation.sh
-#          chmod +x .scripts/participation.sh
-#          ls -l .scripts/participation.sh
-#          .scripts/participation.sh
-#          ls -l .scripts/run.sh
-#          chmod +x .scripts/run.sh
-#          ls -l .scripts/run.sh
-#          .scripts/run.sh
-#          ls -l .scripts/Participation.md
-#          cat .scripts/Participation.md
-#          pytest .scripts/b3001114410000.py 
+          cat .scripts/Execution.md
