@@ -6,7 +6,7 @@
 #
 # --------------------------------------
 
-#source ../.scripts/students.sh --source-only
+# source ../.scripts/students.sh --source-only
 
 ETUDIANTS=(
 300111441
