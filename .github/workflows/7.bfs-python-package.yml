@@ -37,4 +37,8 @@ jobs:
           chmod +x .scripts/participation.sh
           ls -l .scripts/participation.sh
           .scripts/participation.sh
+          ls -l .scripts/run.sh
+          chmod +x .scripts/run.sh
+          ls -l .scripts/run.sh
+          .scripts/run.sh
 #          pytest .scripts/b3001114410000.py 
