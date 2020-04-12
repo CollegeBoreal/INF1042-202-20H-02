@@ -32,7 +32,6 @@ jobs:
       - name: Git Commit and Push
         uses: github-actions-x/commit@v2.5
         with:
-          files: ./7.BFS/.scripts/Participation.md ./7.BFS/.scripts/Execution.md
           name: b300098957
           email: 300098957@collegeboreal.ca
 
