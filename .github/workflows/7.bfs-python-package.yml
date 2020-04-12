@@ -9,4 +9,4 @@ jobs:
     steps:
       - shell: bash
         run: |
-           echo "Ciao"
+           ls . && echo "Ciao"
