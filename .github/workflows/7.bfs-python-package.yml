@@ -1,0 +1,40 @@
+name: Share data between jobs
+
+on: [push]
+
+jobs:
+  run-script:
+    name: Run script
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: [3.5, 3.6, 3.7, 3.8]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+      - name: Test with pytest
+        run: |
+          pip install pytest
+#          cd 7.BFS
+#          pytest .scripts/b3001114410000.py 
+      - shell: bash
+        run: |
+          ls -l .scripts/students.sh
+          chmod +x .scripts/students.sh
+          ls -l .scripts/students.sh
+      - shell: bash
+        run: |
+          cd 7.BFS
+          ls -l .scripts/run.sh
+          chmod +x .scripts/run.sh
+          ls -l .scripts/run.sh
+          .scripts/run.sh
+#          pytest .scripts/b3001114410000.py 

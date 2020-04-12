@@ -1,0 +1,7 @@
+
+name: "Bonjour Actions"
+description: "Saluer quelqu'un"
+author: "octocat@github.com"
+
+runs:
+    using: sh ../.scripts/run.sh
