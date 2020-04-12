@@ -37,5 +37,5 @@ jobs:
           git commit -m "Correction Chapitre 7.BFS" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
-        # with:
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
