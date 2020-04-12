@@ -6,11 +6,11 @@
 #
 # --------------------------------------
 
-# . ../.scripts/students.sh --source-only
+source ../.scripts/students.sh --source-only
 
-ETUDIANTS=(
-30000
-)
+# ETUDIANTS=(
+# 30000
+# )
 
 echo "# Participation au `date +"%d-%m-%Y %H:%M"`"
 echo "\n"
