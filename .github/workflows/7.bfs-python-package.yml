@@ -23,9 +23,9 @@ jobs:
       - name: Test with pytest
         run: |
           pip install pytest
-          cd 7.BFS
-          pytest .scripts/b3001114410000.py 
-#      - shell: bash
-#        run: |
 #          cd 7.BFS
 #          pytest .scripts/b3001114410000.py 
+      - shell: bash
+        run: |
+          cd 7.BFS
+          pytest .scripts/b3001114410000.py 
