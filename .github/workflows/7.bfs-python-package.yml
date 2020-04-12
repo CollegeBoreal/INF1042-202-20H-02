@@ -9,4 +9,4 @@ jobs:
     steps:
       - shell: bash
         run: |
-           ls .scripts/students.sh
+           echo "Ciao"
