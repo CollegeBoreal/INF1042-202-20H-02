@@ -1,4 +1,4 @@
-# Participation au [12-04-2020 17:25] UTC
+# Participation au [12-04-2020 17:27] UTC
  
  
 | Table des matières            | Description                                             |
@@ -33,12 +33,16 @@
 | 14 | [300117806](../b300117806.py) | [:heavy_check_mark:](Execution.md#etudiant-300117806) |
 | 15 | [300118196](../b300118196.py) | [:heavy_check_mark:](Execution.md#etudiant-300118196) |
 | 16 | [300118524](../b300118524.py) | [:heavy_check_mark:](Execution.md#etudiant-300118524) |
-\n## Légende\n
+ 
+## Légende
+ 
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :tada:             | S'est bien éxécuté            |
 | :x:                | A un problème dans le code    |
-\n## :b: Précision\n
+ 
+## :b: Précision
+ 
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
 | 1 | [300111441](../b300111441.py) | [:tada:](Execution.md#etudiant-300111441) |
