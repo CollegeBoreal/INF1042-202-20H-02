@@ -29,9 +29,12 @@ jobs:
           bash .scripts/run.sh
           cat .scripts/Participation.md
           cat .scripts/Execution.md
-      - name: Git Commit and Push
-        uses: github-actions-x/commit@v2.5
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          name: b300098957
-          email: 300098957@collegeboreal.ca
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
