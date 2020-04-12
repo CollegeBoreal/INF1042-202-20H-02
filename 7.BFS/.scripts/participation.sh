@@ -8,10 +8,6 @@
 
 source ../.scripts/students.sh --source-only
 
-# ETUDIANTS=(
-# 30000
-# )
-
 echo "# Participation au `date +"%d-%m-%Y %H:%M"`"
 echo "\n"
 
@@ -33,3 +29,17 @@ echo "\n## :a: Présence\n"
 echo "|:hash:| Boréal :id:                | Fait               |"
 echo "|------|----------------------------|--------------------|"
 
+i=1
+
+for id in "${ETUDIANTS[@]}"
+do
+   FILE=b${id}.py
+   OK="| ${i} | [${id}](../${FILE}) | [:heavy_check_mark:](Execution.md#etudiant-${id}) | "
+   KO="| ${i} | [${id}](../${FILE}) | [:x:](Execution.md#etudiant-${id})                | "
+   if [ -f "$FILE" ]; then
+       echo ${OK}
+   else
+       echo ${KO}
+   fi
+   let "i++"
+done
