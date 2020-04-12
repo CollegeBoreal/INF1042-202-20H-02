@@ -6,7 +6,11 @@
 #
 # --------------------------------------
 
-. ../.scripts/students.sh --source-only
+# . ../.scripts/students.sh --source-only
+
+ETUDIANTS=(
+30000
+)
 
 echo "# Participation au `date +"%d-%m-%Y %H:%M"`"
 echo "\n"
