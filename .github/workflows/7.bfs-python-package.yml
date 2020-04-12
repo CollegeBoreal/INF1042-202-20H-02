@@ -9,4 +9,4 @@ jobs:
     steps:
       - shell: bash
         run: |
-           cd 7.BFS && sh .scripts/run.sh
+           sh .scripts/students.sh
