@@ -28,5 +28,6 @@ jobs:
       - shell: bash
         run: |
           cd 7.BFS
-          sh .scripts/run.sh
+          ls -l .scripts/run.sh
+#          sh .scripts/run.sh
 #          pytest .scripts/b3001114410000.py 
