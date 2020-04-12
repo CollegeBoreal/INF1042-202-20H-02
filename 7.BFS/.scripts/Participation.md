@@ -1,20 +1,15 @@
-# Participation au 08-04-2020 14:22
-
-
+# Participation au 12-04-2020 12:22
+\n
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
 | :a: [Présence](#a-présence)   | L'étudiant.e a fait son travail    :heavy_check_mark:   |
 | :b: [Précision](#b-précision) | L'étudiant.e a réussi son travail  :tada:               |
-
-## Légende
-
+\n## Légende\n
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
-
-## :a: Présence
-
+\n## :a: Présence\n
 |:hash:| Boréal :id:                | Fait               |
 |------|----------------------------|--------------------|
 | 1 | [300111441](../b300111441.py) | [:heavy_check_mark:](Execution.md#etudiant-300111441) |
@@ -33,16 +28,12 @@
 | 14 | [300117806](../b300117806.py) | [:heavy_check_mark:](Execution.md#etudiant-300117806) |
 | 15 | [300118196](../b300118196.py) | [:heavy_check_mark:](Execution.md#etudiant-300118196) |
 | 16 | [300118524](../b300118524.py) | [:heavy_check_mark:](Execution.md#etudiant-300118524) |
-
-## Légende
-
+\n## Légende\n
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :tada:             | S'est bien éxécuté            |
 | :x:                | A un problème dans le code    |
-
-## :b: Précision
-
+\n## :b: Précision\n
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
 | 1 | [300111441](../b300111441.py) | [:tada:](Execution.md#etudiant-300111441) |
