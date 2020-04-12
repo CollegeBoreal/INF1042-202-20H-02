@@ -8,7 +8,7 @@
 
 source ../.scripts/students.sh --source-only
 
-echo "# Participation au [`date +"%d-%m-%Y %H:%M"`] UTC"
+echo "# Participation au `date +"%d-%m-%Y %H:%M"` UTC"
 echo " "
 echo " "
 echo "| Table des matières            | Description                                             |"
