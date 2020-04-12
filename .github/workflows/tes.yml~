@@ -1,0 +1,41 @@
+name: Share data between jobs
+
+on: [push]
+
+jobs:
+  run-script:
+    name: Run script
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: [3.8]
+        # python-version: [3.5, 3.6, 3.7, 3.8]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+      - name: Test with pytest
+        run: |
+          pip install pytest
+      - shell: bash
+        run: |
+          cd 7.BFS
+          bash .scripts/run.sh
+          cat .scripts/Participation.md
+          cat .scripts/Execution.md
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Correction Chapitre 7.BFS" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
