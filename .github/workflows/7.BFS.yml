@@ -1,9 +1,0 @@
-name: 7.BFS Tester les scripts Python
-on: push
-jobs:
-  build:
-    name: 7.BFS Algorithme en Python
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: ./7.BFS/.scripts
