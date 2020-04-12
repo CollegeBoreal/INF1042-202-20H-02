@@ -31,3 +31,5 @@ jobs:
       run: |
         pip install pytest
         # pytest
+    - name: Moving build to artifacts directory
+      run: cd 7.BFS && sh ./scripts/run.sh
