@@ -9,4 +9,4 @@ jobs:
     steps:
       - shell: bash
         run: |
-           sh .scripts/students.sh
+           ls .scripts/students.sh
