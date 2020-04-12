@@ -9,4 +9,4 @@ jobs:
     steps:
       - shell: bash
         run: |
-           ls . && echo "Ciao"
+            DIR=`ls .` && echo $DIR
