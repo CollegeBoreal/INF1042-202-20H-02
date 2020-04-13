@@ -7,7 +7,7 @@ Le Python Turtle Graphic est un programme qui va s'ouvrir en dehors de Spider (j
 
 
 
-<img src="turtle1.png" witdth="400" height="400"></img>
+<html img src="turtle1.png" witdth="400" height="400"></img>
 
 Le module tortue est un module intégré en python.
 Il est utilisé pour créer des formes et des dessins 2D de base. Je le trouve convivial pour les débutants. Les principaux avantages de la tortue ici sont plusieurs : le graphique est simple et rend très facile les dessins à l'écran. Une fonction permet de faire bouger la tortue grâce à son écran.
@@ -32,7 +32,7 @@ Pour remplir des formes, nous devons utiliser .begin_fill () pour commencer le r
 Le module tortue nous permet de détecter quand l'utilisateur a appuyé sur certaines touches du clavier ou déplacé / cliqué la souris. Chaque fois que l'utilisateur effectue une action en tant que telle, elle est appelée un événement. Nous pouvons écouter les événements et déclencher des fonctions à exécuter si nous «entendons» l'événement.
 
 
-<img src="TURTLE2.png" witdth="400" height="400"></img>
+<html img src="TURTLE2.png" witdth="400" height="400"></img>
 
 
 Événements de souris :
@@ -61,6 +61,6 @@ def main():
 
 
 
-<img src="turtle3.png" witdth="400" height="400"></img>
+<html img src="turtle3.png" witdth="400" height="400"></img>
 
 
