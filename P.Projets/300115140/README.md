@@ -32,7 +32,7 @@ Pour remplir des formes, nous devons utiliser .begin_fill () pour commencer le r
 Le module tortue nous permet de détecter quand l'utilisateur a appuyé sur certaines touches du clavier ou déplacé / cliqué la souris. Chaque fois que l'utilisateur effectue une action en tant que telle, elle est appelée un événement. Nous pouvons écouter les événements et déclencher des fonctions à exécuter si nous «entendons» l'événement.
 
 
-<img src="turtle2.png" witdth="921" height="808"></img>
+<img src="TURTLE2.png" witdth="400" height="400"></img>
 
 
 Événements de souris :
@@ -58,4 +58,9 @@ def main():
     turtle.onscreenclick(clickRight, 3)
 
     screen.mainloop()
+
+
+
+<img src="turtle3.png" witdth="400" height="400"></img>
+
 
