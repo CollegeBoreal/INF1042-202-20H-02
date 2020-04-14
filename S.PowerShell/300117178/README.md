@@ -1,7 +1,7 @@
 # :star: APPRENDRE LE POWERSHELL
 ## :one: le fichier *id.structure* fait:
-* cree des variable grace a la syntaxe $ma_variable
+* cree des variable grace a la syntaxe **$ma_variable**
 * **Clear-Host** pour effacer l'ecran.
-* **switch** qui enumere plusieur cas et <em>**default** qui le cas principal si aucune autre est vrai</em>.
+* **switch** qui enumere plusieur cas et <em> **default** qui est le cas principal si aucune autre est vrai</em>.
 
 
