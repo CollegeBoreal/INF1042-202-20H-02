@@ -1,7 +1,7 @@
 <h1>mon projet</h1>
 exemple de thème ludique :apple:
 <h2>TP_Casino</h2> :o:
-<img src = "/image/casino.jpg", width = 50 , height = 40>
+<img src = "/image/realistic-casino-background_52683-8948.jpg", width = 50 , height = 40>
 ## :pushpin: VU GENERAL
 Bon, la roulette, c'est très sympathique comme jeu :
 Le joueur mise sur un numéro compris entre 0 et 49 (50 numéros en tout). En choisissant son numéro, il y dépose la somme qu'il souhaite miser.
