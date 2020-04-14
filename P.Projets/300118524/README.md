@@ -47,7 +47,7 @@ time.sleep(le nombre de seconde)
 * si le nombre d'essaie est > 0 alors le jeu continue
 * si le nombre d'essaie est == 0 alors vous avez échoué
 
-:five: DEMANDE AU JOUEUR DE DEVINER
+:five: DEMANDE AU JOUEUR DE DEVINER :pencil:
 * pour ce faire on demande au joueur de rentrer un caractère qu'il devine
 ```
 dévine = input(str())
