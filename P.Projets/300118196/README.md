@@ -1,12 +1,13 @@
 <h1>mon projet</h1>
 exemple de thème ludique :apple:
 <h2>TP_Casino</h2> :o:
-<img src = "/image/realistic-casino-background_52683-8948.jpg", width = 110px , height = 100px ></img>
-## :pushpin: VU GENERAL
+<img src = "/image/realistic-casino-background_52683-8948.jpg", width = 110px , height = 100p ></img>
+
+##:pushpin: VU GENERAL
 Bon, la roulette, c'est très sympathique comme jeu :
 Le joueur mise sur un numéro compris entre 0 et 49 (50 numéros en tout). En choisissant son numéro, il y dépose la somme qu'il souhaite miser.
 
-## :pushpin: Vu technique
+##:pushpin: Vu technique
 La roulette est constituée de 50 cases allant naturellement de 0 à 49. 
 
 Les numéros pairs sont de couleur noire, les numéros impairs sont de couleur rouge. Le croupier lance la roulette, lâche la bille et quand la roulette s'arrête, relève le numéro de la case dans laquelle la bille s'est arrêtée. Dans notre programme, nous ne reprendrons pas tous ces détails « matériels » mais ces explications sont aussi à l'intention de ceux qui ont eu la chance d'éviter les salles de casino jusqu'ici. Le numéro sur lequel s'est arrêtée la bille est, naturellement, le numéro gagnant.
