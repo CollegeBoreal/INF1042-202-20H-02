@@ -26,7 +26,7 @@ time.sleep(le nombre de seconde)
 ```
 
 
-:one: DÉTERMINATION DU NOMBRE D'ESSAI
+:c: DÉTERMINATION DU NOMBRE D'ESSAI
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
 
