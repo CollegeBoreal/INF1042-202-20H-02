@@ -2,151 +2,68 @@
 """
 Created on Sun Mar 22 14:49:37 2020
 
-@author: Hassana
+@author: 300117806
 """
 
-#Tournoi entre 10 personnages de 3 classes diffÃ©rentes : guerrier, nain et mage
+# Le jeu possède 4 règles :
+
+# 1. Le Joueur 1 choisit un nombre entre 1 et Nmax
+# 2. A tour de rôle, chaque joueur doit choisir un nombre parmi les multiples
+#    ou les diviseurs du nombre choisi précédemment par son adversaire
+#    et inférieur à Nmax.
+# 3. Un nombre ne peut être joué qu'une seule fois.
+# 4. Le premier nombre choisi doit être pair.
+
+# Le perdant est le joueur qui ne trouve plus de multiples ou de diviseurs
+# communs au nombre précédemment choisi.
 
 from random import randint
 
-# ------------------------- classe personnage --------------------------
-    
-class Personnage:
-    def __init__(self,nom,force,vie):
-        self._nom = nom
-        self._force_init = force        # points de force au dÃ©part
-        self._vie_init = vie            # points de vie au dÃ©part
-        self._force = force
-        self._vie = vie
-        self._victoires = 0             # nommbre de victoires
-        
-    def renaitre(self):
-        self._force = self._force_init
-        self._vie = self._vie_init
-        
-    def getNom(self) : return self._nom
-    
-    def getForce(self) : return self._force
-    
-    def getVie(self) : return self._vie
-    
-    def changeForce(self,combien) :
-        self._force += combien
-        
-    def changeVie(self,combien) :
-        self._vie += combien
+def multiples(n):
+    #renvoie la liste des multiples de n <= Nmax
+    mult=[]
+    i=2
+    while i*n <= Nmax :
+        if i*n in possibles:    # on l'ajoute seulement s'il n'a pas été joué
+            mult.append(i*n)
+        i += 1
+    return mult
 
-    def getVictoires(self) : return self._victoires
-
-    def incr_victoires(self) :
-        self._victoires += 1
-        
-# --------------------------- classe guerrier ------------------------
-    
-class Guerrier(Personnage):
-    def __init__(self,nom,force,vie):
-        Personnage.__init__(self,nom,force,vie)
-        
-    def attaquer(self,qui):
-        if self._force>0:
-            qui.changeVie(-randint(0,self._force))
-        
-# ---------------------------- classe nain ---------------------------
-    
-class Nain(Personnage):
-    def __init__(self,nom,force,vie):
-        Personnage.__init__(self,nom,force,vie)
-        
-    def attaquer(self,qui):
-        qui.changeVie(-2)
-        if self._force>0:
-            qui.changeForce(-randint(0,self._force))
-
-# ---------------------------- classe mage ----------------------------
-
-class Mage(Personnage):
-    def __init__(self,nom,force,vie,mana):
-        Personnage.__init__(self,nom,force,vie)
-        self._mana_init = mana
-
-    def renaitre(self):
-        Personnage.renaitre(self)
-        self._mana = self._mana_init
-        
-    def getMana(self) : return self._mana
-    
-    def attaquer(self,qui):
-        if self._force>0:
-            qui.changeVie(-randint(0,self._force)*self._mana)
-
-    
-# personnages
-        
-Merlin = Mage("Merlin",15,15,1)
-Gandalf = Mage("Gandalf",10,10,2)
-Saroumane= Mage("Saroumane",8,10,3)
-
-Duroc = Guerrier("Duroc",15,15)
-Nerosson = Guerrier("Nerosson",25,6)
-GrosBill = Guerrier("Gros Bill",20,9)
-Highlander = Guerrier("Highlander",9,30)
-
-Gimli = Nain("Gimli",25,8)
-Fridli = Nain("Fridli",8,12)
-Heidi = Nain("Heidi",12,10)
+def diviseurs(n):
+    #renvoie la liste des diviseurs de n
+    div = []
+    i=n
+    while i >= 1:
+        if n%i == 0 and n//i in possibles:    # on l'ajoute s'il n'a pas été joué
+            div.append(n//i)
+        i-=1
+    return div
 
 
-# combats
-# chaque combat a lieu deux fois pour Ã©viter une influence du 1er coup
-def combattre(lui,moi):
-    lui.renaitre()
-    moi.renaitre()
-    # print(lui.getNom(),"contre",moi.getNom(),end=" : ")
-    while lui.getVie()>0 and moi.getVie()>0 :
-        lui.attaquer(moi)
-        if lui.getVie()<=0:
-            # print(moi.getNom(), "a gagnÃ©")
-            moi.incr_victoires()
-        if moi.getVie()<=0:
-            # print(lui.getNom(), "a gagnÃ©")
-            lui.incr_victoires()
-        if moi.getVie()>0 :
-            moi.attaquer(lui)
-            if lui.getVie()<=0:
-                # print(moi.getNom(), "a gagnÃ©")
-                moi.incr_victoires()
-            if moi.getVie()<=0:
-                # print(lui.getNom(), "a gagnÃ©")
-                lui.incr_victoires()
+Nmax = 20
+possibles = list(range(1,Nmax+1))   # liste des nombres pas encore utilisés
+mon_nombre=2*randint(1,Nmax/2)      # l'ordinateur choisit un nombre pair
+possibles.remove(mon_nombre)        # on enlèvera de la liste "possibles" tous les nombres joués
 
+# Début du jeu
 
-# tournoi
-
-concurrents=[Merlin, Gandalf, Saroumane, Duroc, Nerosson, GrosBill, Highlander, Gimli, Fridli, Heidi]
-for i in range(500):
-    for lui in concurrents:
-        for moi in concurrents:
-            if moi != lui:
-                combattre(lui,moi)
-
-# trier les rÃ©sultats
-
-def swap(l,i,j):
-    # echange 2 valeurs d'une liste
-    t=l[i]
-    l[i]=l[j]
-    l[j]=t
-
-
-for i in range(len(concurrents)-1):
-    maxi=i
-    for j in range(i+1,len(concurrents)):
-        if concurrents[j].getVictoires()>concurrents[maxi].getVictoires(): maxi=j
-    swap(concurrents,i,maxi)
-
-# Ã©crire les rÃ©sultats
-print()
-print("RÃ©sultats")
-print()
-for lui in concurrents:
-    print(lui.getNom(),":", lui.getVictoires(),"victoires")
+print("Jouons avec des nombres entre 1 et",Nmax)
+print("Je choisis comme nombre de départ",mon_nombre)
+valides = diviseurs(mon_nombre) + multiples(mon_nombre)
+while valides != []:
+    print("Nombres valides :",valides)
+    ton_nombre=int(input("Que jouez-vous ? "))
+    while ton_nombre not in valides:
+        ton_nombre=int(input("Incorrect. Que jouez-vous ? "))
+    possibles.remove(ton_nombre)
+    valides = diviseurs(ton_nombre) + multiples(ton_nombre)
+    if valides == []:
+        print("Bravo!")
+    else:
+        mon_nombre = valides[randint(0,len(valides)-1)]
+        print("Nombres valides :",valides)
+        print("Je joue",mon_nombre)
+        possibles.remove(mon_nombre)        
+        valides = diviseurs(mon_nombre) + multiples(mon_nombre)
+        if valides == []:
+            print("Vous avez perdu!")
