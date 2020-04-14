@@ -34,9 +34,9 @@ $ touch b300098957.py
 
 |:hash:| Boréal :id:                | Fait               | Substitut    | 
 |------|----------------------------|--------------------|-----|
-| 5 | [300116670](300116670/b300116670.py) | [:+1:] |[:heavy_check_mark:](../S.PowerShell/300116670/b300116670-structure.ps1)| 
+| 5 | [300116670](300116670/b300116670.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300116670/b300116670-structure.ps1)| 
 | 6 | [300116685](300116685/b300116685.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300116685/b300116685-structure.ps1)| 
 | 8 | [300117178](300117178/b300117178.py) | [:+1:] |[:heavy_check_mark:](../S.PowerShell/300117178/b300117178-structure.ps1)| 
 | 11 | [300117705](300117705/b300117705.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300117705/b300117705-structure.ps1)| 
-| 12 | [300117782](300117782/b300117782.py) | [:+1:] |[:heavy_check_mark:](../S.PowerShell/300117782/b300117782-structure.ps1)| 
+| 12 | [300117782](300117782/b300117782.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300117782/b300117782-structure.ps1)| 
 | 13 | [300117784](300117784/b300117784.py) | [:+1:] |[:heavy_check_mark:](../S.PowerShell/300117784/b300117784-structure.ps1)| 
