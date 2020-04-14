@@ -18,7 +18,7 @@
 
 :one: CRÉATION D'UNE LISTE DE MOT :globe_with_meridians:
 * avec [ ]
-* ensuite pour que les mots soit choisi de manière aléatoire, on utilise le module random
+* ensuite pour que les mots soit choisi de manière aléatoire, on utilise le module random :slot_machine:
 
 et ça donne 
 ```
