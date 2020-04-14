@@ -46,3 +46,5 @@ dévine = input(str())
 ```
 devine[ 0 ]
 ```
+
+<img src="capture.png" width="580" height="341"></img>
