@@ -1,5 +1,5 @@
 # PROJET DE FIN DE SESSION HIVER 2020 INTRODUCTION À LA PROGRAMMATION
-* PROJET FUN SUR LA CRÉATION DU JEU DU PENDU
+* (PROJET FUN SUR LA CRÉATION DU JEU DU PENDU)
 * EN QUOI CONSISTE CE JEU
 * Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
@@ -31,7 +31,7 @@ time.sleep(le nombre de seconde)
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
 
-* grâce à "len"
+* grâce à ("len")
 
 :four: CRÉATION D'UNE BOUCLE WHILE
 * si le nombre d'essaie est > 0 alors le jeu continue
