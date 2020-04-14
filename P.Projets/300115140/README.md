@@ -7,7 +7,7 @@ Le Python Turtle Graphic est un programme qui va s'ouvrir en dehors de Spider (j
 
 
 
-<html img src="turtle1.png" witdth="400" height="400"></img>
+<img src="images/turtle1.png" witdth="400" height="400"></img>
 
 Le module tortue est un module intégré en python.
 Il est utilisé pour créer des formes et des dessins 2D de base. Je le trouve convivial pour les débutants. Les principaux avantages de la tortue ici sont plusieurs : le graphique est simple et rend très facile les dessins à l'écran. Une fonction permet de faire bouger la tortue grâce à son écran.
