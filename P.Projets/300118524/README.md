@@ -64,6 +64,6 @@ devine[ 0 ]
 
 :-1: QUAND VOUS ÉCHOUÉ À TROUVER LE MOT
 
-<img src="images/Capture d’écran, le 2020-04-14 à 09.59.27.png" width="580" height="341"></img>
+<img src="images/Capture d’écran, le 2020-04-14 à 10.08.34.png" width="580" height="341"></img>
 
 :end:
