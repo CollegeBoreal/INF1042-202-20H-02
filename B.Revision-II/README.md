@@ -21,7 +21,9 @@
 
 - Boucles (`while`, `for`)
 
-## :star: Algorithmes sur les graphes
+## :star: Algorithmes sur les graphes 
+
+:round_pushpin: Chapitres 6 et 7
 
 - [ ] BFS - Sans poids
 
