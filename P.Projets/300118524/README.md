@@ -4,6 +4,8 @@
 
 Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
+:eyes:
+
 <img src="Capture d’écran, le 2020-04-14 à 08.45.39.png" width="580" height="341"></img>
 
 
