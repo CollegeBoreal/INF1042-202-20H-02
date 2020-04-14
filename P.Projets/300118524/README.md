@@ -33,4 +33,16 @@ time.sleep(le nombre de seconde)
 
 * grâce à "len"
 
-:four: CRÉATION
+:four: CRÉATION D'UNE BOUCLE WHILE
+* si le nombre d'essaie est > 0 alors le jeu continue
+* si le nombre d'essaie est == 0 alors vous avez échoué
+
+:five: DEMANDE AU JOUEUR DE DEVINER
+* pour ce faire on demande au joueur de rentrer un caractère qu'il devine
+```
+dévine = input(str())
+```
+* pour éviter de prendre plus qu'un caractère on a 
+```
+devine[ 0 ]
+```
