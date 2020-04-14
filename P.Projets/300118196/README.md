@@ -1,8 +1,8 @@
-<h1>mon projet</h1>
+<h1>mon projet :o:</h1>
 exemple de thème ludique :apple:
-<h2>TP_Casino</h2>:o:
+<h2>TP_Casino</h2>
 
-![casino](image/realistic-casino-background_52683-8948.jpg, witdth="400" height="400")
+![casino](image/realistic-casino-background_52683-8948.jpg)
 
 ## :pushpin: VU GENERAL
 
