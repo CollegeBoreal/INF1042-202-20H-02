@@ -11,7 +11,7 @@ Created on Wed Apr  8 14:31:36 2020
 import random
 
 #création de la liste des mots que comporte le jeu
-dictionnaire_du_jeu = ["appel", "jeu", "python", "programmation","boreal"]
+dictionnaire_du_jeu = ["jeu", "mot"]
 
 #importation du module horaire
 import time
@@ -61,7 +61,7 @@ while tours > 0:
         #augmenter le compteur échec avec un
             echec += 1    
 
-    # i si échec est égal à zéro
+    # si échec est égal à zéro
     # imprimer "Félicitations"
     if echec == 0:        
         print ("Félicitations ") 
