@@ -25,7 +25,7 @@
 
 - [ ] BFS - Sans poids
 
-- [ ] Dijkstra - EIGRP - SPF (Shortest Path First) - Poids Positif
+- [ ] Dijkstra - EIGRP - SPF (Shortest Path First) - Poids Positifs uniquement
 
 - [ ] Bellman Ford - Poids Negatifs
 
