@@ -3,7 +3,7 @@
 
 :speech_balloon: EN QUOI CONSISTE CE JEU :speech_balloon:
 
-Le but du jeu est de trouver un mot en devinant les lettres qui le composent
+:exclamation: Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
 :video_game: :eyes:
 
