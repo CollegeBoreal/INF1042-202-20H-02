@@ -3,7 +3,6 @@
 * EN QUOI CONSISTE CE JEU
 * Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
-% b
 
 :x: LES DIFFÉRENTES PARTIES QUI CONSTITUENT CE JEU DE PENDU :x:
 
@@ -32,4 +31,6 @@ time.sleep(le nombre de seconde)
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
 
-$ len
+* grâce à "len"
+
+:four: CRÉATION
