@@ -29,4 +29,13 @@
 
 - [ ] Bellman Ford - Poids Negatifs
 
+## :star: Big O Notation
+
+- [ ] O(1)
+
+- [ ] O(log n)
+
+- [ ] O(n^2)
+
+- [ ] O(n!)
 
