@@ -6,8 +6,20 @@
 :two: LES DIFFÉRENTES PARTIES QUI CONSTITUENT CE JEU DE PENDU
 
 :a: CRÉATION D'UNE LISTE DE MOT
-* avec []
-* ensuite pour que les mots soit choisi de manière aléatoire, on utilise
+* avec [ ]
+* ensuite pour que les mots soit choisi de manière aléatoire, on utilise le module random
+
+et ça donne 
 ```
 import random
+a = ["", "", ""]
+b = random.choice(a)
 ```
+
+:b: LA GESTION DU TEMPS POUR CONTRÔLER LE FLUX D'INFORMATIONS QU'ON TRANSMET AU JOUEUR
+* Avec le module time
+
+et ça donne
+```
+import time
+time.sleep(le nombre de seconde)
