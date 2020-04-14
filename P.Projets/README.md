@@ -39,4 +39,4 @@ $ touch b300098957.py
 | 8 | [300117178](300117178/b300117178.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300117178/b300117178-structure.ps1)| 
 | 11 | [300117705](300117705/b300117705.py) | [:x:] |     |
 | 12 | [300117782](300117782/b300117782.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300117782/b300117782-structure.ps1)| 
-| 13 | [300117784](300117784/b300117784.py) | [:x:] |[:heavy_check_mark:](../S.PowerShell/300117784/b300117784-structure.ps1)| 
+| 13 | [300117784](300117784/b300117784.py) | [:+1:] |[:heavy_check_mark:](../S.PowerShell/300117784/b300117784-structure.ps1)| 
