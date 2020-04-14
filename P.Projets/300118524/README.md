@@ -23,6 +23,8 @@ et ça donne
 ```
 import time
 time.sleep(le nombre de seconde)
+```
+
 
 :b: DÉTERMINATION DU NOMBRE D'ESSAI
 
