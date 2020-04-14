@@ -24,7 +24,7 @@ PS > choco install vscode
 - [ ] installer Visual Studio Code
 
 ```
-$ brew cas install vscode
+$ brew cas install visual-studio-code
 ```
 
 - [ ] installer PowerShell
