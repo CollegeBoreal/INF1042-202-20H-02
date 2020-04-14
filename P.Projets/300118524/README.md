@@ -1,5 +1,6 @@
-# PROJET DE FIN DE SESSION HIVER 2020 INTRODUCTION À LA PROGRAMMATION
+# :rotating_light: PROJET DE FIN DE SESSION HIVER 2020 INTRODUCTION À LA PROGRAMMATION :rotating_light:
 * PROJET FUN SUR LA CRÉATION DU JEU DU PENDU
+
 :speech_balloon: EN QUOI CONSISTE CE JEU :speech_balloon:
 
 Le but du jeu est de trouver un mot en devinant les lettres qui le composent
@@ -42,7 +43,7 @@ time.sleep(le nombre de seconde)
 
 * grâce à ("len")
 
-:four: CRÉATION D'UNE BOUCLE WHILE
+:four: CRÉATION D'UNE BOUCLE WHILE :loop:
 * si le nombre d'essaie est > 0 alors le jeu continue
 * si le nombre d'essaie est == 0 alors vous avez échoué
 
