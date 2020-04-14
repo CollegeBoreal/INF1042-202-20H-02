@@ -3,13 +3,13 @@
 
 ## :star: Structure de données: Graphes
 
-- Dictionnaire `hashtable` en Python
+- [X] Dictionnaire `hashtable` en Python
 
-- [ ] Noeuds et Arcs (liens)
+- [X] Noeuds et Arcs (liens)
 
-- [ ] DAG
+- [X] DAG
 
-- [ ] Poids
+- [X] Poids
 
 ## :star: Structure de données: Queues
 
@@ -21,7 +21,9 @@
 
 - Boucles (`while`, `for`)
 
-## :star: Algorithmes sur les graphes
+## :star: Algorithmes sur les graphes 
+
+:round_pushpin: Chapitres 6 et 7
 
 - [ ] BFS - Sans poids
 
