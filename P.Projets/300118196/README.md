@@ -2,7 +2,6 @@
 exemple de thème ludique :apple:
 <h2>TP_Casino</h2> :o:
 
-<img src = "/image/realistic-casino-background_52683-8948.jpg">
 
 ## :pushpin: VU GENERAL
 
@@ -44,3 +43,5 @@ N'hésitez pas à faire des tests dans l'interpréteur de commandes (vous n'avez
 ## :pushpin:Arrondir un nombre
 
 Vous l'avez peut-être bien noté, dans l'explication des règles je spécifiais que si le joueur misait sur la bonne couleur, il obtenait 50% de sa mise. Oui mais… c'est quand même mieux de travailler avec des entiers. Si le joueur mise 3$, par exemple, on lui rend 1,5$. C'est encore acceptable mais, si cela se poursuit, on risque d'arriver à des nombres flottants avec beaucoup de chiffres après la virgule. Alors autant arrondir au nombre supérieur. Ainsi, si le joueur mise 3$, on lui rend 2$. Pour cela, on va utiliser une fonction du module math nommée ceil. 
+
+<img src = "/image/realistic-casino-background_52683-8948.jpg">
