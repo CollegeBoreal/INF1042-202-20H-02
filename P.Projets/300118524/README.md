@@ -11,12 +11,12 @@
 
 <img src="Capture d’écran, le 2020-04-14 à 08.45.39.png" width="580" height="341"></img>
 
-:eyes: :play:
+:dash: :dash: :dash: :dash: :dash: :dash:
 
 
 :x: LES DIFFÉRENTES PARTIES QUI CONSTITUENT CE JEU DE PENDU :x:
 
-:one: CRÉATION D'UNE LISTE DE MOT
+:one: CRÉATION D'UNE LISTE DE MOT :globe_with_meridians:
 * avec [ ]
 * ensuite pour que les mots soit choisi de manière aléatoire, on utilise le module random
 
