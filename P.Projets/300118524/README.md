@@ -4,7 +4,7 @@
 
 Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
-:gaming:
+:video_game:
 
 :play:
 
