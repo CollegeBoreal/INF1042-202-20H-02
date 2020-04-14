@@ -1,7 +1,7 @@
 # :rotating_light: PROJET DE FIN DE SESSION HIVER 2020 INTRODUCTION À LA PROGRAMMATION :rotating_light:
 :fire: PROJET FUN SUR LA CRÉATION DU JEU DU PENDU :fire:
 
-:speech_balloon: EN QUOI CONSISTE CE JEU :speech_balloon:
+:speech_balloon: EN QUOI CONSISTE CE JEU :question:
 
 :exclamation: Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
