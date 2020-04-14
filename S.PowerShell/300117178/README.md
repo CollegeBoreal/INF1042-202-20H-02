@@ -8,5 +8,5 @@
 * appelle la function avec ces parametre
 * le **[CmdletBinding()]** pour le debogage <em> faite le suivi de vos modifications<em>
 ### <p>:o: *cool* </p> 
-<p>![is was funny](https://cdn4.iconfinder.com/data/icons/comic-colored/512/as_995-512.png)</p>
+![is was funny](https://cdn4.iconfinder.com/data/icons/comic-colored/512/as_995-512.png)
 
