@@ -11,7 +11,7 @@ Created on Wed Apr  8 14:31:36 2020
 import random
 
 #création de la liste des mots que comporte le jeu
-dictionnaire_du_jeu = ["jeu", "mot"]
+dictionnaire_du_jeu = ["jeu", "mot", "python", "programmation", "boreal", "projet", "pendu"]
 
 #importation du module horaire
 import time
