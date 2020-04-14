@@ -37,7 +37,7 @@ time.sleep(le nombre de seconde)
 ```
 
 
-:three: DÉTERMINATION DU NOMBRE D'ESSAI
+:three: DÉTERMINATION DU NOMBRE D'ESSAI :1234: :ballot_box_with_check:
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
 
