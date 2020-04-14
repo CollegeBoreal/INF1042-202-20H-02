@@ -2,7 +2,7 @@
 exemple de thème ludique :apple:
 <h2>TP_Casino</h2>:o:
 
-![casino](image/realistic-casino-background_52683-8948.jpg, width= 100 heigth = 200)
+![casino](image/realistic-casino-background_52683-8948.jpg, witdth="400" height="400")
 
 ## :pushpin: VU GENERAL
 
