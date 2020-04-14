@@ -1,7 +1,7 @@
 <h1>mon projet</h1>
 exemple de thème ludique :apple:
 <h2>TP_Casino</h2> :o:
-<img src = "/image/realistic-casino-background_52683-8948.jpg", width = 110px , height = 100p ></img>
+<img src = "/image/realistic-casino-background_52683-8948.jpg" alt="">
 
 ##:pushpin: VU GENERAL
 Bon, la roulette, c'est très sympathique comme jeu :
