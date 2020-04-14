@@ -7,6 +7,7 @@
 * cree une fonction avec des parametre.
 * appelle la function avec ces parametre
 * le **[CmdletBinding()]** pour le debogage <em> faite le suivi de vos modifications<em>
-### :o: <p>![hahahaa](https://i.pinimg.com/originals/5c/24/a9/5c24a90b412a5781178ae4b74cb15a8d.jpg)</p>
+### :o: <img  src="https://i.pinimg.com/736x/3f/ec/ca/3feccad300f1356887213ffedbf21928--funny-minion-minions.jpg" height: 115px,
+    width: 115px, alt="">
 
 
