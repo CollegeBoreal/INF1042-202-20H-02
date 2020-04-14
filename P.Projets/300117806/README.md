@@ -21,7 +21,7 @@ Je choisis comme nombre de départ 2
 
 Nombres valides: [1, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
-Que jouez-vous ? # 4 
+Que jouez-vous ? 4 
 
 Nombres valides: [1, 8, 12, 16, 20] 
 
@@ -29,7 +29,7 @@ Je joue 8
 
 Nombres valides: [1, 16]
 
-Que jouez-vous ? # 16 
+Que jouez-vous ? 16 
 
 Nombres valides: [1] 
 
@@ -37,8 +37,8 @@ Je joue 1
 
 Nombres valides: [3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20]
 
-Que jouez-vous ? # 11 
+Que jouez-vous ? 11 
 
 Bravo! 
 
-## Remarque : les nombres en gras ont été entrés au clavier par le joueur.
+## Remarque : les nombres en gras ont été entrés au clavier par le joueur: 4,16, ET 11
