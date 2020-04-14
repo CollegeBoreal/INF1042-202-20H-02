@@ -29,4 +29,4 @@ time.sleep(le nombre de seconde)
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
 
-! len
+$ len
