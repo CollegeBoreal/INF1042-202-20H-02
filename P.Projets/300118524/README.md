@@ -27,7 +27,7 @@ a = ["", "", ""]
 b = random.choice(a)
 ```
 
-:two: LA GESTION DU TEMPS POUR CONTRÔLER LE FLUX D'INFORMATIONS QU'ON TRANSMET AU JOUEUR
+:two: :clock1: LA GESTION DU TEMPS POUR CONTRÔLER LE FLUX D'INFORMATIONS QU'ON TRANSMET AU JOUEUR :clock130:
 * Avec le module time
 
 et ça donne
