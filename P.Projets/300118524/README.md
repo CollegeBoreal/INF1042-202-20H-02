@@ -25,8 +25,8 @@ import time
 time.sleep(le nombre de seconde)
 ```
 
-
 :c: DÉTERMINATION DU NOMBRE D'ESSAI
 
 * Dans notre jeu le nombre d'essai correspond à la longueur du mot à trouvé
+
 ! len
