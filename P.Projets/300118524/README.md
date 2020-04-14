@@ -2,6 +2,7 @@
 * PROJET FUN SUR LA CRÉATION DU JEU DU PENDU
 * EN QUOI CONSISTE CE JEU
 * Le but du jeu est de trouver un mot en devinant les lettres qui le composent
+
 $ b
 
 :x: LES DIFFÉRENTES PARTIES QUI CONSTITUENT CE JEU DE PENDU :x:
