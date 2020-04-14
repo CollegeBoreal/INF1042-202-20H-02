@@ -4,11 +4,9 @@
 
 Le but du jeu est de trouver un mot en devinant les lettres qui le composent
 
-:video_game:
+:video_game: :eyes:
 
-:play:
-
-:eyes: :games:
+:point_down:
 
 <img src="Capture d’écran, le 2020-04-14 à 08.45.39.png" width="580" height="341"></img>
 
