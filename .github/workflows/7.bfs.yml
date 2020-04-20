@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
       - name: Test with pytest
         run: |
-          pip install pytest
+          pip install --requirement requirements.txt
       - shell: bash
         run: |
           cd 7.BFS
