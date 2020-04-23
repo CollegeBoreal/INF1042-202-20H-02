@@ -84,6 +84,7 @@ Find your local number: https://collegeboreal.zoom.us/u/axPBnQGUF
 | Tutorials Point                 | [DSA](http://www.tutorialspoint.com/data_structures_algorithms)                  |
 | IDE                             | [GeeksForGeeks](https://ide.geeksforgeeks.org)                                   |
 | Python                          | https://www.geeksforgeeks.org/python-programming-language/                       |
+| Think Python                    | https://greenteapress.com/wp/think-python-2e/                                    |
 
 
 ### Example d'algorithmes:
